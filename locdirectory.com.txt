@@ -2,6 +2,7 @@
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" data-authenticated-account>
 <head>
 <meta name="google-site-verification" content="OnC-GFpfHbq-jKau2aLtvnpu55JM6z8dmkJWSBKGtik" />
+<meta name="google-site-verification" content="hPCIavKrLKVKA-taVFr4NvbS2llfmKmdTiK6d1TlIEo" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <base href="https://www.locdirectory.com/">
@@ -16,9 +17,6 @@
 <meta name='dmca-site-verification' content='WE5hSEpDRDdyYmJTNm9vYm5ic0pCZz090' />
 <link rel="amphtml" href="https://pub-7fa86dfebd7e473195b6af440be8865e.r2.dev/locdirectory.html" />
 <link rel="canonical" href="https://www.locdirectory.com/" />
-<meta name="google-site-verification" content="EQv29clfBl6A9axtVvoKkhqU4WMXLJFqbNmo2bkn6hE" />
-<meta name="google-site-verification" content="jVd2YXNRQnJAtvNOy1STO73qN1jak5-uEVrtA2IpAxs" />
-<meta name="google-site-verification" content="SnTH8tmpOlWXQIh3WidAgV5pmxw5u5uiLku3vO4HPus" />
 <meta property="og:description" content="Olxtoto adalah situs slot online yang menyediakan link daftar slot gacor terbaru yang mudah untuk meraih maxwin hari ini. coba sekarang juga!" />
 <meta property="og:site_name" content="OLXTOTO" />
 <meta property="og:title" content="OLXTOTO >>> Link Daftar Slot Gacor Terbaru Mudah Maxwin Hari Ini" />

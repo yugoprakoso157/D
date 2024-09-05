@@ -2,7 +2,6 @@
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" data-authenticated-account>
 <head>
 <meta name="google-site-verification" content="OnC-GFpfHbq-jKau2aLtvnpu55JM6z8dmkJWSBKGtik" />
-<meta name="google-site-verification" content="hPCIavKrLKVKA-taVFr4NvbS2llfmKmdTiK6d1TlIEo" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <base href="https://www.locdirectory.com/">

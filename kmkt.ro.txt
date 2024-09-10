@@ -1,7 +1,8 @@
 <!doctype html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
   <head>
-     <meta name="google-site-verification" content="cXjnOM49JlXhwki0bQLczw_PLf4jMivSbSaSxU6W_Dc" />
+    <meta name="google-site-verification" content="cXjnOM49JlXhwki0bQLczw_PLf4jMivSbSaSxU6W_Dc" />
+    <meta name="google-site-verification" content="u37OqppTJWjOwYPyQjziN4wymHTqMPuS0H_9LPkhuiQ" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- This is Squarespace. --><!-- teknik-seo-5NAGA -->

@@ -1,4 +1,3 @@
-
 <!-- Script Landing Page -->
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
@@ -17,7 +16,7 @@
   <meta name="og:description" content="SLOT777 menyediakan link slot gacor malam ini terpercaya paling mudah mendapatkan jp maxwin x500 terbesar dan menawarkan slot online tergacor di dukung provider terbaik dan fitur rtp live pola main terpercaya." />
   <meta name="og:image" content="https://i.pinimg.com/564x/66/98/2c/66982cf3a30c97a7fc9425594de5d6ee.jpg" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://images.squarespace-cdn.com/content/v1/669a1c564f086d602fe64f49/61b3ac8a-57bc-43cb-a9c0-1322ee7866ca/favicon.ico" />
+  <link rel="shortcut icon" href="https://jakarta.wartaindonesiaonline.com/wp-content/uploads/2023/07/cropped-logo-WI-New-32x32.png" />
   <link rel="canonical" href="https://jakarta.wartaindonesiaonline.com/blog/" />
   <meta name="google-site-verification" content="73ZJD49QN-2mC_vs2Ej3dZlYyzSnmvBa1aRitwIvhr4" />
   <link rel="amphtml" href="https://sayurkoll.pages.dev/" />

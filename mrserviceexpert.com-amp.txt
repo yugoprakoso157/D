@@ -6,9 +6,9 @@
       <meta name="description" content="OLXTOTO adalah situs bandar Slot Gacor terbaru hari ini yang menyediakan link permainan slot online terlengkap resmi gampang menang. coba sekarang juga!"/>
       <meta name="robots" content="index, follow"/>
       <meta name="theme-color" content="#ffffff"/> 
-      <link rel="canonical" href="https://www.mrserviceexpert.com/amp.html"/>
+      <link rel="canonical" href="https://www.mrserviceexpert.com/"/>
       <link rel="icon" type="image/x-icon" media="(prefers-color-scheme: dark)" href="https://goodimg.io/images/2024/06/26/dalam-3.md.png"/>
-      <meta property="og:url" content="https://www.mrserviceexpert.com/amp.html"/>
+      <meta property="og:url" content="https://www.mrserviceexpert.com/"/>
       <meta property="og:site_name" content="OLXTOTO"/>
       <meta property="og:image:alt" content="OLXTOTO"/>
       <meta property="og:image" content="https://goodimg.io/images/2024/08/27/slot-gacor-hari-ini-3.jpg"/>
@@ -26,7 +26,7 @@
            "@context": "https://schema.org",
            "@type": "Game",
            "name": "OLXTOTO",
-           "url": "https://www.mrserviceexpert.com/amp.html",
+           "url": "https://www.mrserviceexpert.com/",
            "image": "https://goodimg.io/images/2024/08/27/slot-gacor-hari-ini-3.jpg",
            "description": "OLXTOTO adalah situs bandar Slot Gacor terbaru hari ini yang menyediakan link permainan slot online terlengkap resmi gampang menang. coba sekarang juga!",
            "author": {
@@ -92,6 +92,6 @@
          </div>
          <br>
       </div>
-      <footer class="footer">COPYRIGHT - <a class="Olxtoto" href="https://www.mrserviceexpert.com/amp.html" title="OLXTOTO">OLXTOTO</a> OFFICIAL</footer>
+      <footer class="footer">COPYRIGHT - <a class="Olxtoto" href="https://www.mrserviceexpert.com/" title="OLXTOTO">OLXTOTO</a> OFFICIAL</footer>
    </body>
 </html>

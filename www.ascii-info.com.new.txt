@@ -398,35 +398,35 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "//",
+            "@id": "https://www.ascii-info.com/",
             "name": "SLOTGACOR"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "//",
+            "@id": "https://www.ascii-info.com/",
             "name": "Slot Gacor"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "//",
+            "@id": "https://www.ascii-info.com/",
             "name": "Situs Slot Gacor"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "//",
+            "@id": "https://www.ascii-info.com/",
             "name": "Link Slot Gacor"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "//",
+            "@id": "https://www.ascii-info.com/",
             "name": "OLXTOTO: Situs Slot Gacor Terbesar Resmi dengan Hadiah Maxwin Setiap Hari"
           }
         }]
@@ -472,7 +472,7 @@
             </div>
 
           <div class="promotion-text">
-            <a href="//">
+            <a href="https://www.ascii-info.com/">
               <div class="get-the-app-download-text">
                 <p>Belanja di App banyak untungnya:</p>
 <ul>
@@ -496,10 +496,10 @@
 <div class="success-message" id="topActionDownloadSuccessMsg"><span class="alert alert-success">Success! Please check your phone for the download link  </span></div>
 <div class="error-message" id="topActionDownloadErrorMsg"></div>
         <div class="app-stores">
-          <a href="//" class="store-link">
+          <a href="https://www.ascii-info.com/" class="store-link">
             <i class="app-apple"></i>
           </a>
-          <a href="//" class="store-link">
+          <a href="https://www.ascii-info.com/" class="store-link">
             <i class="app-google"></i>
           </a>
         </div>

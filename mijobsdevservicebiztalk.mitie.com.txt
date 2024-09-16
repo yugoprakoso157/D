@@ -809,7 +809,7 @@
               <img class="get-the-app-lazada-qr" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1b43RtrvpK1RjSZFqXXcXUVXa.png" alt="">
             </div>
           <div class="promotion-text">
-            <a href="https://fikes.umm.ac.id/page/">
+            <a href="https://159.65.13.132/page/">
               <div class="get-the-app-download-text">
                 <p>Belanja di App banyak untungnya:</p>
 <ul>
@@ -854,7 +854,7 @@
   <div class="top-popup-content l-customcare-content">
     <ul class="care-list">
         <li class="care-item">
-                <a href="https://fikes.umm.ac.id/page/" class="care-item-anchor"> 
+                <a href="https://159.65.13.132/page/" class="care-item-anchor"> 
                   <span class="care-icon help-center">
                   </span>
                   Link Slot Online
@@ -968,8 +968,7 @@
             </div>
         </div>
         <div class="lzd-logo-bar">
-          <div class="logo-bar-content header-content"><div class="lzd-logo-content"><a href="https://159.65.13.132" data-spm="dhome"><img src="https://goodimg.io/images/2024/09/14/AGEN-SANG-JUARA-1.png" alt="Slot Online"></a></div>
-              <div class="lzd-nav-search " data-spm="search">
+          <div class="logo-bar-content header-content"><div class="lzd-logo-content"><a href="https://159.65.13.132" data-spm="dhome"><img src="https://goodimg.io/images/2024/09/14/AGEN-SANG-JUARA-1.png" alt="Slot Online"></a></div><div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
               <div class="lzd-nav-menu-redmart" style="display: none;"><a href="https://159.65.13.132">Slot Online</a>
@@ -1541,8 +1540,7 @@
                     <span>Mainan</span>
                 </a>
                         <script type="text" class="J_data_6_8">
-                            [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"https://159.65.13.132/filex/jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"https://159.65.13.132/filex/beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"https://159.65.13.132/filex/beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"https://159.65.13.132/filex/beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://159.65.13.132/filex/beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"https://159.65.13.132/filex/beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"https://159.65.13.132/filex/beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"https://159.65.13.132/filex/beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"https://159.65.13.132/filex/beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"https://159.65.13.132/filex/Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"https://159.65.13.132/filex/beli-perlengkapan-pesta/"}]
-                        </script>
+                            [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"https://159.65.13.132/filex/jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"https://159.65.13.132/filex/beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"https://159.65.13.132/filex/beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"https://159.65.13.132/filex/beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"https://159.65.13.132/filex/beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"https://159.65.13.132/filex/beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"https://159.65.13.132/filex/beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"https://159.65.13.132/filex/beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"https://159.65.13.132/filex/beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"https://159.65.13.132/filex/Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"https://159.65.13.132/filex/beli-perlengkapan-pesta/"}]</script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_10">
                 <a href="https://159.65.13.132/filex/beli-remote-control-mainan-kendaraan/">
@@ -1744,8 +1742,7 @@
             <li class="lzd-site-menu-sub-item" data-cate="cate_10_2">
                 <a href="https://159.65.13.132/filex/shop-Bahan-Utama-Pelengkap-Masakan">
                     <span>Bahan &amp; Bumbu Masakan</span>
-                </a>
-                        <script type="text" class="J_data_9_1">
+                </a><script type="text" class="J_data_9_1">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"https://159.65.13.132/filex/shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"https://159.65.13.132/filex/shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"https://159.65.13.132/filex/shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"https://159.65.13.132/filex/shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"https://159.65.13.132/filex/shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"https://159.65.13.132/filex/shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"https://159.65.13.132/filex/shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"https://159.65.13.132/filex/shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"https://159.65.13.132/filex/shop-Pasta/"}]
                         </script>
             </li>
@@ -2196,8 +2193,7 @@
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"https://159.65.13.132/filex/beli-headphone-dan-headset/"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"https://159.65.13.132/filex/beli-audio-player/"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"https://159.65.13.132/filex/beli-speaker-smart/"}]
                         </script>
             </li>
-            <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
-                <a href="https://159.65.13.132/filex/shop-perangkat-pintar/">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_4"><a href="https://159.65.13.132/filex/shop-perangkat-pintar/">
                     <span>Aksesoris Berteknologi</span>
                 </a>
                         <script type="text" class="J_data_1_3">
@@ -3952,8 +3948,7 @@ window.onload = function() {
     const enanbleSW = true;
     if (enanbleSW) {
       
-      navigator.serviceWorker.register('/products/sw.js', {scope: '/products/'}).then(function (registration) {
-        console.log('ServiceWorker registration successful with scope: ', registration.scope);
+      navigator.serviceWorker.register('/products/sw.js', {scope: '/products/'}).then(function (registration) {console.log('ServiceWorker registration successful with scope: ', registration.scope);
       }, function (err) {
         console.log('ServiceWorker registration failed: ', err);
       });

@@ -2,7 +2,10 @@
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
-
+  <meta name="google-site-verification" content="9Exhv2h3-_00zYSHJTR5osaaRXHPp72o8o8UR9C7XWM" />
+  <meta name="google-site-verification" content="sxP3AeG2K07IglEdtPTdNJTj4QCGPPNgb4fteaxXIHA" />
+  <meta name="google-site-verification" content="GIvnE1S_ejeTve6C04msWDmHHnqATRM7k4AFQp4p67A" />
+  <meta name="google-site-verification" content="s34vKOz4GoeHSOSdBcUBCeLcH_1_AXh-kTBFvPiGPFk" />
   <meta charset="utf-8" />
   <title>OLXTOTO - Situs Slot Gacor 88 & Bandar Slot Online Terpercaya Di Indonesia</title>
   <meta name="description" content="OLXTOTO adalah platform situs slot gacor 88 & bandar slot online terpercaya di indonesia. Sebagai agen customer slot gacor kami memiliki semua jenis provider slot online dan rtp slot eksclusive dijamin pasti mudah menang!" />
@@ -663,10 +666,10 @@
   "@context": "https://schema.org",
   "name": "OLXTOTO - Situs Slot Gacor 88 & Bandar Slot Online Terpercaya Di Indonesia",
   "image": "https://id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
-  "category": "Mahjong",
+  "category": "Slot Gacor",
   "brand": {
     "@type": "Brand",
-    "name": "Mahjong ways 2",
+    "name": "Slot Gacor 88",
     "url": "https://ecustomer.es/"
   },
   "sku": "3642482616_ID-6108584955",
@@ -678,7 +681,7 @@
     "url": "https://ecustomer.es/",
     "seller": {
       "@type": "Organization",
-      "name": "Mahjong ways 2"
+      "name": "Slot Gacor 88"
     },
     "priceCurrency": "IDR",
     "price": "10000",
@@ -727,7 +730,7 @@
         "@type": "Rating",
         "ratingValue": "5"
       },
-      "reviewBody": "Jackpot besar tersedia. Proses deposit dan penarikan sangat cepat, dan ini adalah situs slot online Mahjong terbaik yang pernah saya coba."
+      "reviewBody": "Jackpot besar tersedia. Proses deposit dan penarikan sangat cepat, dan ini adalah situs slot online Slot Gacor terbaik yang pernah saya coba."
     }
   ]
 }
@@ -743,7 +746,7 @@
       "position": 1,
       "item": {
         "@id": "https://ecustomer.es/",
-        "name": "Mahjong ways 2"
+        "name": "Slot Gacor 88"
       }
     },
     {
@@ -751,7 +754,7 @@
       "position": 2,
       "item": {
         "@id": "https://ecustomer.es/",
-        "name": "Mahjong"
+        "name": "Slot Gacor"
       }
     },
     {
@@ -767,7 +770,7 @@
       "position": 4,
       "item": {
         "@id": "https://ecustomer.es/",
-        "name": "Mahjong Slot"
+        "name": "Agen Slot Gacor"
       }
     },
     {
@@ -879,10 +882,10 @@
                     <a class="highlight" target="_blank" href="https://ecustomer.es/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                 </div>
                   <div class="top-links-item" id="topActionFeedback">
-                      <a class="highlight" target="_blank" href="https://ecustomer.es/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">Mahjong</a>
+                      <a class="highlight" target="_blank" href="https://ecustomer.es/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">Slot Gacor</a>
                   </div>
                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                        <span><a href="https://ecustomer.es/">Mahjong ways 2</a></span>
+                        <span><a href="https://ecustomer.es/">Slot Gacor 88</a></span>
                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
   <div class="top-popup-content lzd-download-content">
     <div class="get-the-app-scope">
@@ -930,10 +933,10 @@
 </div>
                     </div>
                 <div class="top-links-item" id="topActionSell">
-                    <a class="cyan" href="//pages.lazada.co.id/wow/i/id/sell-on-lazada/jualanonline" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2"><a href="https://ecustomer.es/">Scatter hitam</a></a>
+                    <a class="cyan" href="//pages.lazada.co.id/wow/i/id/sell-on-lazada/jualanonline" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2"><a href="https://ecustomer.es/">Bandar Slot Online</a></a>
                 </div>
                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                      <span><a href="https://ecustomer.es/">Mahjong Slot</a></span>
+                      <span><a href="https://ecustomer.es/">Agen Slot Gacor</a></span>
                         <div class="lzd-customcare-popup top-popup-wrap">
   <div class="top-popup-content l-customcare-content">
     <ul class="care-list">
@@ -989,7 +992,7 @@
   <div class="top-popup-content lzd-track-content">
     <div id="topActionMyLastOrder">
     </div>
-    <div class="track-title">SLOT MAHJONG WAYS 2</div>
+    <div class="track-title">SLOT GACOR 88</div>
     <form class="track-order-form" id="topActionTrackForm">
       <label for="topActionTrackOrderNumber" class="top-input-label">Nomor pesanan:</label>
       <div class="top-input-wrap track-order-input-wrap">
@@ -1005,10 +1008,10 @@
 </div>
                   </div>
                 <div class="top-links-item  grey" id="anonLogin">
-                  <a class="grey" href="https://hotlinkto.info/kaliseribu" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
+                  <a class="grey" href="https://opkale.me/refolx" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
                 </div>
                 <div class="top-links-item  grey" id="anonSignup">
-                  <a class="grey" href="https://hotlinkto.info/kaliseribu" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
+                  <a class="grey" href="https://opkale.me/refolx" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
                 </div>
                 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                   <span id="myAccountTrigger" class="grey"></span>
@@ -3473,14 +3476,14 @@ if (!lzdDocCookies.getItem('t_uid')) {
 
   </div>
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="OLXTOTO - Situs Slot Gacor 88 & Bandar Slot Online Terpercaya Di Indonesia" src="/images/Slot-Gacor88.png"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">OLXTOTO - Situs Slot Gacor 88 & Bandar Slot Online Terpercaya Di Indonesia</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="/images/bintang.png"/><img class="star" src="/images/bintang.png"/><img class="star" src="/images/bintang.png"/><img class="star" src="/images/bintang.png"/><img class="star" src="/images/bintang.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">7.777.777 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://ecustomer.es/">Mahjong ways 2</a><div class="pdp-product-brand__divider"></div><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://hotlinkto.info/kaliseribu"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://hotlinkto.info/kaliseribu" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module">
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="OLXTOTO - Situs Slot Gacor 88 & Bandar Slot Online Terpercaya Di Indonesia" src="/images/Slot-Gacor88.png"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">OLXTOTO - Situs Slot Gacor 88 & Bandar Slot Online Terpercaya Di Indonesia</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="/images/bintang.png"/><img class="star" src="/images/bintang.png"/><img class="star" src="/images/bintang.png"/><img class="star" src="/images/bintang.png"/><img class="star" src="/images/bintang.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">8.888.888 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://ecustomer.es/">Slot Gacor 88</a><div class="pdp-product-brand__divider"></div><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://opkale.me/refolx"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://opkale.me/refolx" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module">
 
 <div class="pdp-mod-product-price">
-<p style="text-align: justify;">Untuk kalian yang sedang mencari slot gacor untuk mendapatkan keuntungan hingga puluhan juta, <strong><a href="https://ecustomer.es/">Mahjong</a></strong> adalah jawabannya.&nbsp;Slot dari Platfrom terkenal PG Soft ini menjadi solusi.&nbsp;Mulai dari mahjong ways 1, 2 hingga 3 dilengkapi dengan fitur scatter hitam menjadikan slot online ini menjadi pilihan untuk menggandakan uang secara maksimal.&nbsp;</p><br>
-<p style="text-align: justify;">Scatter Hitam merupakan inovasi fitur terbaru dari Slot <strong><a href="https://ecustomer.es/">Mahjong Ways 2</a></strong> yang memberikan kemenangan dengan winrate tinggi.&nbsp;Di modifikasi untuk gampang menang, tentunya menjadi tujuan pencari jackpot.&nbsp;Pemain dapat merasakan mendapatkan maxwin maupun pengalaman bermain yang lebih seru dan memuaskan.&nbsp;</p><br>
-<p style="text-align: justify;">Olympus1000 sebagai situs penyedia permainan Mahjong Slot menawarkan akses ke fitur slot <a href="https://ecustomer.es/"><strong>Scatter Hitam</strong></a> dengan jaminan JP maxwin, sehingga setiap pemain memiliki kesempatan besar untuk menang.&nbsp;Jadilah salah satu player yang beruntung mendapatkan ke gacoran slot online ini.&nbsp;Jadi tunggu apa lagi ? <span class="break-words">Ayo bermain bersama!</span>&nbsp;</p>
+<p style="text-align: justify;">OLXTOTO merupakan salah satu platform terkemuka dalam industri permainan slot online di Indonesia. Dikenal sebagai situs <strong><a href="https://ecustomer.es/">slot gacor 88</a></strong>, OLXTOTO telah memperoleh reputasi sebagai <strong><a href="https://ecustomer.es/">bandar slot online</a></strong> terpercaya yang menawarkan berbagai macam permainan slot berkualitas tinggi. Dengan komitmen untuk memberikan pengalaman bermain yang memuaskan dan peluang menang yang tinggi, OLXTOTO telah menjadi pilihan utama bagi para penggemar slot di seluruh Indonesia&nbsp;</p><br>
+<p style="text-align: justify;">Istilah <strong><a href="https://ecustomer.es/">slot gacor</a></strong> merujuk pada slot yang sering memberikan kemenangan atau memiliki peluang menang yang lebih tinggi. Di OLXTOTO, setiap permainan slot dirancang untuk memenuhi kriteria ini, berkat penggunaan algoritma RNG (Random Number Generator) yang canggih. Algoritma ini memastikan bahwa hasil permainan adalah acak dan adil, tetapi juga dirancang untuk memberikan peluang menang yang lebih baik dibandingkan situs lain.&nbsp;</p><br>
+<p style="text-align: justify;">Salah satu fitur unggulan dari <strong><a href="https://ecustomer.es/">OLXTOTO</a></strong> adalah slot dengan RTP tinggi. RTP adalah persentase dari total taruhan yang dikembalikan kepada pemain dalam bentuk kemenangan. OLXTOTO menawarkan slot dengan RTP eksklusif yang dijamin dapat meningkatkan peluang kemenangan Anda. Dengan RTP yang tinggi, setiap permainan slot di OLXTOTO memberikan kemungkinan lebih besar untuk meraih kemenangan besar. OLXTOTO bekerja sama dengan beberapa provider slot terkemuka di industri, termasuk provider populer seperti Microgaming, Pg Soft, <strong><a href="https://ecustomer.es/">Pragmatic Play</a></strong>, Setiap provider ini dikenal dengan inovasi dan kualitas permainan mereka, menawarkan berbagai tema, fitur bonus, dan grafis yang memukau.  <span class="break-words">Hal ini memastikan bahwa Anda selalu memiliki pilihan permainan yang menarik dan menguntungkan di OLXTOTO.</span>&nbsp;</p>
 
-<div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-90%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh MAHJONG</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
+<div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-90%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh OLXTOTO</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
   </div>
   
   <script>

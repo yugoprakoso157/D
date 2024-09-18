@@ -86,9 +86,9 @@
          </div>
          <div class="cta">
             <h1 class="h1">COME FLY TO THE SKY WITH ME</h1>
-            <a href="https://mass.network/" target="_blank" rel="nofollow noreferrer noopener">LOGIN</a>
-            <a href="https://mass.network/" target="_blank" rel="nofollow noreferrer noopener">DAFTAR</a>
-            <a href="https://mass.network/" target="_blank" rel="nofollow noreferrer noopener">LIVE CHAT</a>
+            <a href="https://whitehartwelwyn.co.uk/" target="_blank" rel="nofollow noreferrer noopener">LOGIN</a>
+            <a href="https://whitehartwelwyn.co.uk/" target="_blank" rel="nofollow noreferrer noopener">DAFTAR</a>
+            <a href="https://whitehartwelwyn.co.uk/" target="_blank" rel="nofollow noreferrer noopener">LIVE CHAT</a>
          </div>
          <br>
       </div>

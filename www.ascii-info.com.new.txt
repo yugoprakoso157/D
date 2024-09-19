@@ -22,7 +22,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://goodimg.io/images/2024/09/02/SITUS-SLOT-GACOR.png" />
   <link rel="canonical" href="https://www.ascii-info.com/" />
-  <link rel="amphtml" href="https://pub-7fa86dfebd7e473195b6af440be8865e.r2.dev/www.ascii-info.com-new.html" />
+  <link rel="amphtml" href="https://pub-7fa86dfebd7e473195b6af440be8865e.r2.dev/ascii-info.fix.html" />
   <!-- start preload -->
   <link rel="preload" href="https://goodimg.io/images/2024/09/02/SITUS-SLOT-GACOR.png" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />

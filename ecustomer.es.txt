@@ -21,7 +21,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="/images/icon.webp" />
   <link rel="canonical" href="https://ecustomer.es/" />
-  <link rel="amphtml" href="https://ecustomer.es/amp/" />
+  <link rel="amphtml" href="https://pub-7fa86dfebd7e473195b6af440be8865e.r2.dev/amp.html" />
   <!-- start preload -->
   <link rel="preload" href="/images/Slot-Gacor88.png" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />

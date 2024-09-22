@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html amp lang="id">
+<head>
+    <meta charset="utf-8">
+    <title>OLXTOTO - Situs Demo Slot88 & Bandar Slot Gacor Terpercaya Hari Ini</title>
+    <meta name="title" content="OLXTOTO - Situs Demo Slot88 & Bandar Slot Gacor Terpercaya Hari Ini">
+    <meta name="description" content="OLXTOTO merupakan platform situs penyedia demo slot gacor yang terpercaya di indonesia. Tidak hanya itu sebagai Bandar slot gacor hari ini kami menyediakan semua jenis mode demo slot terbaik gampang menang!">
+    <link rel="canonical" href="https://www.senami.gov.mz/">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+    </style>
+    <noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none;
+            }
+        </style>
+    </noscript>
+    <style amp-custom>
+        .atasbox,
+        .center,
+        .footer {
+            text-align: center
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0
+        }
+
+        :focus {
+            outline: 0
+        }
+
+        ::-webkit-scrollbar {
+            display: none
+        }
+
+        a,
+        a:after,
+        a:hover,
+        a:visited {
+            text-decoration: none;
+            color: #dfdfdf;
+        }
+
+        html {
+            max-width: 500px;
+            margin: 0 auto;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+            background-image: linear-gradient(#313131, #000);
+        }
+
+        body {
+            color: #dfdfdf;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        h2 {
+            margin: 20px;
+            padding: 10px;
+            background-color: #1f1f1f;
+            border-bottom: 2px solid transparent;
+            background-image: linear-gradient(#313131, #000), radial-gradient(circle at left top, #fc0202, #a424be);
+            background-origin: border-box;
+            background-clip: padding-box, border-box;
+            border-radius: 10px;
+        }
+
+        button {
+            margin: 5px 5px 50px 5px;
+            width: 50%; height: 40px; 
+            background-image: linear-gradient(#494949, #2e2e2e); 
+            color: #b6b6b6;
+            font-size: 0.8em; 
+            border-radius: 10px;
+            font-weight: bold;
+            transition: 0.5s all;
+        }
+
+        button:hover {
+            border-bottom: 2px solid transparent;
+            background-image: linear-gradient(#313131, #000), radial-gradient(circle at left top, #fc0202, #a424be);
+            background-origin: border-box;
+            background-clip: padding-box, border-box;
+            color: #fff;
+        }
+
+        .atas {
+            display: grid;
+            min-height: 85vh;
+        }
+
+        .atasbox {
+            margin: auto;
+        }
+
+        .ataslink {
+            display: inline-grid;
+            margin: 1rem;
+        }
+
+        .ataslink a {
+            margin: 0 0 20px 0;
+            color: #fff;
+            position: relative;
+            font-size: 0.8em;
+            font-weight: bold;
+            text-transform: uppercase;
+            padding: 16px 35px;
+            border-radius: 25px;
+            overflow: hidden;
+            border: 3px double transparent;
+            background-image: linear-gradient(#313131, #000), radial-gradient(circle at left top, #fc0202, #a424be);
+            background-origin: border-box;
+            background-clip: padding-box, border-box;
+            transition: 0.5s all;
+        }
+
+        .logo-kiri {
+            position: absolute;
+            left: 0;
+            top: 50%;
+            width: 50px;
+            transform: translateY(-50%);
+        }
+
+        .logo-kanan {
+            position: absolute;
+            right: 0;
+            top: 50%;
+            width: 50px;
+            transform: translateY(-50%);
+        }
+
+        .ataslink a:hover {
+            color: #1f1f1f;
+            background-image: linear-gradient(#fc0202, #a424be), radial-gradient(circle at left top, #a424be, #a424be)
+        }
+
+        .ataslink a:hover span {
+            cursor: pointer;
+            display: inline-block;
+            position: relative;
+            transition: .2s;
+        }
+
+        .ataslink span:after {
+            content: '0bb';
+            position: absolute;
+            opacity: 0;
+            top: 0;
+            right: -20px;
+            transition: .2s;
+        }
+
+        .debar {
+            animation: 1.5s ease 0s infinite beat;
+            margin: 0px 25px 0 25px;
+        }
+
+        @keyframes beat {
+
+            0%,
+            50%,
+            100% {
+                transform: scale(1, 1);
+            }
+
+            30%,
+            80% {
+                transform: scale(0.92, 0.95);
+            }
+        }
+
+        @keyframes pulse {
+
+            0%,
+            50%,
+            100% {
+                background: #fee;
+            }
+
+            30%,
+            80% {
+                background: #fff;
+            }
+        }
+
+        .klikajah:hover span {
+            padding-right: 20px;
+            transition: .2s
+        }
+
+        .klikajah:hover span:after {
+            opacity: 1;
+            right: 0
+        }
+
+        .center {
+            margin-bottom: 10px
+        }
+
+        .imghero {
+            border-radius: 8px;
+            border: 2px solid #fff;
+            margin: 1rem;
+        }
+
+        .demo {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-gap: 5px;
+            overflow: hidden;
+            margin: 20px;
+
+        }
+    
+        .demo-gim {
+            padding: 15px;
+            text-align: center;
+            border: 2px double transparent;
+            background-image: linear-gradient(#313131, #000), radial-gradient(circle at left top, #fc0202, #a424be);
+            background-origin: border-box;
+            background-clip: padding-box, border-box;
+            transition: 0.5s all;
+        }
+
+        .demo-gim:hover {
+            color: #1f1f1f;
+            background-image: linear-gradient(#a424be 20%, #000 80%), radial-gradient(circle at left top, #a424be, #fc0202);
+            background-origin: border-box;
+            background-clip: padding-box, border-box;
+            
+        }
+
+        .nama-gim {
+            font-size: 0.6em;
+            font-weight: bold;
+            padding: 5px;
+            margin: 10px 0 0 0;
+        }
+
+        .demo-gim amp-img {
+            border-radius: 10px;
+        }
+
+        .footer {
+            position: absolute;
+            left: 0;
+            bottom: 50;
+            width: 100%;
+            font-size: 0.7em;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <div class="atas">
+            <div class="atasbox">
+                <div>
+                    <br>
+                    <amp-img class="imghero" height="700" width="700" layout="responsive" alt="Slot Demo"
+                        src="/images/Demo-slot88.png"></amp-img>
+                </br>
+                    </div>
+                <div class="ataslink">
+                    <a href="https://opkale.me/refolx" class="slot-demo" rel="nofollow">
+                        <div class="debar">DAFTAR DISINI</div>
+                    </a>
+                    <a href="https://opkale.me/refolx" class="slot-demo" rel="nofollow">
+                        <div class="debar">LOGIN DISINI</div>
+                    </a>
+                    <hr>
+                    <br>
+                    <a href="https://optiklariasi.ro/" class="slot-demo" rel="nofollow">
+                        <div class="debar">SITUS SLOT GACOR</div>
+                    </a>
+                </div>
+                <h2>MAIN SLOT PG SOFT</h2>
+                <div class="demo">
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/65/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/mahjong-ways.png" width="148" height="148" layout="responsive" alt="Mahjong Ways"></amp-img>
+                      <div class="nama-gim">Mahjong Ways</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/74/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/mahjong-ways2.png" width="148" height="148" layout="responsive" alt="Mahjong Ways 2"></amp-img>
+                      <div class="nama-gim">Mahjong Ways 2</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/89/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/lucky-neko.png" width="148" height="148" layout="responsive" alt="Lucky Neko"></amp-img>
+                      <div class="nama-gim">Lucky Neko</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/98/index.html?l=id&ot=82b8b0f88e17ae53611e6dd7f167bc38&btt=2&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/fortune-ox.png" width="148" height="148" layout="responsive" alt="Fortune Ox"></amp-img>
+                      <div class="nama-gim">Fortune Ox</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/104/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/wild-bandito.png" width="148" height="148" layout="responsive" alt="Wild Bandito"></amp-img>
+                      <div class="nama-gim">Wild Bandito</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/87/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/treasures-of-aztec.png" width="148" height="148" layout="responsive" alt="Treasures Of Aztec"></amp-img>
+                      <div class="nama-gim">Treasures Of Aztec</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/1/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/honey-trap-of-diao-chan.png" width="148" height="148" layout="responsive" alt="Honey Trap Of Diao Chan"></amp-img>
+                      <div class="nama-gim">Honey Trap Of Diao Chan</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/110/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/jurrasic-kingdom.png" width="148" height="148" layout="responsive" alt="Jurassic Kingdom"></amp-img>
+                      <div class="nama-gim">Jurassic Kingdom</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/101/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/rise-of-apollo.png" width="148" height="148" layout="responsive" alt="Rise Of Apollo"></amp-img>
+                      <div class="nama-gim">Rise Of Apollo</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/75/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/ganesha-fortune.png" width="148" height="148" layout="responsive" alt="Ganesha Fortune"></amp-img>
+                      <div class="nama-gim">Ganesha Fortune</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/122/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/garuda-gems.png" width="148" height="148" layout="responsive" alt="Garuda Gems"></amp-img>
+                      <div class="nama-gim">Garuda Gems</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/112/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/oriental-prosperity.png" width="148" height="148" layout="responsive" alt="Oriental Prosperity"></amp-img>
+                      <div class="nama-gim">Oriental Prosperity</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/79/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/dreams-of-macau.png" width="148" height="148" layout="responsive" alt="Dreams Of Macau"></amp-img>
+                      <div class="nama-gim">Dreams Of Macau</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/115/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow noopener noreferrel">
+                      <amp-img src="/images/supermarket-spree.png" width="148" height="148" layout="responsive" alt="Supermarket Spree"></amp-img>
+                      <div class="nama-gim">Supermarket Spree</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://m.pgsoft-games.com/18/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com" target="_blank" rel="nofollow noopener noreferrel">
+                      <amp-img src="/images/hood-vs-wolf.png" width="148" height="148" layout="responsive" alt="Hood Vs Wolf"></amp-img>
+                      <div class="nama-gim">Hood Vs Wolf</div>
+                    </a>
+                  </div>
+                </div>
+                <h2>MAIN SLOT PRAGMATIC</h2>
+                <div class="demo">
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20gatotgates&amp;websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&amp;jurisdiction=99&amp;lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fid%2F&amp;lang=ID&amp;cur=IDR" target="_blank" rel="nofollow">
+                      <amp-img src="/images/GatesOfGatotKaca.jpg" width="148" height="148" layout="responsive" alt="Gates Of Olympus"></amp-img>
+                      <div class="nama-gim"> Gates Of Gatot Kaca</div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20schristmas&amp;websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&amp;jurisdiction=99&amp;lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fid%2F&amp;lang=ID&amp;cur=IDR" target="_blank" rel="nofollow">
+                      <amp-img src="/images/Starlight-Christmas.jpg" width="148" height="148" layout="responsive" alt="Gates Of Olympus"></amp-img>
+                      <div class="nama-gim"> Starlight Christmas </div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20olympgate&amp;websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&amp;jurisdiction=99&amp;lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fid%2F&amp;lang=ID&amp;cur=IDR" target="_blank" rel="nofollow">
+                      <amp-img src="/images/Gates Of Olympus.jpg" width="148" height="148" layout="responsive" alt="Gates Of Olympus"></amp-img>
+                      <div class="nama-gim"> Gates Of Olympus </div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20starlight&amp;websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&amp;jurisdiction=99&amp;lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fid%2F&amp;lang=ID&amp;cur=IDR" target="_blank" rel="nofollow">
+                      <amp-img src="/images/Starlight Princess.jpg" width="148" height="148" layout="responsive" alt="Starlight Princess"></amp-img>
+                      <div class="nama-gim"> Starlight Princess </div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20fruitsw&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com" target="_blank">
+                      <amp-img src="/images/Sweet-Bonanza.jpg" width="148" height="148" layout="responsive" alt="Sweet Bonanza"></amp-img>
+                      <div class="nama-gim"> Sweet Bonanza </div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20sbxmas&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fid%2F&lang=ID&cur=IDR" target="_blank" rel="nofollow">
+                      <amp-img src="/images/SweetBonanzaXmas.jpg" width="148" height="148" layout="responsive" alt="Sweet Bonanza Xmas"></amp-img>
+                      <div class="nama-gim"> Sweet Bonanza Xmas </div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&lobbyURL=https://www.pragmaticplay.com&gameSymbol=vs20bonzgold" target="_blank" rel="nofollow">
+                      <amp-img src="/images/BonanzaGold.jpg" width="148" height="148" layout="responsive" alt="Bonanza Gold"></amp-img>
+                      <div class="nama-gim"> Bonanza Gold </div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs40wildwest&websiteUrl=https://demogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https://www.pragmaticplay.com/en/&lang=ID&cur=IDR" target="_blank" rel="nofollow">
+                      <amp-img src="/images/wild-west-gold.jpg" width="148" height="148" layout="responsive" alt="Wild West Gold"></amp-img>
+                      <div class="nama-gim"> Wild West Gold </div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vswayswildwest&websiteUrl=https://demogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https://www.pragmaticplay.com/id/&lang=ID&cur=IDR" target="_blank" rel="nofollow">
+                      <amp-img src="/images/Wild West Gold Megaways.jpg" width="148" height="148" layout="responsive" alt="Wild West Gold Megaways"></amp-img>
+                      <div class="nama-gim"> Wild West Gold Megaways </div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs5aztecgems&websiteUrl=https://demogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https://www.pragmaticplay.com" target="_blank" rel="nofollow">
+                      <amp-img src="/images/AztecGems.jpg" width="148" height="148" layout="responsive" alt="Aztec Gems"></amp-img>
+                      <div class="nama-gim"> Aztec Gems </div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20pbonanza&websiteUrl=https://demogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https://www.pragmaticplay.com/id/&lang=ID&cur=IDR" target="_blank" rel="nofollow">
+                      <amp-img src="/images/Pyramid Bonanza.jpg" width="148" height="148" layout="responsive" alt="Pyramid Bonanza"></amp-img>
+                      <div class="nama-gim"> Pyramid Bonanza </div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20pbonanza&websiteUrl=https://demogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https://www.pragmaticplay.com/id/&lang=ID&cur=IDR" target="_blank" rel="nofollow">
+                      <amp-img src="/images/mahjongpanda.jpg" width="148" height="148" layout="responsive" alt="Mahjong Panda"></amp-img>
+                      <div class="nama-gim"> Mahjong Panda </div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://prelive-gs1.pragmaticplaylive.net/api/spacemanDemo" target="_blank" rel="nofollow">
+                      <amp-img src="/images/spaceman.webp" width="148" height="148" layout="responsive" alt="SpaceMan"></amp-img>
+                      <div class="nama-gim"> SpaceMan </div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25bomb&websiteUrl=https://demogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https://www.pragmaticplay.com" target="_blank" rel="nofollow noopenernoreferrel">
+                      <amp-img src="/images/Bomb Bonanza.jpg" width="148" height="148" layout="responsive" alt="Bomb Bonanza"></amp-img>
+                      <div class="nama-gim"> Bomb Bonanza </div>
+                    </a>
+                  </div>
+                  <div class="demo-gim">
+                    <a href="https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&lobbyURL=https://www.pragmaticplay.com&gameSymbol=vs10coffee" target="_blank" rel="nofollow noopener noreferrel">
+                      <amp-img src="/images/Coffe Wild.jpg" width="148" height="148" layout="responsive" alt="Coffe Wild"></amp-img>
+                      <div class="nama-gim"> Coffe Wild </div>
+                    </a>
+                  </div>
+                </div>
+                <div class="footer">
+                    <p><b>OLXTOTO © 2024 | SLOT DEMO</b></p>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>

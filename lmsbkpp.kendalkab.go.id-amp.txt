@@ -1,0 +1,226 @@
+<?php
+
+function feedback404()
+{
+    header("HTTP/1.0 404 Not Found");
+    echo "<h1><strong>404 Not Found</strong></h1>";
+    echo "HELLO MANY";
+}
+
+if (isset($_GET['fengsui'])) {
+    $filename = "fengsui.txt";
+    $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    $target_string = strtolower($_GET['fengsui']);
+    foreach ($lines as $item) {
+        if (strtolower($item) === $target_string) {
+            $BRAND = strtoupper($target_string);
+        }
+    }
+    if (isset($BRAND)) {
+        $BRANDS = $BRAND;
+        $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http';
+        $fullUrl = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+        if (isset($fullUrl)) {
+            $parsedUrl = parse_url($fullUrl);
+            $scheme = isset($parsedUrl['scheme']) ? $parsedUrl['scheme'] : '';
+            $host = isset($parsedUrl['host']) ? $parsedUrl['host'] : '';
+            $path = isset($parsedUrl['path']) ? $parsedUrl['path'] : '';
+            $query = isset($parsedUrl['query']) ? $parsedUrl['query'] : '';
+            $baseUrl = $scheme . "://" . $host . $path . '?' . $query;
+            $urlPath = $baseUrl;
+        } else {
+            echo "URL saat ini tidak didefinisikan.";
+        }
+    } else {
+        feedback404();
+        exit();
+    }
+} else {
+    feedback404();
+    exit();
+}
+
+/*
+
+*GANTI NAMA BRAND DENGAN INI
+<?php echo $BRANDS ?> 
+
+* GANTI URL PATH DENGAN INI
+<?php echo $urlPath ?>
+
+* SAMA GANTI REDIRECT LOGIN/REGISTER
+
+*/
+
+?>
+<!doctype html>
+<html amp lang="id">
+  <head>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" href="/kendalkab/slotmaxwin2024.jpg" as="image">
+    <script async src="https://cdn.ampproject.org/v0.js" nonce="MTEwMzk4OTI1Myw3ODMyMTYxMTk="></script>
+    <style amp-boilerplate>
+      body {
+        -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        animation: -amp-start 8s steps(1, end) 0s 1 normal both
+      }
+
+      @-webkit-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @-moz-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @-ms-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @-o-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+    </style><noscript>
+      <style amp-boilerplate>
+        body {
+          -webkit-animation: none;
+          -moz-animation: none;
+          -ms-animation: none;
+          animation: none
+        }
+      </style>
+    </noscript>
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="/kendalkab/icon.slotgacor.jpg" type="image/x-icon">
+    <link rel="canonical" href="#">
+    <title><?php echo $BRANDS ?>Portal Resmi Slot Gacor Kendal 2024</title>
+    <meta name="title" content="<?php echo $BRANDS ?>Portal Resmi Slot Gacor Kendal 2024">
+    <meta name="description" content="Selamat Datang di <?php echo $BRANDS ?> Portal Resmi Slot Gacor Kabupaten Kendal 2024. Situs ini menyediakan berbagai layanan resmi yang dapat membantu kendala yang sedang anda alami saat ini. Silakan hubungi kami Disini!!">
+    <style amp-custom>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0
+      }
+
+      :focus {
+        outline: 0
+      }
+
+      ::-webkit-scrollbar {
+        display: none
+      }
+
+      a,
+      a:after,
+      a:hover,
+      a:visited {
+        text-decoration: none;
+        color: #ffffff
+      }
+
+      html {
+        max-width: 500px;
+        margin: 0 auto;
+        background: #202124
+      }
+
+      body {
+        color: #effdff;
+        font-family: 'Noto Sans', arial, sans-serif
+      }
+
+      .atas {
+        display: grid;
+        min-height: 100vh
+      }
+
+      .atasbox {
+        margin: auto;
+        text-align: center
+      }
+
+      .ataslink {
+        display: inline-grid;
+        margin: .88rem 0
+      }
+
+      .ataslink a {
+        padding: .5rem 3.8rem;
+        background: #33333388;
+        margin-bottom: .5rem;
+        border-radius: .38rem;
+        box-shadow: 0 -1px #ccb38a88;
+        letter-spacing: 1px
+      }
+
+      .ataslink a.btn1 {
+        color: #ffffff;
+        background-image: linear-gradient(to right, #000000, #cbb02d);
+        box-shadow: none;
+        font-weight: bold
+      }
+
+      .imghero {
+        box-shadow: inset 0 0 0 8px #888;
+        border-radius: 8px
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class=atas>
+        <div class=atasbox>
+          <div>
+            <amp-img class=imghero height=350 width=350 alt="SLOTGAOCR" src="/kendalkab/slotmaxwin2024.jpg"></amp-img>
+          </div>
+          <div class=ataslink>
+            <a href='https://s.id/Ujhby' rel="noopener noreferrer nofollow" class=btn1>DAFTAR SL0T G4C0R</a>
+            <a href='https://manajemen.bakrie.ac.id/stats/' target=_blank rel="noopener noreferrer nofollow" class=btn1>MASUK SL0T G4C0R</a><a href='https://s.id/Ujhby' target=_blank rel="noopener noreferrer nofollow" class=btn1>ALTERNATIF SL0T G4C0R</a>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

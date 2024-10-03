@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
+  <meta name="google-site-verification" content="MSBpK2B-D0xzsaeVH5Hipwbvmh8Utknk_6D8zro51Wc" />
   <meta name="google-site-verification" content="m14L1UpXILgo094CAFbNt-tLd4pxeovSuDKzqFhvJuc" />
   <meta name="google-site-verification" content="p8j0MO5mROuUf0zbg3_mN7SzwzpcjZG12_GJlRXXdx8" />
   <meta name="google-site-verification" content="lwMbTRK0JW0p4y_NAHvMSSwZe2Ss9_IwQ_aG512WBcU" />

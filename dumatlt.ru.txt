@@ -681,7 +681,7 @@
   </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"OLXTOTO: Situs RTP Demo Slot & Bandar Slot Demo 88 Terbaik Tahun 2024","image":"https://info-slot.imgix.net/img/icon-demo-slot-x1000.jpg","category":"Televisi & Video","brand":{"@type":"Brand","Slot Gacor":"Samsung","url":"https://info-slot.imgix.net/index.html/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"OLXTOTO adalah penyedia RTP demo slot terpercaya dan bandar slot demo 88 terbaik, menawarkan ratusan pola RTP serta akun demo gratis untuk pengalaman bermain yang optimal di tahun 2024.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"OLXTOTO: Situs RTP Demo Slot & Bandar Slot Demo 88 Terbaik Tahun 2024","image":"https://info-slot.imgix.net/img/icon-demo-slot-x1000.jpg","category":"Televisi & Video","brand":{"@type":"Brand","Slot Gacor":"Samsung","url":"https://fairbankshistorymuseum.com/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"OLXTOTO adalah penyedia RTP demo slot terpercaya dan bandar slot demo 88 terbaik, menawarkan ratusan pola RTP serta akun demo gratis untuk pengalaman bermain yang optimal di tahun 2024.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
@@ -691,35 +691,35 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://info-slot.imgix.net/index.html/",
+            "@id": "https://fairbankshistorymuseum.com/",
             "name": "Demo Slot PG"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://info-slot.imgix.net/index.html/",
+            "@id": "https://fairbankshistorymuseum.com/",
             "name": "Slot Demo PG"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://info-slot.imgix.net/index.html/",
+            "@id": "https://fairbankshistorymuseum.com/",
             "name": "Demo Slot"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://info-slot.imgix.net/index.html/",
+            "@id": "https://fairbankshistorymuseum.com/",
             "name": "Slot Demo"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://info-slot.imgix.net/index.html/",
+            "@id": "https://fairbankshistorymuseum.com/",
             "name": "Demo Mahjong"
           }
         }]
@@ -976,7 +976,7 @@
                       data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                       <div class="lzd-site-menu-nav-container">
                         <div class="lzd-site-menu-nav-category">
-                          <a href="https://info-slot.imgix.net/index.html/">
+                          <a href="https://fairbankshistorymuseum.com/">
                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                           </a>
                           <div class="lzd-site-menu-nav-menu">
@@ -2071,7 +2071,7 @@
               data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
               <div class="lzd-site-menu-nav-container">
                 <div class="lzd-site-menu-nav-category">
-                  <a href="https://info-slot.imgix.net/index.html/">
+                  <a href="https://fairbankshistorymuseum.com/">
                     <span class="lzd-site-menu-nav-category-text">Kategori</span>
                   </a>
                   <div class="lzd-site-menu-nav-menu">
@@ -3118,7 +3118,7 @@
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                     <span class="lzd-menu-labels-item-text">LazMall</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://info-slot.imgix.net/index.html/">
+                  <a class="lzd-menu-labels-item" href="https://fairbankshistorymuseum.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img"
                         src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
@@ -3126,7 +3126,7 @@
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                     <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://info-slot.imgix.net/index.html/">
+                  <a class="lzd-menu-labels-item" href="https://fairbankshistorymuseum.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img"
                         src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
@@ -3134,7 +3134,7 @@
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                     <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://info-slot.imgix.net/index.html/">
+                  <a class="lzd-menu-labels-item" href="https://fairbankshistorymuseum.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img"
                         src="https://icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
@@ -3493,7 +3493,7 @@
               <div id="module_product_brand_1" class="pdp-block module">
                 <div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a
                     class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self"
-                    href="https://info-slot.imgix.net/index.html/">Demo Slot Gacor</a>
+                    href="https://fairbankshistorymuseum.com/">Demo Slot Gacor</a>
                   <div class="pdp-product-brand__divider"></div>
                   <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://daftar-slot-gacor-5iy.pages.dev/"><button
                         class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl"

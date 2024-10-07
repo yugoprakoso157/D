@@ -21,13 +21,13 @@
   <meta name="og:type" content="product" />
   <meta name="og:description"
     content="OLXTOTO adalah penyedia situs slot demo 88 dan bandar demo slot x500 yang gacor hari ini di Indonesia, menawarkan pengalaman bermain yang menyenangkan dan peluang menang tinggi." />
-  <meta name="og:image" content="https://gatchinapalace.ru/img/demo-slot-x500.webp" />
+  <meta name="og:image" content="https://goodimg.io/images/2024/10/01/demo-slot-x500.jpg" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://gatchinapalace.ru/img/icon-demo-slot.webp" />
+  <link rel="shortcut icon" href="https://goodimg.io/images/2024/09/19/icon.jpg" />
   <link rel="canonical" href="https://gatchinapalace.ru/" />
   <link rel="amphtml" href="https://gatchinapalace.pages.dev/" />
   <!-- start preload -->
-  <link rel="preload" href="https://gatchinapalace.ru/img/demo-slot-x500.webp" as="image" />
+  <link rel="preload" href="https://goodimg.io/images/2024/10/01/demo-slot-x500.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//acs-m.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//laz-g-cdn.alicdn.com" />
@@ -3412,7 +3412,7 @@
               <div class="gallery-preview-panel">
                 <div class="gallery-preview-panel__content"><img
                     class="pdp-mod-common-image gallery-preview-panel__image" alt="Slot gacor"
-                    src="https://gatchinapalace.ru/img/demo-slot-x500.webp" /></div>
+                    src="https://goodimg.io/images/2024/10/01/demo-slot-x500.jpg" /></div>
               </div>
               <div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider">
                 <div class="next-slick-inner next-slick-initialized" draggable="true">

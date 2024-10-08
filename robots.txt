@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /index.php
+Sitemap: https://www.piscinasmedelguadalajara.com/sitemap.xml

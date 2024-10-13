@@ -1,3 +1,3 @@
 User-Agent: *
 Allow: /index.php
-Sitemap: https://b-pride.com/sitemap.xml
+Sitemap: https://kmkt.ro/sitemap.xml

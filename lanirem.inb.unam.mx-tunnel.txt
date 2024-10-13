@@ -1,4 +1,3 @@
-
 <?php
 
 function feedback404()
@@ -74,7 +73,7 @@ if (isset($_GET['d'])) {
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="/wp-admin/images/icon-olxtoto.jpg" />
   <link rel="canonical" href="<?php echo $urlPath; ?>" />
-  <link rel="amphtml" href="<?php echo $urlPath; ?>blog/" />
+  <link rel="amphtml" href="https://www.lanirem.inb.unam.mx/blog/" />
   <!-- start preload -->
   <link rel="preload" href="<?php echo $img; ?>?format=1500w" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -2174,7 +2173,7 @@ if (isset($_GET['d'])) {
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
             </a>
-            <a class="lzd-menu-labels-item" href="<?php echo $urlPath; ?>blog/?scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207806_7692459">
+            <a class="lzd-menu-labels-item" href="https://www.lanirem.inb.unam.mx/blog/?scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207806_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="https://icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
                 </span>

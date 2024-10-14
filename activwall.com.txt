@@ -26,13 +26,13 @@
   <meta name="og:title" content="OLXTOTO: Slot Gacor Maxwin & Link Terbaru Situs Slot Online Gacor Bet 200!"/>
   <meta name="og:type" content="product"/>
   <meta name="og:description" content="Nikmati link terbaru slot gacor mudah maxwin dan situs slot online tergacor dengan minimal bet 200 perak bersama OLXTOTO, Rasakan slot gacor maxwin sekarang Juga!"/>
-  <meta name="og:image" content="https://activwall.com/wp-admin/images/slot-gacor.jpg"/>
+  <meta name="og:image" content="https://info-slot.imgix.net/images/slot-gacor.jpg"/>
   <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://activwall.com/wp-admin/images/jackpot-win.jpg"/>
+  <link rel="shortcut icon" href="https://info-slot.imgix.net/images/jackpot-win.jpg"/>
   <link rel="canonical" href="https://activwall.com/"/>
   <link rel="amphtml" href="https://activwall.pages.dev/"/>
   <!-- start preload -->
-  <link rel="preload" href="https://activwall.com/wp-admin/images/slot-gacor.jpg" as="image"/>
+  <link rel="preload" href="https://info-slot.imgix.net/images/slot-gacor.jpg" as="image"/>
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id"/>
   <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id"/>
   <link rel="preconnect dns-prefetch" href="https://laz-g-cdn.alicdn.com"/>
@@ -1689,28 +1689,28 @@
         <nav class="lzd-menu-labels" data-spm="menu">
             <a class="lzd-menu-labels-item" href="https://activwall.com/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Slot Gacor" class="lzd-site-nav-menu-iconfont-img" src="https://activwall.com/wp-admin/images/jackpot-win.jpg" data-pagespeed-url-hash="1247496011" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="Slot Gacor" class="lzd-site-nav-menu-iconfont-img" src="https://info-slot.imgix.net/images/jackpot-win.jpg" data-pagespeed-url-hash="1247496011" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-SLOT GACOR">&#xe629;</i>-->
                 <span class="lzd-menu-labels-item-text">Slot Gacor</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://activwall.com/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="rtp" class="lzd-site-nav-menu-iconfont-img" src="https://activwall.com/wp-admin/images/jackpot-win.jpg" data-pagespeed-url-hash="611565874" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="rtp" class="lzd-site-nav-menu-iconfont-img" src="https://info-slot.imgix.net/images/jackpot-win.jpg" data-pagespeed-url-hash="611565874" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text">RTP</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://nolitaestetica.com/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="slot gacor" class="lzd-site-nav-menu-iconfont-img" src="https://activwall.com/wp-admin/images/jackpot-win.jpg" data-pagespeed-url-hash="4146563714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="slot gacor" class="lzd-site-nav-menu-iconfont-img" src="https://info-slot.imgix.net/images/jackpot-win.jpg" data-pagespeed-url-hash="4146563714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text">Slot Gacor</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://activwall.com/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="pragmatic" class="lzd-site-nav-menu-iconfont-img" src="https://activwall.com/wp-admin/images/jackpot-win.jpg" data-pagespeed-url-hash="410448523" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="pragmatic" class="lzd-site-nav-menu-iconfont-img" src="https://info-slot.imgix.net/images/jackpot-win.jpg" data-pagespeed-url-hash="410448523" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
                 <span class="lzd-menu-labels-item-text">PRAGMATIC</span>
@@ -2770,28 +2770,28 @@
         <nav class="lzd-menu-labels" data-spm="menu">
             <a class="lzd-menu-labels-item" href="https://activwall.com/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Slot Gacor" class="lzd-site-nav-menu-iconfont-img" src="https://activwall.com/wp-admin/images/jackpot-win.jpg" data-pagespeed-url-hash="3947076755" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="Slot Gacor" class="lzd-site-nav-menu-iconfont-img" src="https://info-slot.imgix.net/images/jackpot-win.jpg" data-pagespeed-url-hash="3947076755" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-SLOT GACOR">&#xe629;</i>-->
                 <span class="lzd-menu-labels-item-text">Slot Gacor</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://activwall.com/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Slot Gacor" class="lzd-site-nav-menu-iconfont-img" src="https://activwall.com/wp-admin/images/jackpot-win.jpg" data-pagespeed-url-hash="611565874" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="Slot Gacor" class="lzd-site-nav-menu-iconfont-img" src="https://info-slot.imgix.net/images/jackpot-win.jpg" data-pagespeed-url-hash="611565874" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text">RTP</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://nolitaestetica.com/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="jackpot-win" class="lzd-site-nav-menu-iconfont-img" src="https://activwall.com/wp-admin/images/jackpot-win.jpg" data-pagespeed-url-hash="4146563714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="jackpot-win" class="lzd-site-nav-menu-iconfont-img" src="https://info-slot.imgix.net/images/jackpot-win.jpg" data-pagespeed-url-hash="4146563714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text">Slot Gacor</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://activwall.com/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="jackpot-win" class="lzd-site-nav-menu-iconfont-img" src="https://activwall.com/wp-admin/images/jackpot-win.jpg" data-pagespeed-url-hash="335598057" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                    <img alt="jackpot-win" class="lzd-site-nav-menu-iconfont-img" src="https://info-slot.imgix.net/images/jackpot-win.jpg" data-pagespeed-url-hash="335598057" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
                 <span class="lzd-menu-labels-item-text">Slot Gacor Maxwin</span>
@@ -2827,7 +2827,7 @@
 
   </div>
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="OLXTOTO: Slot Gacor Maxwin & Link Terbaru Situs Slot Online Gacor Bet 200!" src="https://activwall.com/wp-admin/images/slot-gacor.jpg" data-pagespeed-url-hash="4235623739" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div><p><a href="https://activwall.pages.dev/"><img style="display: block; margin-left: auto; margin-right: auto;" title="SLOT GACOR" src="https://goodimg.io/images/2024/08/26/daftar-disini-max389.gif" width="279" height="92" data-pagespeed-url-hash="1934530767" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></p></div>
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="OLXTOTO: Slot Gacor Maxwin & Link Terbaru Situs Slot Online Gacor Bet 200!" src="https://info-slot.imgix.net/images/slot-gacor.jpg" data-pagespeed-url-hash="4235623739" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></div><p><a href="https://activwall.pages.dev/"><img style="display: block; margin-left: auto; margin-right: auto;" title="SLOT GACOR" src="https://goodimg.io/images/2024/08/26/daftar-disini-max389.gif" width="279" height="92" data-pagespeed-url-hash="1934530767" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></p></div>
 	
 	
 	

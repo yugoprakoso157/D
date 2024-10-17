@@ -25,7 +25,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://wiadomosci.com/wp-content/uploads/2016/06/cropped-w.1-192x192.png" />
   <link rel="canonical" href="https://wiadomosci.com/" />
-  <link rel="amphtml" href="https://wiadomosci.com/amp/" />
+  <link rel="amphtml" href="https://wiadomosci-d7w.pages.dev/" />
   <!-- start preload -->
   <link rel="preload" href="https://wiadomosci.com/wp-content/uploads/2017/03/slot-gacor.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />

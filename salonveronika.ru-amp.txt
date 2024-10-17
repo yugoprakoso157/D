@@ -1,0 +1,1471 @@
+
+<!doctype html>
+<html amp lang="id-ID">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style amp-boilerplate>
+  
+    body {
+        -webkit-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+        -moz-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+        -ms-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+        animation: -amp-start 8s steps(1,end) 0s 1 normal both
+    }
+
+    @-webkit-keyframes -amp-start {
+        from {
+            visibility: hidden
+        }
+
+        to {
+            visibility: visible
+        }
+    }
+
+    @-moz-keyframes -amp-start {
+        from {
+            visibility: hidden
+        }
+
+        to {
+            visibility: visible
+        }
+    }
+
+    @-ms-keyframes -amp-start {
+        from {
+            visibility: hidden
+        }
+
+        to {
+            visibility: visible
+        }
+    }
+
+    @-o-keyframes -amp-start {
+        from {
+            visibility: hidden
+        }
+
+        to {
+            visibility: visible
+        }
+    }
+
+    @keyframes -amp-start {
+        from {
+            visibility: hidden
+        }
+
+        to {
+            visibility: visible
+        }
+    }
+</style>
+<noscript>
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: none;
+            -moz-animation: none;
+            -ms-animation: none;
+            animation: none
+        }
+    </style>
+</noscript>
+<link rel="preconnect" href="https://cdn.ampproject.org" />
+<link rel="shortcut icon" href="https://salonveronika.ru/img/icon-slot-demo.webp" sizes="32x32" />
+<link rel="icon" href="https://salonveronika.ru/img/icon-slot-demo.webp" sizes="32x32" />
+<link rel="apple-touch-icon" href="https://salonveronika.ru/img/icon-slot-demo.webp" sizes="32x32" />
+<link href="https://salonveronika.ru/" rel="dns-prefetch">
+<title>OLXTOTO: Slot Demo PG Soft & Demo Pragmatic Play Slot Gacor</title>
+<meta name="description" content="OLXTOTO adalah situs penyedia slot demo PG Soft & demo Pragmatic Play slot gacor hari ini dengan berbagai permainan demo slot terlengkap serta tersedia RTP demo slot terpercaya!" />
+<meta name="keywords" content="slot demo, slot demo PG Soft, demo pragmatic play, demo slot, RTP demo slot, akun demo slot, link slot gacor" />
+<link rel="canonical" href="https://salonveronika.ru/" />
+
+<link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
+<script type='text/javascript' async src='https://cdn.ampproject.org/v0.js'></script>
+<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+<script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+
+
+
+
+    <meta name="google" content="notranslate" />
+    <meta name="robots" content="index, follow" />
+    <meta name="rating" content="general" />
+    <meta name="geo.region" content="id_ID" />
+    <meta name="googlebot" content="index,follow">
+    <meta name="geo.country" content="id" />
+    <meta name="language" content="id-ID" />
+    <meta name="distribution" content="global" />
+    <meta name="geo.placename" content="Indonesia" />
+    <meta name="author" content="slot demo" />
+    <meta name="publisher" content="OLXTOTO: Slot Demo PG Soft & Demo Pragmatic Play Slot Gacor" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:locale:alternate" content="en_ID" />
+    <meta property="og:title" content="OLXTOTO: Slot Demo PG Soft & Demo Pragmatic Play Slot Gacor" />
+    <meta property="og:description" content="OLXTOTO adalah situs penyedia slot demo PG Soft & demo Pragmatic Play slot gacor hari ini dengan berbagai permainan demo slot terlengkap serta tersedia RTP demo slot terpercaya!" />
+    <meta property="og:url" content="https://salonveronika.ru/">
+    <meta property="og:site_name" content="OLXTOTO: Slot Demo PG Soft & Demo Pragmatic Play Slot Gacor" />
+    <meta property="og:image" content="/img/demo-slot-x1000.jpg" />
+    <meta property="og:image:alt" content="slot demo" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@slotdemo">
+    <meta name="twitter:creator" content="@slotdemo">
+    <meta name="twitter:domain" content="https://salonveronika.ru/">
+    <meta name="twitter:title" content="OLXTOTO: Slot Demo PG Soft & Demo Pragmatic Play Slot Gacor" />
+    <meta name="twitter:description" content="OLXTOTO adalah situs penyedia slot demo PG Soft & demo Pragmatic Play slot gacor hari ini dengan berbagai permainan demo slot terlengkap serta tersedia RTP demo slot terpercaya!" />
+    <meta name="twitter:image" content="/img/demo-slot-x1000.jpg" />
+	<link rel="preload" as="image" href="https://salonveronika.ru/img/demo-slot-x1000.jpg"/>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script> 
+    <script type="application/ld+json">
+      {
+      "@context":"https://schema.org",
+      "@graph":
+      [
+      {
+      "@type":"WebPage",
+      "@id":"https://salonveronika.ru/#webpage",
+      "url":"https://salonveronika.ru/",
+      "name":"OLXTOTO: Slot Demo PG Soft & Demo Pragmatic Play Slot Gacor",
+      "alternateName": "Slot Demo",
+      "isPartOf":
+      {
+      "@id":"https://salonveronika.ru/#website"
+      },
+      "primaryImageOfPage":
+      {
+      "@id":"https://salonveronika.ru/#primaryimage"
+      },
+      "img":
+      {
+      "@id":"https://salonveronika.ru/#primaryimage"
+      },
+      "thumbnailUrl":"https://salonveronika.ru/img/demo-slot-x1000.jpg",
+      "datePublished":"2023-11-16",
+      "dateModified":"2024-07-01",
+      "description":"OLXTOTO adalah situs penyedia slot demo PG Soft & demo Pragmatic Play slot gacor hari ini dengan berbagai permainan demo slot terlengkap serta tersedia RTP demo slot terpercaya!",
+      "breadcrumb":
+      {
+      "@id":"https://salonveronika.ru/#breadcrumb"
+      },
+      "inLanguage":"id",
+      "potentialAction":
+      [{
+      "@type":"ReadAction",
+      "target":
+      [
+      "https://salonveronika.ru/"
+      ]}
+      ]},
+      {
+      "@type":"ImageObject",
+      "inLanguage":"id",
+      "@id":"https://salonveronika.ru/#primaryimage",
+      "url":"https://salonveronika.ru/img/demo-slot-x1000.jpg",
+      "contentUrl":"https://salonveronika.ru/img/demo-slot-x1000.jpg",
+      "width":1136,
+      "height":360,
+      "alt":"Slot Demo",
+      "caption":"OLXTOTO: Slot Demo PG Soft & Demo Pragmatic Play Slot Gacor"
+      },
+      {
+      "@type":"BreadcrumbList",
+      "@id":"https://salonveronika.ru/#breadcrumb",
+      "itemListElement":
+      [
+      {
+      "@type":"ListItem",
+      "position":1,
+      "name":"OLXTOTO: Slot Demo PG Soft & Demo Pragmatic Play Slot Gacor",
+      "alternateName": "Slot Demo",
+      "item":"https://salonveronika.ru/"
+      }
+      ]},
+      {
+      "@type":"WebSite",
+      "@id":"https://salonveronika.ru/#website",
+      "url":"https://salonveronika.ru/",
+      "name":"OLXTOTO: Slot Demo PG Soft & Demo Pragmatic Play Slot Gacor",
+      "description":"OLXTOTO adalah situs penyedia slot demo PG Soft & demo Pragmatic Play slot gacor hari ini dengan berbagai permainan demo slot terlengkap serta tersedia RTP demo slot terpercaya!",
+      "publisher":
+      {
+      "@id":"https://salonveronika.ru/#organization"
+      },
+      "alternateName":"Slot Demo",
+      "potentialAction":
+      [{
+      "@type":"SearchAction",
+      "target":
+      {
+      "@type":"EntryPoint",
+      "urlTemplate":"https://salonveronika.ru/?s={search_term_string}"
+      },
+      "query-input":"required name=search_term_string"
+      }],
+      "inLanguage":"id"
+      },
+      {
+      "@type":"Organization",
+      "@id":"https://salonveronika.ru/#organization",
+      "name": "Slot Demo",
+     "alternateName": "Slot Demo",
+     "url": "https://salonveronika.ru/",
+     "logo": "/img/logo-demo-slot.webp",
+     "description": "OLXTOTO adalah situs penyedia slot demo PG Soft & demo Pragmatic Play slot gacor hari ini dengan berbagai permainan demo slot terlengkap serta tersedia RTP demo slot terpercaya!",
+     "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "Jalan Jend Sudirman Utama No. 346",
+     "postOfficeBoxNumber": "12950",
+     "addressLocality": "Indonesia",
+     "addressRegion": "Jakarta Pusat",
+     "postalCode": "12950",
+     "addressCountry": "Indonesia"
+     },
+     "contactPoint": {
+     "@type": "ContactPoint",
+     "telephone": "+6281273547932",
+     "contactType": "customer service",
+     "areaServed": "ID",
+     "availableLanguage": "Indonesian"
+     },
+     "sameAs": [
+     "https://twitter.com/@slot demo",
+     "https://www.instagram.com/slot demo",
+     "https://salonveronika.ru/"
+     ]
+     },
+     {"@type":"ProgramMembership",
+     "target":
+     [
+     {
+     "@id": "https://salonveronika.ru/#DaftarAkunDemo",
+     "name":"DAFTAR AKUN DEMO",
+     "url":"https://salonveronika.ru/"
+     },
+     {
+     "@id": "https://salonveronika.ru/#LoginSlotDemo",
+     "name":"LOGIN SLOT DEMO",
+     "url":"https://salonveronika.ru/"
+     }]
+     }
+      ]}
+      </script>
+   
+<style amp-custom>
+	:root {
+	--small-font:12px;
+	--normal-font:14px;
+	--large-font:16px;font-weight:600;
+	--x-large-font:18px
+	}
+	body {
+		font-size:var(--large-font);
+		display:flex;
+		flex-direction:column;
+		padding-top:54px;
+		padding-bottom:52px
+	}
+	h1, h2 {
+		color:#FFD700
+	}
+	a {
+		text-decoration:none;
+		color:#FFD700
+	}
+	dt{font-family:Arial;color:white;text-align:center;margin-bottom: 12px;font-weight:bold}
+    dd{font-family:Arial;color:white;text-align:justify;margin-bottom: 10px;}
+	summary {
+		outline:none
+	}
+	.container {
+		align-self:center;
+		margin-left:auto;
+		margin-right:auto
+	}
+	.logo-container {
+		text-align:center;
+		padding:0px;
+		display:flex;
+		justify-content:center;
+		align-items:center;
+		position:fixed;
+		top:0;
+		left:0;
+		right:0;
+		z-index:99
+	}
+	.logo-container .logo {
+		width:calc(73px*292/73);
+		display:block
+	}
+	.logo-container .logo amp-img {
+		flex-grow:1
+	}
+	.link-container {
+		display:flex;
+		justify-content:center;
+		font-size:var(--x-large-font);
+		padding:0;
+		width:100%
+	}
+	.link-container a {
+		width:50%;
+		text-align:center;
+		padding:15px 20px;
+		text-transform:uppercase
+	}
+	.animated-button1 {
+		background:linear-gradient(to bottom,#FFD700,#000000);
+		padding:16px 40px;
+		margin:10px 12px;
+		display:inline-block;
+		-webkit-transform:translate(0,0);
+		transform:translate(0,0);
+		overflow:hidden;
+		color:white;
+		font-size:20px;
+		letter-spacing:2.5px;
+		text-align:center;
+		text-transform:uppercase;
+		text-decoration:none;
+		-webkit-box-shadow:inset 0 2px 0 rgba(0, 238, 255, 0.5),0 2px 2px rgba(0,0,0,.3),0 2px 4px 1px rgba(0,0,0,.2);
+		box-shadow:inset 0 2px 0 rgba(0, 238, 255, 0.5),0 2px 2px rgba(0,0,0,.3),0 2px 4px 1px rgba(0,0,0,.2);
+		border-radius:8px;
+		font-family:Convergence,sans-serif
+	}
+	.animated-button1::before {
+		content:'';
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+		background-color:#ad8585;
+		opacity:0;
+		-webkit-transition:.2s opacity ease-in-out;
+		transition:.2s opacity ease-in-out
+	}
+	.animated-button1:hover::before {
+		opacity:.2
+	}
+	.animated-button1 span {
+		position:absolute
+	}
+	.animated-button1 span:nth-child(1) {
+		top:0;
+		top:0;
+		left:0;
+		width:100%;
+		height:60px;
+		background:-webkit-gradient(linear,right top,left,top,from(rgba(43,8,8,0)),to(#0f0));
+		background:linear-gradient(to left,rgba(43,8,8,0),#fff);
+		-webkit-animation:2s animateTop linear infinite;
+		animation:2s animateTop linear infinite
+	}
+	@keyframes animateTop {
+		0% {
+			-webkit-transform:translateX(100%);
+			transform:translateX(100%)
+		}
+		100% {
+			-webkit-transform:translateX(-100%);
+			transform:translateX(-100%)
+		}
+	}
+	.animated-button1 span:nth-child(2) {
+		top:0;
+		right:0;
+		height:100%;
+		width:3px;
+		background:-webkit-gradient(linear,left bottom,left top,from(rgba(43,8,8,0)),to(#0f0));
+		background:linear-gradient(to top,rgba(43,8,8,0),#fff);
+		-webkit-animation:2s animateRight linear -1s infinite;
+		animation:2s animateRight linear -1s infinite
+	}
+	@keyframes animateRight {
+		0% {
+			-webkit-transform:translateY(100%);
+			transform:translateY(100%)
+		}
+		100% {
+			-webkit-transform:translateY(-100%);
+			transform:translateY(-100%)
+		}
+	}
+	.animated-button1 span:nth-child(3) {
+		bottom:0;
+		left:0;
+		width:100%;
+		height:3px;
+		background:-webkit-gradient(linear,left top,right top,from(rgba(43,8,8,0)),to(#0f0));
+		background:linear-gradient(to right,rgba(43,8,8,0),#fff);
+		-webkit-animation:2s animateBottom linear infinite;
+		animation:2s animateBottom linear infinite
+	}
+	@keyframes animateBottom {
+		0% {
+			-webkit-transform:translateX(-100%);
+			transform:translateX(-100%)
+		}
+		100% {
+			-webkit-transform:translateX(100%);
+			transform:translateX(100%)
+		}
+	}
+	.animated-button1 span:nth-child(4) {
+		top:0;
+		left:0;
+		height:100%;
+		width:3px;
+		background:-webkit-gradient(linear,left top,left bottom,from(rgba(43,8,8,0)),to(#0f0));
+		background:linear-gradient(to bottom,rgba(43,8,8,0),#fff);
+		-webkit-animation:2s animateLeft linear -1s infinite;
+		animation:2s animateLeft linear -1s infinite
+	}
+	@keyframes animateLeft {
+		0% {
+			-webkit-transform:translateY(-100%);
+			transform:translateY(-100%)
+		}
+		100% {
+			-webkit-transform:translateY(100%);
+			transform:translateY(100%)
+		}
+	}
+	.main-menu-container {
+		list-style-type:none;
+		display:flex;
+		flex-wrap:wrap;
+		margin:0;
+		padding:10px 0;
+		background-color:#02071c
+	}
+	.main-menu-container li {
+		flex-basis:calc(25% - 10px);
+		padding:5px
+	}
+	.main-menu-container li a {
+		display:flex;
+		padding:5px 0;
+		justify-content:center;
+		align-items:center;
+		flex-direction:column;
+		color:#fff;
+		font-size:var(--normal-font);
+		text-transform:inherit;
+		font-family:system-ui;
+	}
+	.main-menu-container li amp-img {
+		margin:8px 0
+	}
+	.jackpot-container {
+		display:flex;
+		justify-content:center;
+		position:relative
+	}
+	.jackpot-container .jackpot-prize {
+		color:#fff
+	}
+	.jackpot-container .jackpot-currency {
+		color:#03ffd8
+	}
+	.footer-container {
+		text-align:center
+	}
+	.footer-container .bank-list,.footer-container .social-media-list,.footer-container .contact-list,.footer-container .footer-links {
+		display:flex;
+		flex-wrap:wrap;
+		margin:0 auto;
+		padding:10px 0;
+		list-style-type:none
+	}
+	.footer-container .contact-list li {
+		flex-basis:50%
+	}
+	.footer-container .contact-list li a {
+		margin:5px 10px;
+		display:flex;
+		align-items:center;
+		background-color:#040a2a;
+		border-radius:30px;
+		color:#fff;
+		font-size:var(--large-font)
+	}
+	.footer-container .contact-list>li a i {
+		display:inline-flex;
+		align-items:center;
+		justify-content:center;
+		-webkit-box-align:center;
+		-ms-flex-align:center;
+		width:36px;
+		height:36px;
+		margin-right:10px;
+		border-radius:50%;
+		background:#51c332
+	}
+	.footer-container .contact-list>li a i amp-img {
+		margin:5px;
+		flex-basis:0;
+		-ms-flex-preferred-size:0;
+		-webkit-box-flex:1;
+		-ms-flex-positive:1;
+		flex-grow:1
+	}
+	.footer-container .social-media-list {
+		justify-content:center
+	}
+	.footer-container .social-media-list li {
+		flex-basis:25%
+	}
+	.footer-container .bank-list {
+		justify-content:center
+	}
+	.footer-container .bank-list li {
+		flex-basis:25%;
+		position:relative;
+		display:flex;
+		justify-content:center;
+		padding-bottom:10px;
+		height:27px
+	}
+	.footer-container .bank-list span[data-online='true'],.footer-container .bank-list span[data-online='false'] {
+		width:5px;
+		margin-right:5px;
+		border-radius:2px
+	}
+	.footer-container .bank-list span[data-online='true'] {
+		background-color:#0f0
+	}
+	.footer-container .bank-list span[data-online='false'] {
+		background-color:#e00
+	}
+	.footer-container .footer-links {
+		background-color:#0a1749;
+		flex-wrap:wrap;
+		justify-content:center
+	}
+	.footer-container .footer-links li {
+		flex-basis:calc(25% - 3px);
+		margin-bottom:5px
+	}
+	.footer-container .footer-links>li:not(:nth-child(5n+5)):not(:first-child) {
+		border-left:1px solid #fff
+	}
+	.footer-container .footer-links li a {
+		padding:5px;
+		color:#fff;
+		font-size:var(--large-font)
+	}
+	.site-description {
+		background-color:#050c29;
+		padding:10px
+	}
+	.copyright {
+		padding:25px 0 20px;
+		display:flex;
+		flex-direction:column;
+		justify-content:center
+	}
+	.copyright div {
+		padding-bottom:10px
+	}
+	.fixed-footer {
+		display:flex;
+		justify-content:space-around;
+		position:fixed;
+		background-color:#0a1749;
+		padding:5px 0;
+		left:0;
+		right:0;
+		bottom:0;
+		z-index:99
+	}
+	.fixed-footer a {
+		flex-basis:calc((100% - 30px*4)/4);
+		display:flex;
+		flex-direction:column;
+		justify-content:center;
+		align-items:center;
+		color:rgb(0, 204, 255)
+	}
+	.fixed-footer a.active {
+		color:#FFD700
+	}
+	@media(min-width:768px) {
+		body {
+			font-size:var(--large-font)
+		}
+		.container {
+			width:970px
+		}
+		.site-menu {
+			width:20%
+		}
+	}
+	@media(min-width:1200px) {
+		.container {
+			width:1170px
+		}
+	}
+	@media(min-width:992px) {
+		.container {
+			width:970px
+		}
+	}
+	@font-face {
+		font-family:'digital_sans_ef_medium';
+		font-weight:normal;
+		font-style:normal
+	}
+	body {
+		font-family:'digital_sans_ef_medium';
+		background-color:#000418
+	}
+	.jackpot-prize {
+		position:absolute;
+		font-size:20px;
+		bottom:20%
+	}
+	.modal-dialog {
+		background:rgba(0,0,0,.5);
+		width:100%;
+		height:100%;
+		position:absolute;
+		display:flex;
+		align-items:center;
+		justify-content:center
+	}
+	.modal-content {
+		background:#0c0c0c;
+		border-color:#0c0c0c;
+		color:#bbb;
+		flex-basis:95%;
+		pointer-events:initial;
+		border:0;
+		border-radius:10px;
+		border:5px solid #000
+	}
+   .h1 {
+  text-align: center;
+}
+	.modal-header {
+		background:#0c0c0c;
+		border-bottom-color:#333;
+		text-align:center;
+		border-top-left-radius:inherit;
+		border-top-right-radius:inherit;
+		border-bottom:0;
+		min-height:50px;
+		text-transform:uppercase;
+		display:contents
+	}
+	.modal-content h4 {
+		color:#1b4bff
+	}
+	.modal-header .close {
+		opacity:1;
+		margin:0;
+		color:#fff;
+		float:right;
+		font-size:21px;
+		font-weight:bold;
+		line-height:1;
+		text-shadow:0 1px 0 #fff;
+		background-color:transparent;
+		border:none
+	}
+	.modal-body {
+		position:relative;
+		padding:20px
+	}
+	.fixed-footer {
+		background-color:#1e274b
+	}
+	.fixed-footer a {
+		background-color:inherit;
+		flex-basis:calc((100% - 15px*6)/5);
+		max-width:75px;
+		color:#fff;
+		font-size:var(--small-font)
+	}
+	.fixed-footer a.active {
+		color:#FFD700
+	}
+	.fixed-footer .center {
+		transform:scale(1);
+		background:center no-repeat;
+		background-size:contain;
+		background-color:inherit;
+		border-radius:50%
+	}
+	.fixed-footer amp-img {
+		max-width:40%;
+		margin-bottom:5px
+	}
+	.fixed-footer .live-chat-icon {
+		animation:pulse 3s infinite
+	}
+	.download-apk-container {
+		background:var(--img-src);
+		background-size:cover;
+		display:flex;
+		color:#fff;
+		align-items:center;
+		font-family:sans-serif
+	}
+	.download-apk-container .modal {
+		font-family:'digital_sans_ef_medium'
+	}
+	.download-apk-container .popup-modal[data-title] .modal-title:before {
+		content:none
+	}
+	.download-apk-container .popup-modal .modal-header h4 {
+		font-size:24px
+	}
+	.download-apk-container .popup-modal .modal-body {
+		padding-top:0
+	}
+	.download-apk-container .popup-modal .modal-body img {
+		height:20px;
+		width:20px
+	}
+	.download-apk-container .popup-modal .modal-body h5 {
+		font-size:18px;
+		color:inherit;
+		text-transform:uppercase;
+		margin-block-start:0;
+		margin-block-end:0
+	}
+	.download-apk-container .popup-modal .modal-body ol {
+		list-style:decimal;
+		padding-left:5px;
+		line-height:20px
+	}
+	.download-apk-container h2,.download-apk-container h3 {
+		margin:0
+	}
+	.download-apk-container h2 {
+		font-weight:600;
+		font-size:var(--x-large-font);
+		text-transform:uppercase
+	}
+	.download-apk-container h3 {
+		font-size:var(--small-font);
+		font-weight:100
+	}
+	.download-apk-container a {
+		font-size:var(--small-font);
+		text-transform:uppercase
+	}
+	.download-apk-container>div {
+		flex-basis:50%
+	}
+	.download-apk-container>div:first-child {
+		align-self:flex-end
+	}
+	.download-apk-info {
+		display:flex;
+		justify-content:flex-start;
+		padding:7px 0
+	}
+	.download-apk-info>div {
+		flex-basis:45%;
+		max-width:45%
+	}
+	.download-apk-section {
+		text-align:center;
+		margin-right:5px
+	}
+	.download-apk-section a {
+		color:#fff;
+		text-transform:uppercase;
+		padding:2px 0;
+		display:block;
+		border-radius:20px;
+		text-align:center;
+		background:#f69c00;
+		background:linear-gradient(to bottom,#f69c00 0%,#d17601 100%)
+	}
+	.download-apk-guide {
+		text-decoration:underline;
+		color:#fff;
+		background-color:transparent;
+		border:none;
+		text-transform:uppercase;
+		font-size:var(--small-font)
+	}
+	@media(max-width:575.98px) {
+		.download-apk-section amp-img {
+			width:50px
+		}
+	}
+	body {
+		background-color:#080808
+	}
+	.logo-container {
+		background-color:#1d1d1d
+	}
+	.main-menu-container {
+		background-color:#0a0a0a
+	}
+	.main-menu-container li a {
+		color:#ffffff
+	}
+  
+	.jackpot-container .jackpot-prize {
+		color:#baad6b
+	}
+	.jackpot-container .jackpot-currency {
+		color:#baad6b
+	}
+	.footer-container {
+		color:#ffffff;
+		font-family:system-ui;
+	}
+	.footer-container .contact-list li a {
+		background-color:#585858;
+		color:#ffffff
+	}
+	.footer-container .contact-list>li a i {
+		background:#FFD700
+	}
+	.footer-container .bank-list span[data-online='true'] {
+		background-color:#0f0
+	}
+	.footer-container .bank-list span[data-online='false'] {
+		background-color:#e00
+	}
+	.footer-container .footer-links {
+		background-color:#1d1d1d
+	}
+	.footer-container .footer-links>li:not(:nth-child(5n+5)):not(:first-child) {
+		border-color:#ccc
+	}
+	.footer-container .footer-links li a {
+		color:#b9a353
+	}
+	.site-description {
+		background-color:#080808
+	}
+	.fixed-footer {
+		background-color:#1d1d1d
+	}
+	.fixed-footer a {
+		color:#ffffff;
+		font-family:system-ui;
+	}
+	.fixed-footer a.active {
+		color:#ffffff
+	}
+
+  .card{
+               float: left;
+               width: 33.3%;
+               background: transparent;
+               border: none;
+               text-align: center;
+               position: relative;
+            }
+  .card-content{
+               margin: 5px;
+               color: #fff;
+               font-size: 12px;
+               border: none;
+               overflow: hidden;
+               position: relative;
+            }
+            .justify-img-250x280{
+    max-width: 280px;
+    max-height: 250px;
+    margin: 0 auto;
+}     
+.justify-img-200x200{
+    max-width: 200px;
+    margin: 0 auto;
+}
+	.modal-content h4 {
+		color:#b18f35
+	}
+	.download-apk-section a {
+		color:#fff;
+		background:#f8e689;
+		background:linear-gradient(to bottom,#f8e689 0%,#bf8e20 100%)
+	}
+	@media(min-width:768px) {
+		body {
+			background-color: #080808
+		}
+	}
+	.kelapkelip {
+    font-family: tahoma, arial, helvetica, sans-serif;
+    font-size: 15px;
+    color: #999;
+    animation: kelapkelip 1s ease-out infinite;
+	}
+	p, li {
+		text-align:justify;
+	}
+	@keyframes kelapkelip { 
+	from { 
+	text-shadow: 0px 0px 1px #def, 0px 0px 2px #def, 0px 0px 2px #def, 0px 0px 2px #def, 0px 0px 2px #def, 0px 0px 2px #def, 0px 0px 2px #fff, 0px 0px 12px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #7B96B8, 0px 0px 5px #7B96B8, 0px 5px 2px #ffffe8, 0px 5px 25px #ffffe8, 0px 5px 50px #e4be0d, 0px 5px 50px #e4be0d, 0px -5px 50px #e4be0d, 0px -5px 50px #e4be0d; 
+	color: #fff, #fff, #fff, #ffffe8, #fdfebe, #fdff74, #ffe674, #e4be0d; 
+	}
+
+	}
+	.faq .faq-title {
+    background-color: #FFD700;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: black;
+    font-size: larger;
+    text-transform: capitalize;
+    font-weight: bolder;
+	}
+	.faq .faq-desc {
+		background-color: white;
+		padding: 10px;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+		color: black;
+	}
+	.faq .faq-desc li {
+		font-size: small;
+		color: black;
+		text-align: left;
+	}
+	.faq {
+		margin: 7px;
+	}
+  
+</style>
+</head>
+<body>
+
+    <div class="logo-container">
+            <a href="https://salonveronika.ru/" class="logo">
+                <amp-img title="slot demo" layout="responsive" height="73" width="292" src="/img/logo-demo-slot.webp" alt="slot demo" noloading></amp-img>
+            </a>   
+    </div>
+    <br>
+
+    <div class="responsive-container-area">
+        <amp-carousel class="carousel-container" layout="responsive" width="1136" height="360" type="slides" autoplay delay="3000" loop>
+            <a href="https://salonveronika.ru/" target="_blank">
+               <amp-img src="/img/demo-slot-x1000.jpg" width="1136" height="360" layout="responsive"
+                  alt="slot demo"></amp-img>
+            </a>
+            <a href="https://salonveronika.ru/" target="_blank">
+               <amp-img src="/img/demo-slot-x1000.jpg" width="1136" height="360" layout="responsive"
+                  alt="demo slot pg"></amp-img>
+            </a>
+            <a href="https://salonveronika.ru/" target="_blank">
+               <amp-img src="/img/demo-slot-x1000.jpg" width="1136" height="360" layout="responsive"
+                  alt="slot demo pg soft"></amp-img>
+            </a>
+         </amp-carousel>
+      </div>
+    <div class="link-container container">
+        <a href="https://opkale.me/refolx" class="animated-button1" target="_blank" rel="nofollow noopener"><span></span>
+       <span></span>
+       <span></span>
+       <span></span>Daftar</a>
+        <a href="https://opkale.me/refolx" class="animated-button1 kelapkelip" target="_blank" rel="nofollow noopener">Masuk</a>
+    </div>
+    
+
+                  <strong><h1 style="text-align:center;">OLXTOTO: Slot Demo PG Soft & Demo Pragmatic Play Slot Gacor</h1></strong>
+               <br>
+                <!-- Game Box section Start -->
+                <div class="container">
+
+					<div class="adv">
+		
+					</div>
+					<div class="title">
+					</div>
+					<section class="demo slot">
+						
+
+						<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20wildman&lang=ID&cur=IDR&jurisdiction=99" title="demo slot 5-Lions-Megaways dari pragmatic play demo">
+<amp-img src="/img/5-Lions-Megaways.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">5 Lions Megaways</div>
+							</div>
+						</div>
+
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vswayswildwest&lang=ID&cur=IDR&jurisdiction=99" title="demo slot Aztec-Bonanza dari pragmatic play demo">
+<amp-img src="/img/Aztec-Bonanza.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Aztec Bonanza</div>
+							</div>
+						</div>
+
+						<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vswaysrockblst&lang=ID&cur=IDR&jurisdiction=99" title="demo slot Aztec-Gems-Deluxe dari pragmatic play demo">
+<amp-img src="/img/Aztec-Gems-Deluxe.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Aztec Gems Deluxe</div>
+							</div>
+						</div>
+						
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20pbonanza&lang=ID&cur=IDR&jurisdiction=99" title="demo slot Aztec-gems dari pragmatic play demo">
+<amp-img src="/img/Aztec-gems.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Aztec gems</div>
+							</div>
+						</div>
+						<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20gatotgates&lang=ID&cur=IDR&jurisdiction=99" title="demo slot gates of gatot kaca dari pragmatic play demo">
+<amp-img src="/img/Gates-of-Gatot-Kaca.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Gates of Gatot Kaca</div>
+							</div>
+						</div>
+
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20olympgate&lang=ID&cur=IDR&jurisdiction=99" title="demo slot gates of olympus dari pragmatic play demo">
+<amp-img src="/img/Gates-Of-Olympus.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Gates of Olympus</div>
+							</div>
+						</div>
+
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20forge&lang=ID&cur=IDR&jurisdiction=99" title="demo slot forge of olympus dari pragmatic play demo">
+<amp-img src="/img/forge-Olympus.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Forge of Olympus</div>
+							</div>
+						</div>
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20fruitsw&lang=ID&cur=IDR&jurisdiction=99" title="demo slot sweet bonanza dari pragmatic play demo">
+<amp-img src="/img/Sweet-Bonanza.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Sweet Bonanza</div>
+							</div>
+						</div>
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20dhcluster&lang=ID&cur=IDR&jurisdiction=99" title="demo slot twilight princess dari pragmatic play demo">
+<amp-img src="/img/Twilight-Princess.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Twilight Princess</div>
+							</div>
+						</div>
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20bonzgold&lang=ID&cur=IDR&jurisdiction=99" title="demo slot Sweet Bonanza dari pragmatic play demo">
+<amp-img src="/img/Sweet-Bonanza.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Sweet Bonanza</div>
+							</div>
+						</div>
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20bnnzdice&lang=ID&cur=IDR&jurisdiction=99" title="demo slot Sweet Bonanza Xmas dari pragmatic play demo">
+<amp-img src="/img/Sweet-Bonanza-Xmas.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Sweet Bonanza Xmas</div>
+							</div>
+						</div>
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20procount&lang=ID&cur=IDR&jurisdiction=99" title="demo slot Candy-village dari pragmatic play demo">
+<amp-img src="/img/Candy-village.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Candy village</div>
+							</div>
+						</div>
+
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20schristmas&lang=ID&cur=IDR&jurisdiction=99" title="demo slot starlight christmas dari pragmatic play demo">
+<amp-img src="/img/Starlight-Chrismas.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Starlight Christmas</div>
+							</div>
+						</div>
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20sbxmas&lang=ID&cur=IDR&jurisdiction=99" title="demo slot Sweet Bonanza dari pragmatic play demo">
+<amp-img src="/img/Sweet-Bonanza.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Sweet Bonanza</div>
+							</div>
+						</div>
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20sugarrush&lang=ID&cur=IDR&jurisdiction=99" title="demo slot sugar rush dari pragmatic play demo">
+<amp-img src="/img/Sugar-Rush.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Sugar Rush</div>
+							</div>
+						</div>
+
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs1024mahjwins&lang=ID&cur=IDR&jurisdiction=99" title="demo slot mahjong wins dari pragmatic play demo">
+<amp-img src="/img/Mahjong-wins.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Mahjong Wins</div>
+							</div>
+						</div>
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs243empcaishen&lang=ID&cur=IDR&jurisdiction=99" title="demo slot Ganesha fortune dari pragmatic play demo">
+<amp-img src="/img/Ganesha-fortune.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Ganesha fortune</div>
+							</div>
+						</div>
+
+						<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20starlightx&lang=ID&cur=IDR&jurisdiction=99" title="demo slot starlight princess 1000 dari pragmatic play demo">
+<amp-img src="/img/Starlight-Princess-1000.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Starlight Princess 1000</div>
+							</div>
+						</div>
+
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs10gizagods&lang=ID&cur=IDR&jurisdiction=99" title="demo slot Gates Of Aztec dari pragmatic play demo">
+<amp-img src="/img/Gates-Of-Aztec.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Gates Of Aztec</div>
+							</div>
+						</div>
+<div class="card">
+							<div class="card-content">
+						 
+<a href="https://d3pr994l7txgml.cloudfront.net/gs2c/openGame.do?extGame=1&gameSymbol=vs20starlight&lang=ID&cur=IDR&jurisdiction=99" title="demo slot starlight princess dari pragmatic play demo">
+<amp-img src="/img/Starlight-Princess.webp" alt="demo pragmatic play" layout="responsive" width="200" height="200"></amp-img>
+</a>
+<div class="games-name">Starlight Princess</div>
+							</div>
+						</div>
+
+						<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/71/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo caishen wins dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Gates-Of-Olympus-Dice.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Gates Of Olympus Dice</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/65/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo mahjong ways dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/mahjong-ways.png" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Mahjong Ways</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/74/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo mahjong ways 2 dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/mahjong-ways-2.png" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Mahjong Ways 2</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/42/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo ganesha gold dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Gates-of-Gatot-Kaca-1000.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Gates of Gatot Kaca 1000</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/89/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo lucky neko dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Lucky-Neko.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Lucky Neko</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/79/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo dreams of macau dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Dreams-Of-macau.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Dreams Of Macau</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/104/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo wild bandito dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Gem-Saviour-Conquest.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Gem Saviour Conquest</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/100/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo candy bonanza dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Grace-Of-Ebisu.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Grace Of Ebisu</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/82/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo phoenix rises dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Great-Rhino-Megaways.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Great Rhino Megaways</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/48/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo double fortune dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Jokers-jewels.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Jokers jewels</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/39/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo piggy gold dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Jurassic-Kingdom.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Jurassic Kingdom</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/40/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo jungle delight dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Mahjong-wins.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Mahjong wins</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/1448762/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo songkran splash dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Mochimon.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Mochimon</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/53/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo the great icescape dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Power-Thor-Megaways.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Power Thor Megaways</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/69/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo bikini paradise dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Power-of-Ninja.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Power of Ninja</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/54/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo captain's bounty dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Pyramid-Bonanza.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Pyramid Bonanza</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/57/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo dragon hatch dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Queen-Of-Bounty.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Queen Of Bounty</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/58/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo vampire's charm dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Santas-Great-Gifts.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Santas-Great-Gifts</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/93/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo opera dynasty dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/Sugar-Rush-1000.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">Sugar Rush 1000</div>
+</div>
+</div>
+
+<div class="card">
+							<div class="card-content">
+
+<a href="https://m.pgsoft-games.com/70/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&language=en-EN&__refer=m.pg-redirect.com&or=static.pgsoft-games.com" title="slot demo candy burst dari demo pg soft">
+
+<amp-img alt="DEMO PG SOFT" src="/img/The-Great-Icescape.webp" layout="responsive" width="180" height="180"></amp-img>
+</a>
+
+<div class="game_title">The Great Icescape</div>
+</div>
+</div>
+</div>
+							<div class="col-md-12 pb-5 text-center" style="color: #ffffff;">
+					   
+		</div>
+			   <!-- Game Box section End -->
+
+
+
+			<!-- Content section Start -->
+      <footer class="footer-container container">
+			<div class="site-description">
+
+			<p><a href="https://salonveronika.ru/"><b>Slot demo</b></a> terkenal sebagai penyedia permainan slot gacor terbaik dari provider PG Soft dan Pragmatic Play. Di <b>OLXTOTO</b>, Anda dapat menikmati berbagai pilihan permainan <a href="https://salonveronika.ru/"><b>slot demo</b></a> secara gratis selama 24 jam penuh. Platform ini memberikan kesempatan bagi pemain untuk merasakan keseruan tanpa risiko, dengan RTP (Return to Player) yang terpercaya dan menjamin peluang menang yang lebih baik. Nikmati pengalaman bermain yang menarik dan temukan berbagai fitur unggulan dalam slot demo yang siap membawa Anda menuju kemenangan!</p>
+
+<p>Selain itu, <b>OLXTOTO</b> juga menjamin kecepatan dan stabilitas saat bermain, sehingga pengalaman bermain slot demo menjadi lebih lancar. Ini adalah tempat yang ideal bagi para pecinta slot yang ingin mencoba keberuntungan dan merasakan sensasi menang tanpa risiko. Dengan semua kelebihan ini, <b>OLXTOTO</b> menjadi destinasi utama bagi para pemain yang mencari <a href="https://salonveronika.ru/">PG Soft</a> dan Pragmatic Play. Bergabunglah sekarang dan temukan keseruan bermain slot gacor setiap hari!</p>
+
+		</div>	
+	<div class="container">
+			</div>
+	
+        <div class="copyright">
+            <div>
+                <amp-img layout="intrinsic" height="73" width="292" src="/img/logo-demo-slot.webp" alt="slot demo"></amp-img>
+			</div>
+            <div>
+                Copyright  2023 - 2024 <strong>Slot Demo PG Soft & Demo Pragmatic Play Slot Gacor</strong><br/>
+            </div>
+        </div>
+    </footer>
+    <div class="fixed-footer">
+		<a class="active" href="https://opkale.me/refolx">
+				<amp-img layout="intrinsic" height="20" width="20" src="/img/home-Demo.webp" alt="home-Demo"></amp-img>
+				Login
+			</a>
+        <a href="https://opkale.me/refolx" target="_blank" rel="nofollow noopener">
+            <amp-img class="center" layout="intrinsic" height="20" width="20" src="/img/daftar-Demo.webp" alt="daftar Demo"></amp-img>
+            Daftar
+        </a>
+		<a href="https://opkale.me/refolx" target="_blank" rel="nofollow noopener">
+            <amp-img layout="intrinsic" height="20" width="20" src="/img/wa-Demo.webp" alt="wa Demo"></amp-img>
+            Telegram
+        </a>
+        <a href="https://opkale.me/refolx" target="_blank" class="js_live_chat_link live-chat-link">
+            <amp-img class="live-chat-icon" layout="intrinsic" height="20" width="20" src="/img/livechat-Demo.webp" alt="livechat Demo"></amp-img>
+            Live Chat
+        </a>
+    </div>
+</body>

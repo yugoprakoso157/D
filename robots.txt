@@ -1,3 +1,3 @@
 User-Agent: *
-Allow: /index.php
-Sitemap: https://kmkt.ro/sitemap.xml
+Allow: /index.html
+Sitemap: https://moodle.peq.coppe.ufrj.br/sitemap.xml

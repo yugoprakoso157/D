@@ -14,6 +14,7 @@
   <link rel="apple-touch-icon-precomposed" href="https://mojbilet.com/wp-content/uploads/2022/08/logo.png" />
   <link rel="amphtml" href="https://mojbilet.com/amp/" />
   <link rel="canonical" href="https://mojbilet.com/" />
+  <meta name="google-site-verification" content="V-n58UoT_8O-vb0vQXZFqYJledlytJJcwpxpn0-2sD4" />
   <meta property="og:site_name" content="OLXTOTO" />
   <meta property="og:title"
     content="OLXTOTO # 10 REKOMENDASI SITUS BANDAR TOTO MACAU TOP 1" />

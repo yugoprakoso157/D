@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="id" data-n-head-ssr amp data-n-head="%7B%22amp%22:%7B%22ssr%22:true%7D%7D">
 
@@ -379,7 +378,7 @@
             </div>
           </div>
         </div>
-        <div class="mobile-menu flex"><a href="https://opkale.me/refolx"><amp-img src="https://info-slot.imgix.net/img/whatsapp-olx.web" alt="Whatsapp Olxtoto" layout="fixed"
+        <div class="mobile-menu flex"><a href="https://opkale.me/refolx"><amp-img src="https://info-slot.imgix.net/img/whatsapp-olx.webp" alt="Whatsapp Olxtoto" layout="fixed"
               height="30" width="30"></amp-img>
             <div>Whatsapp</div>
           </a><a href="https://opkale.me/refolx"><amp-img src="https://info-slot.imgix.net/img/daftar.webp" alt="Daftar Olxtoto" layout="fixed" height="30" width="30"></amp-img>

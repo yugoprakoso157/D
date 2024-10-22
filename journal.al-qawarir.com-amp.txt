@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html ⚡ lang="id">
 <head>
@@ -8,9 +7,9 @@
 <meta name="robots" content="Index, Follow">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <title>OLXTOTO # Link Situs Toto | Bandar Toto 4D Online Terpercaya</title>
-<link rel="canonical" href="https://normaljuandediosrh.com/" />
-<link rel="icon" type="image/x-icon" href="https://normaljuandediosrh.com/img/icon-situstoto.png">
-<link href="https://normaljuandediosrh.com/" rel="dns-prefetch">	
+<link rel="canonical" href="https://journal.al-qawarir.com/" />
+<link rel="icon" type="image/x-icon" href="https://journal.al-qawarir.com/favicon.ico">
+<link href="https://journal.al-qawarir.com/" rel="dns-prefetch">	
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <meta name="description" content="OLXTOTO hadir sebagai Situstoto terpercaya dan platform bandar toto 4d yang dapat di akses secara online kami hadir menyambut penguna baru yang ingin mencari link situs toto dengan layanan 24 jam ramah bagi penguna. Bergabung sekarang Juga!!!" />
@@ -28,17 +27,17 @@
 <meta property="og:locale" content="id_ID" />
 <meta property="og:title" content="OLXTOTO # Link Situs Toto | Bandar Toto 4D Online Terpercaya" />
 <meta property="og:description" content="OLXTOTO hadir sebagai Situstoto terpercaya dan platform bandar toto 4d yang dapat di akses secara online kami hadir menyambut penguna baru yang ingin mencari link situs toto dengan layanan 24 jam ramah bagi penguna. Bergabung sekarang Juga!!!" />
-<meta property="og:url" content="https://normaljuandediosrh.com/">
+<meta property="og:url" content="https://journal.al-qawarir.com/">
 <meta property="og:site_name" content="Situs toto" />
-<meta property="og:image" content="https://normaljuandediosrh.com/img/Situstoto-4d.jpg" />
+<meta property="og:image" content="https://journal.al-qawarir.com/img/Situstoto-4d.jpg" />
 <meta property="og:image:alt" content="Situs toto" />
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@Situs toto">
 <meta name="twitter:creator" content="@Situs toto">
-<meta name="twitter:domain" content="https://normaljuandediosrh.com/">
+<meta name="twitter:domain" content="https://journal.al-qawarir.com/">
 <meta name="twitter:title" content="OLXTOTO # Link Situs Toto | Bandar Toto 4D Online Terpercaya" />
 <meta name="twitter:description" content="Link situs slot gacor hari ini merupakan jawaban untuk semua penggemar slot online yang mencari keuntungan besar dan sensasi tak terlupakan." />
-<meta name="twitter:image" content="Toto88-Situs-Togel-Terpercaya.webp" />
+<meta name="twitter:image" content="OLXTOTO-Situs-Toto-4D.webp" />
 <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
 <link rel="preconnect" href="https://fonts.gstatic.com">
  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
@@ -53,8 +52,8 @@
 <body>
 <header id="header" class="header-dynamic header-shadow-scroll">
 			<div class="container">
-				<a class="logo" href="https://normaljuandediosrh.com/">
-					<amp-img src="https://normaljuandediosrh.com/img/logo-link-situs-toto.png" alt="Situs toto" layout="fixed" width="145" height="60"></amp-img>
+				<a class="logo" href="https://journal.al-qawarir.com/">
+					<amp-img src="https://journal.al-qawarir.com/img/logo-link-situs-toto.png" alt="Situs toto" layout="fixed" width="145" height="60"></amp-img>
 				</a>
 				<nav>
 										<ul class="nav-secondary">
@@ -72,7 +71,7 @@
 			<section class="content-row content-row-color content-row-slide-bg">
 				<div class="container">
 					<amp-carousel width="800" height="800" layout="responsive" type="slides">
-						<amp-img src="https://normaljuandediosrh.com/img/Situstoto-4d.jpg" alt="Situs toto" width="800" height="800" layout="responsive"></amp-img>
+						<amp-img src="https://journal.al-qawarir.com/img/Situstoto-4d.jpg" alt="Situs toto" width="800" height="800" layout="responsive"></amp-img>
 					</amp-carousel>
 				</div>
 			</section>
@@ -116,7 +115,7 @@
 		<section class="footer-secondary">
 			<div class="container">
 				<p>
-					©2024 OLXTOTO vs SIHFU TOTO | 18+ normaljuandediosrh.com
+					©2024 OLXTOTO vs SIHFU TOTO | 18+ journal.al-qawarir.com
 				</p>
 			</div>
 		</section>

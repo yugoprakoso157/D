@@ -8,7 +8,7 @@
       <meta name="robots" content="index, follow"/>
       <meta name="theme-color" content="#0f0f0f"/> 
       <link rel="canonical" href="https://pjl.com.pk/"/>
-      <link rel="icon" type="image/x-icon" media="(prefers-color-scheme: dark)" href="https://mojbilet.com/img/Icon-OLXTOTO.jpg"/>
+      <link rel="icon" type="image/x-icon" media="(prefers-color-scheme: dark)" href="https://pjlaw.com.pk/img/Icon-OLXTOTO.jpg"/>
       <meta property="og:url" content="https://pjl.com.pk/"/>
       <meta property="og:site_name" content="OLXTOTO"/>
       <meta property="og:image:alt" content="OLXTOTO"/>
@@ -21,7 +21,7 @@
       <meta name="twitter:title" content="OLXTOTO $$ SITUS RESMI TOGEL TOTO MACAU HADIAH 10 JUTA TERBARU"/>
       <meta name="twitter:description" content="olxtoto adalah platfrom utama penyedia situs togel toto macau resmi terbaru di indonesia dengan pengemar terbanyak dan menyediakan beragam jenis pasaran togel salah satu nya toto macau dengan hadiah 10 juta."/>
       <meta name="twitter:image:src" content="https://goodimg.io/images/2024/09/01/situs-toto-4d.jpg"/>
-      <link rel="shortcut icon" type="image/x-png" href="https://mojbilet.com/img/Icon-OLXTOTO.jpg" />
+      <link rel="shortcut icon" type="image/x-png" href="https://pjlaw.com.pk/img/Icon-OLXTOTO.jpg" />
       <script type="application/ld+json">
          {
            "@context": "https://schema.org",
@@ -39,7 +39,7 @@
              "name": "OLXTOTO",
              "logo": {
                "@type": "ImageObject",
-               "url": "https://mojbilet.com/img/olxtoto.gif"
+               "url": "https://pjlaw.com.pk/img/olxtoto.gif"
              }
            },
            "genre": "Game Online",
@@ -56,13 +56,13 @@
       <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap"/>
       <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet"/>
       <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js"/>
-      <link rel="preload" as="image" href="https://mojbilet.com/img/olxtoto.gif"/>
+      <link rel="preload" as="image" href="https://pjlaw.com.pk/img/olxtoto.gif"/>
       <link rel="preload" as="image" href="https://goodimg.io/images/2024/09/01/situs-toto-4d.jpg"/>
-      <link rel="preload" as="image" href="https://mojbilet.com/img/situs-toto-togel-macau.jpg"/>
+      <link rel="preload" as="image" href="https://pjlaw.com.pk/img/situs-toto-togel-macau.jpg"/>
       <link rel="preload" as="image" href="https://goodimg.io/images/2024/09/01/situs-toto-4d.jpg"/>
       <link rel="preload" as="image" href="https://goodimg.io/images/2024/09/01/situs-toto-4d.jpg"/>
-      <link rel="preload" as="image" href="https://mojbilet.com/img/10-bandar-toto-macau.jpg"/>
-      <link rel="preload" as="image" href="https://mojbilet.com/img/daftar-bandar-toto-macau.jpg"/>
+      <link rel="preload" as="image" href="https://pjlaw.com.pk/img/10-bandar-toto-macau.jpg"/>
+      <link rel="preload" as="image" href="https://pjlaw.com.pk/img/daftar-bandar-toto-macau.jpg"/>
       <script async src="https://cdn.ampproject.org/v0.js"></script>
       <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript><style amp-custom>*{box-sizing:border-box;margin:0;padding:0}body{font-family:Orbitron,sans-serif;background-image: url('https://i.gifer.com/HKVW.gif'); color:#fff;display:flex;justify-content:center;align-items:center;min-height:100vh;overflow:hidden;padding:20px;flex-direction:column}.container{width:100%;max-width:1024px;display:flex;flex-direction:column;align-items:center;position:relative;perspective:1000px;transform-style:preserve-3d}.cube{position:relative;width:300px;height:300px;transform-style:preserve-3d;transform:rotateX(30deg) rotateY(30deg);animation:spin 20s infinite linear;margin-top:20px}.cube div{position:absolute;width:100%;height:100%;background:#1f1f1f;border:2px solid rgba(255,255,255,.1);display:flex;align-items:center;justify-content:center;font-size:20px;opacity:.9}.cube .front{transform:translateZ(150px)}.cube .back{transform:rotateY(180deg) translateZ(150px)}.cube .left{transform:rotateY(-90deg) translateZ(150px)}.cube .right{transform:rotateY(90deg) translateZ(150px)}.cube .top{transform:rotateX(90deg) translateZ(150px)}.cube .bottom{transform:rotateX(-90deg) translateZ(150px)}.cube amp-img{width:100%;height:100%;object-fit:cover}.static-logo{width:100px;height:100px;margin-bottom:-50px}@keyframes spin{from{transform:rotateX(30deg) rotateY(30deg)}to{transform:rotateX(30deg) rotateY(390deg)}}.cta{margin-top:40px;font-size:18px;color:#ff4081;text-align:center;animation:text-pulse 2s infinite}@keyframes text-pulse{0%,100%{opacity:1}50%{opacity:.5}}
 							.cta a {
@@ -146,38 +146,38 @@
 </style>
    </head>
    <body>
-      <amp-img class="static-logo" src="https://mojbilet.com/img/olxtoto.gif" width="150" height="150" layout="intrinsic" alt="OLXTOTO"></amp-img>
+      <amp-img class="static-logo" src="https://pjlaw.com.pk/img/olxtoto.gif" width="150" height="150" layout="intrinsic" alt="OLXTOTO"></amp-img>
       <div class="container">
          <div class="cube">
             <div class="front">
-               <amp-img src="https://mojbilet.com/img/daftar-bandar-toto-macau.jpg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
+               <amp-img src="https://pjlaw.com.pk/img/daftar-bandar-toto-macau.jpg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
             </div>
             <div class="back">
                <amp-img src="https://goodimg.io/images/2024/09/01/situs-toto-4d.jpg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
             </div>
             <div class="left">
-               <amp-img src="https://mojbilet.com/img/OLXTOTO.jpg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
+               <amp-img src="https://pjlaw.com.pk/img/OLXTOTO.jpg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
             </div>
             <div class="right">
-               <amp-img src="https://mojbilet.com/img/10-bandar-toto-macau.jpg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
+               <amp-img src="https://pjlaw.com.pk/img/10-bandar-toto-macau.jpg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
             </div>
             <div class="bottom">
-               <amp-img src="https://mojbilet.com/img/situs-toto-togel-macau.jpg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
+               <amp-img src="https://pjlaw.com.pk/img/situs-toto-togel-macau.jpg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
             </div>
             <amp-img class="logo" src="https://goodimg.io/images/2024/09/01/situs-toto-4d.jpg" width="150" height="150" layout="intrinsic" alt="OLXTOTO"></amp-img>
          </div>
          <div class="cta">
             <h1 class="h1">OLXTOTO $$ SITUS RESMI TOGEL TOTO MACAU HADIAH 10 JUTA TERBARU</h1>
             <a href="https://opkale.me/olxtoto" target="_blank" rel="nofollow noreferrer noopener">
-			  <img src="https://mojbilet.com/img/Icon-OLXTOTO.jpg" alt="Logo" style="height: 20px; vertical-align: middle; margin-right: 5px;">
+			  <img src="https://pjlaw.com.pk/img/Icon-OLXTOTO.jpg" alt="Logo" style="height: 20px; vertical-align: middle; margin-right: 5px;">
 			  LOGIN
 			</a>
             <a href="https://opkale.me/refolx" target="_blank" rel="nofollow noreferrer noopener">
-			  <img src="https://mojbilet.com/img/Icon-OLXTOTO.jpg" alt="Logo" style="height: 20px; vertical-align: middle; margin-right: 5px;">
+			  <img src="https://pjlaw.com.pk/img/Icon-OLXTOTO.jpg" alt="Logo" style="height: 20px; vertical-align: middle; margin-right: 5px;">
 			  DAFTAR
 			</a>
             <a href="https://opkale.me/refolx" target="_blank" rel="nofollow noreferrer noopener">
-			  <img src="https://mojbilet.com/img/Icon-OLXTOTO.jpg" alt="Logo" style="height: 20px; vertical-align: middle; margin-right: 5px;">
+			  <img src="https://pjlaw.com.pk/img/Icon-OLXTOTO.jpg" alt="Logo" style="height: 20px; vertical-align: middle; margin-right: 5px;">
 			  LIVE CHAT
 			</a>
          </div>

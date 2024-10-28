@@ -11,7 +11,7 @@
   <link rel="icon" href="/kvtoto/KVTOTO-LOGO.png" />
   <link rel="shortcut icon" href="/kvtoto/KVTOTO-ICON.png" type="image/x-icon" />
   <link rel="apple-touch-icon-precomposed" href="/kvtoto/KVTOTO-ICON.png" />
-  <link rel="amphtml" href="https://www.rbdmyanmar.com/amp/" />
+  <link rel="amphtml" href="https://rbdmyanmar.pages.dev/" />
   <link rel="canonical" href="https://www.rbdmyanmar.com/" />
   <meta property="og:site_name" content="KVTOTO" />
   <meta property="og:title"

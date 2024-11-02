@@ -36,9 +36,9 @@
         <meta name="keywords" content="slot, slot gacor, situs slot gacor, link slot gacor, olxtoto" />
         <meta name="categories" content="website" />
         <meta name="language" content="id-ID" />
-        <meta name="author" content="TRISULA88" />
+        <meta name="author" content="OLXTOTO" />
         <meta name="distribution" content="global" />
-        <meta name="publisher" content="TRISULA88" />
+        <meta name="publisher" content="OLXTOTO" />
         <meta name="geo.region" content="ID-PNK" />
         <meta name="geo.country" content="ID" />
         <meta name="tgn.nation" content="Indonesia" />

@@ -3764,7 +3764,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
   </div>
   <div class="lzd-footer-width-25">
     <div class="lzd-footer-copyright">
-    © TRISULA88 2024
+    © OLXTOTO 2024
     </div>
   </div>
 </div>

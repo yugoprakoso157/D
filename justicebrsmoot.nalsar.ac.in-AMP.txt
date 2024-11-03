@@ -1,227 +1,191 @@
+
+
+
 <!DOCTYPE html>
 <html amp lang="en-ID">
-
-<head>
-   <meta charset="utf-8" />
-   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="icon" type="image/x-icon" href="https://justicebrsmoot.nalsar.ac.in/img/icon-OLXTOTO.png" />
-   <title>OLXTOTO > #Bandar Toto Macau | Situs Togel 4D Online</title>
-   <meta name="description"
-      content="OLXTOTO, bandar Toto Macau terkemuka, menghadirkan situs togel 4D online terpercaya di Indonesia. Bergabunglah untuk menikmati pasaran lengkap, hadiah fantastis, dan pengalaman bermain yang aman dan menyenangkan. Raih peluang menang Anda sekarang!" />
-   <meta name="robots" content="index,follow" />
-   <link rel="canonical" href="#" />
-   <meta property="og:url" content="#" />
-   <meta property="og:site_name" content="OLXTOTO" />
-   <meta property="og:image:alt" content="OLXTOTO" />
-   <meta property="og:image"
-      content="https://justicebrsmoot.nalsar.ac.in/img/OLXTOTO.jpg" />
-
-   <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js" />
-   <script async src="https://cdn.ampproject.org/v0.js"></script>
-   <style amp-boilerplate>
-      body {
-         -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-         -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-         -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-         animation: -amp-start 8s steps(1, end) 0s 1 normal both
-      }
-
-      @-webkit-keyframes -amp-start {
-         from {
-            visibility: hidden
+   <head>
+      <meta charset="utf-8"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <title>OLXTOTO | Bandar Toto Macau - Situs Togel 4D Online</title>
+      <meta name="description" content="OLXTOTO adalah bandar Toto Macau terkemuka yang menawarkan situs togel 4D online terpercaya di Indonesia. Bergabunglah untuk menikmati pasaran lengkap, hadiah fantastis, dan pengalaman bermain yang aman serta menyenangkan. Raih peluang menang Anda sekarang!"/>
+      <meta name="robots" content="index, follow"/>
+      <meta name="theme-color" content="#0f0f0f"/> 
+      <link rel="canonical" href="https://justicebrsmoot.nalsar.ac.in/"/>
+      <link rel="icon" type="image/x-icon" media="(prefers-color-scheme: dark)" href="https://goodimg.io/images/2024/09/19/icon.jpg"/>
+      <meta property="og:url" content="https://justicebrsmoot.nalsar.ac.in/"/>
+      <meta property="og:site_name" content="OLXTOTO"/>
+      <meta property="og:image:alt" content="OLXTOTO"/>
+      <meta property="og:image" content="https://goodimg.io/images/2024/07/31/naga.jpg"/>
+      <meta property="og:title" content="OLXTOTO | Bandar Toto Macau - Situs Togel 4D Online"/>
+      <meta property="og:description" content="OLXTOTO adalah bandar Toto Macau terkemuka yang menawarkan situs togel 4D online terpercaya di Indonesia. Bergabunglah untuk menikmati pasaran lengkap, hadiah fantastis, dan pengalaman bermain yang aman serta menyenangkan. Raih peluang menang Anda sekarang!"/>
+      <meta property="og:locale" content="ID_id"/>
+      <meta property="og:type" content="website"/>
+      <meta name="twitter:card" content="summary"/>
+      <meta name="twitter:title" content="OLXTOTO | Bandar Toto Macau - Situs Togel 4D Online"/>
+      <meta name="twitter:description" content="OLXTOTO adalah bandar Toto Macau terkemuka yang menawarkan situs togel 4D online terpercaya di Indonesia. Bergabunglah untuk menikmati pasaran lengkap, hadiah fantastis, dan pengalaman bermain yang aman serta menyenangkan. Raih peluang menang Anda sekarang!"/>
+      <meta name="twitter:image:src" content="https://goodimg.io/images/2024/07/31/naga.jpg"/>
+      <link rel="shortcut icon" type="image/x-png" href="https://goodimg.io/images/2024/09/19/icon.jpg" />
+      <script type="application/ld+json">
+         {
+           "@context": "https://schema.org",
+           "@type": "Game",
+           "name": "OLXTOTO",
+           "url": "https://justicebrsmoot.nalsar.ac.in/",
+           "image": "https://goodimg.io/images/2024/08/14/hadiah-toto-macau.jpg",
+           "description": "OLXTOTO adalah bandar Toto Macau terkemuka yang menawarkan situs togel 4D online terpercaya di Indonesia. Bergabunglah untuk menikmati pasaran lengkap, hadiah fantastis, dan pengalaman bermain yang aman serta menyenangkan. Raih peluang menang Anda sekarang!",
+           "author": {
+             "@type": "Organization",
+             "name": "OLXTOTO"
+           },
+           "publisher": {
+             "@type": "Organization",
+             "name": "OLXTOTO",
+             "logo": {
+               "@type": "ImageObject",
+               "url": "https://goodimg.io/images/2024/09/19/logo.gif"
+             }
+           },
+           "genre": "Game Online",
+           "operatingSystem": "All",
+           "applicationCategory": "Game",
+           "aggregateRating": {
+             "@type": "AggregateRating",
+             "ratingValue": "4.6",
+             "ratingCount": "215"
+           }
          }
+      </script>
+	  
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap"/>
+      <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet"/>
+      <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js"/>
+      <link rel="preload" as="image" href="https://goodimg.io/images/2024/09/19/logo.gif"/>
+      <link rel="preload" as="image" href="https://goodimg.io/images/2024/07/31/naga.jpg"/>
+      <link rel="preload" as="image" href="https://goodimg.io/images/2024/09/12/Slot-Olxtoto.jpg"/>
+      <link rel="preload" as="image" href="https://goodimg.io/images/2024/08/14/new-banner.jpg"/>
+      <link rel="preload" as="image" href="https://goodimg.io/images/2024/07/31/naga.jpg"/>
+      <link rel="preload" as="image" href="https://goodimg.io/images/2024/09/01/situs-toto-4d.jpg"/>
+      <link rel="preload" as="image" href="https://goodimg.io/images/2024/09/02/SLOT-GACOR-TERBARU-BONUS-MAXWIN.jpeg"/>
+      <script async src="https://cdn.ampproject.org/v0.js"></script>
+      <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript><style amp-custom>*{box-sizing:border-box;margin:0;padding:0}body{font-family:Orbitron,sans-serif;background-image: url('https://proplayer.vip/img/bgbtg.gif'); color:#fff;display:flex;justify-content:center;align-items:center;min-height:100vh;overflow:hidden;padding:20px;flex-direction:column}.container{width:100%;max-width:1024px;display:flex;flex-direction:column;align-items:center;position:relative;perspective:1000px;transform-style:preserve-3d}.cube{position:relative;width:300px;height:300px;transform-style:preserve-3d;transform:rotateX(30deg) rotateY(30deg);animation:spin 20s infinite linear;margin-top:20px}.cube div{position:absolute;width:100%;height:100%;background:#1f1f1f;border:2px solid rgba(255,255,255,.1);display:flex;align-items:center;justify-content:center;font-size:20px;opacity:.9}.cube .front{transform:translateZ(150px)}.cube .back{transform:rotateY(180deg) translateZ(150px)}.cube .left{transform:rotateY(-90deg) translateZ(150px)}.cube .right{transform:rotateY(90deg) translateZ(150px)}.cube .top{transform:rotateX(90deg) translateZ(150px)}.cube .bottom{transform:rotateX(-90deg) translateZ(150px)}.cube amp-img{width:100%;height:100%;object-fit:cover}.static-logo{width:100px;height:100px;margin-bottom:-50px}@keyframes spin{from{transform:rotateX(30deg) rotateY(30deg)}to{transform:rotateX(30deg) rotateY(390deg)}}.cta{margin-top:40px;font-size:18px;color:#ff4081;text-align:center;animation:text-pulse 2s infinite}@keyframes text-pulse{0%,100%{opacity:1}50%{opacity:.5}}
+							.cta a {
+							display: inline-block;
+							padding: 14px 28px;
+							margin: 10px 5px;
+							background: linear-gradient(135deg, #000, #ffd700);
+							color: #fffb02;
+							text-decoration: none;
+							border-radius: 8px;
+							box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+							transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+							font-weight: 600;
+							text-transform: uppercase;
+							letter-spacing: 1.2px;
+						}
 
-         to {
-            visibility: visible
-         }
-      }
+						.cta a:hover {
+							background: linear-gradient(135deg, #fa1717, #d9145c);
+							transform: translateY(-4px) scale(1.05);
+							box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+							animation: pulse 0.6s infinite alternate;
+						}
 
-      @-moz-keyframes -amp-start {
-         from {
-            visibility: hidden
-         }
+						@keyframes pulse {
+							0% {
+								transform: translateY(-4px) scale(1.05);
+							}
+							100% {
+								transform: translateY(-6px) scale(1.08);
+							}
+						}
 
-         to {
-            visibility: visible
-         }
-      }
 
-      @-ms-keyframes -amp-start {
-         from {
-            visibility: hidden
-         }
+						@media (max-width: 600px) {
+							.cube {
+								width: 180px;
+								height: 180px;
+								background-color: #2a2a2a;
+								border-radius: 12px;
+								box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+							}
+							
+							.static-logo {
+								width: 220px;
+								height: 55px;
+								margin-bottom: 80px;
+								opacity: 0.85;
+							}
+							
+							.cta {
+								font-size: 18px;
+								margin-top: 60px;
+								text-align: center;
+							}
+						}
 
-         to {
-            visibility: visible
-         }
-      }
+						.h1 {
+							margin-top: 70px;
+							font-size: large;
+							color: #faf617;
+							text-transform: uppercase;
+							letter-spacing: 1.5px;
+							text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);   
+							padding-bottom: 10px;
+						}
 
-      @-o-keyframes -amp-start {
-         from {
-            visibility: hidden
-         }
+						.footer {
+							font-size: 14px;
+							text-align: center;
+							color: #c7c7c7;
+							padding: 20px 0;   
+						}
 
-         to {
-            visibility: visible
-         }
-      }
-
-      @keyframes -amp-start {
-         from {
-            visibility: hidden
-         }
-
-         to {
-            visibility: visible
-         }
-      }
-   </style>
-   <noscript>
-      <style amp-boilerplate>
-         body {
-            -webkit-animation: none;
-            -moz-animation: none;
-            -ms-animation: none;
-            animation: none
-         }
-      </style>
-   </noscript>
-
-   <style amp-custom>
-      * {
-         box-sizing: border-box;
-      }
-
-      body {
-         font-family: monospace;
-         position: relative;
-         background: #000000;
-         background-image: radial-gradient(#272727 5%, transparent 50%);
-         background-size: 5px 5px;
-         background-attachment: fixed;
-      }
-
-      .container {
-         max-width: 400px;
-         height: 100vh;
-         margin: 0 auto;
-         padding: 15px;
-         display: flex;
-         flex-direction: column;
-         justify-content: center;
-         overflow: hidden;
-      }
-
-      .welcome {
-         max-width: 350px;
-         margin: 0 auto;
-      }
-
-      .welcome h3 {
-         font-size: 12px;
-         color: #fff;
-         overflow: hidden;
-         border-right: .15em solid #fbf4a0;
-         /* The typwriter cursor */
-         white-space: nowrap;
-         letter-spacing: .09em;
-         animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
-      }
-
-      @keyframes typing {
-         from {
-            width: 0
-         }
-
-         to {
-            width: 100%
-         }
-      }
-
-      @keyframes blink-caret {
-
-         from,
-         to {
-            border-color: transparent
-         }
-
-         50% {
-            border-color: #fbf4a0;
-         }
-      }
-
-      .banner {
-         border-radius: 10px;
-      }
-
-      .btn-login {
-         padding: 10px;
-         color: #ffffff;
-         font-size: 20px;
-         font-weight: bold;
-         text-decoration: none;
-         text-align: center;
-         background: linear-gradient(to bottom, #000000 0%, rgb(255, 200, -6, 1) 100%);
-         margin-top: 10px;
-         border-radius: 10px;
-         position: relative;
-         z-index: 2;
-      }
-
-      .btn-daftar {
-         padding: 10px;
-         color: #fff;
-         font-size: 20px;
-         font-weight: bold;
-         text-decoration: none;
-         text-align: center;
-         background: linear-gradient(to bottom, #000000 0%, rgb(255, 200, -6, 1) 100%);
-         margin-top: 10px;
-         border-radius: 10px;
-         position: relative;
-         z-index: 2;
-      }
-
-      .copyright {
-         text-align: center;
-         color: #ffffff96;
-      }
-
-      .nagaterbang {
-         position: fixed;
-         z-index: 1;
-         left: 0;
-         right: 0;
-         top: 0;
-         bottom: 0;
-         margin: auto;
-      }
-   </style>
-</head>
-
-<body>
-   <div class="container">
-      <header>
-         <center><a href="#"><amp-img id="image"
-                  class="animated tada infinite slower" src="https://justicebrsmoot.nalsar.ac.in/img/logo-OLXTOTO.png"
-                  alt="OLXTOTO" width="300" height="100" layout="intrinsic"></amp-img></a>
-      </header>
-      <div class="welcome">
-         <h3>#Bandar Toto Macau | Situs Togel 4D Online</h3>
+						.copyrightOlxtoto {
+							color: #faf617;
+							font-weight: bold;
+							text-transform: uppercase;
+							letter-spacing: 1px;
+						}
+</style>
+   </head>
+   <body>
+      <amp-img class="static-logo" src="https://goodimg.io/images/2024/09/19/logo.gif" width="150" height="150" layout="intrinsic" alt="OLXTOTO"></amp-img>
+      <div class="container">
+         <div class="cube">
+            <div class="front">
+               <amp-img src="https://goodimg.io/images/2024/09/02/SLOT-GACOR-TERBARU-BONUS-MAXWIN.jpeg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
+            </div>
+            <div class="back">
+               <amp-img src="https://goodimg.io/images/2024/07/31/naga.jpg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
+            </div>
+            <div class="left">
+               <amp-img src="https://goodimg.io/images/2024/09/01/situs-toto-1.jpg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
+            </div>
+            <div class="right">
+               <amp-img src="https://goodimg.io/images/2024/09/01/situs-toto-4d.jpg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
+            </div>
+            <div class="bottom">
+               <amp-img src="https://goodimg.io/images/2024/09/12/Slot-Olxtoto.jpg" width="400" height="400" layout="responsive" alt="OLXTOTO"></amp-img>
+            </div>
+            <amp-img class="logo" src="https://goodimg.io/images/2024/07/31/naga.jpg" width="150" height="150" layout="intrinsic" alt="OLXTOTO"></amp-img>
+         </div>
+         <div class="cta">
+            <h1 class="h1">OLXTOTO | Bandar Toto Macau - Situs Togel 4D Online</h1>
+            <a href="https://opkale.me/refolx" target="_blank" rel="nofollow noreferrer noopener">
+			  <img src="https://goodimg.io/images/2024/09/19/icon.jpg" alt="Logo" style="height: 20px; vertical-align: middle; margin-right: 5px;">
+			  LOGIN
+			</a>
+            <a href="https://opkale.me/refolx" target="_blank" rel="nofollow noreferrer noopener">
+			  <img src="https://goodimg.io/images/2024/09/19/icon.jpg" alt="Logo" style="height: 20px; vertical-align: middle; margin-right: 5px;">
+			  DAFTAR
+			</a>
+            <a href="https://opkale.me/refolx" target="_blank" rel="nofollow noreferrer noopener">
+			  <img src="https://goodimg.io/images/2024/09/19/icon.jpg" alt="Logo" style="height: 20px; vertical-align: middle; margin-right: 5px;">
+			  LIVE CHAT
+			</a>
+         </div>
+         <br>
       </div>
-
-      <amp-img
-         src="https://justicebrsmoot.nalsar.ac.in/img/OLXTOTO.jpg"
-         width="500" height="500" layout="intrinsic" class="banner"></amp-img>
-
-      <a href="https://opkale.me/refolx" target="_blank" rel="noreferrer noopener"
-         role="button" class="btn-login">LOGIN</a>
-      <a href="https://opkale.me/refolx" target="_blank" rel="noreferrer noopener"
-         role="button" class="btn-daftar">DAFTAR</a>
-
-      <p class="copyright">© 2024 • <a style="color: #ffffff;" href="justicebrsmoot.nalsar.ac.in">OLXTOTO</a> • @ShifuSec</p>
-   </div>
-
-</body>
-
+      <footer class="footer">S-H-F-U - <a class="copyrightOlxtoto" href="https://justicebrsmoot.nalsar.ac.in/" title="OLXTOTO">OLXTOTO</a> OFFICIAL</footer>
+   </body>
 </html>

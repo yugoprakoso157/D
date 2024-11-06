@@ -18,12 +18,11 @@
       content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]'
     />
     <meta name="google-site-verification" content="Q8apcRyo_MRg044DU3pLGLNVAvyFuaQKgtrGfqathEA" />
-    <meta name="google-site-verification" content="I8TGMAJ70L9jeZBGfPHprjbCxhXDafZ75G-WpCfaN7I" />
     <meta name="data-spm" content="Bandar Slot" />
     <meta name="robots" content="index, follow" />
     <meta name="language" content="Indonesia" />
     <meta name="author" content="Bandar Slot" />
-    <meta name="og:url" content="https://cca.edu.bo/" />
+    <meta name="og:url" content="https://www.cca.edu.bo/" />
     <meta
       name="og:title"
       content="AGENOLX : Co-Branding Partner Bandar Slot Gacor & Agen favorit Slot88"
@@ -50,7 +49,7 @@
       rel="manifest"
       href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"
     />
-    <link rel="canonical" href="https://cca.edu.bo/" />
+    <link rel="canonical" href="https://www.cca.edu.bo/" />
     <link rel="amphtml" href="https://cca-edu.pages.dev/" />
 
     <!-- start preload -->
@@ -927,14 +926,14 @@
         "name": "AGENOLX : Co-Branding Partner Bandar Slot Gacor & Agen favorit Slot88",
         "image": "https://goodimg.io/images/2024/11/05/slot-agenolx.jpg",
         "description": "AGENOLX adalah Co-Branding Partner resmi Bandar Slot Gacor & Agen Slot88 favorit. Rasakan sensasi permainan slot online terbaik dengan peluang menang besar di setiap putaran!",
-        "url": "https://cca.edu.bo/",
+        "url": "https://www.cca.edu.bo/",
         "brand": {
           "@type": "Brand",
           "name": "Bandar Slot"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://cca.edu.bo/",
+          "url": "https://www.cca.edu.bo/",
           "price": "10000",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-12-31",
@@ -942,7 +941,7 @@
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://cca.edu.bo/",
+            "merchantReturnLink": "https://www.cca.edu.bo/",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -1160,7 +1159,7 @@
                     <a
                       class="highlight"
                       target="_blank"
-                      href="https://cca.edu.bo/"
+                      href="https://www.cca.edu.bo/"
                       data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback"
                       >Bandar Slot</a
                     >
@@ -1246,13 +1245,13 @@
                             ></div>
                             <div class="app-stores">
                               <a
-                                href="https://cca.edu.bo/"
+                                href="https://www.cca.edu.bo/"
                                 class="store-link"
                               >
                                 <i class="app-apple"></i>
                               </a>
                               <a
-                                href="https://cca.edu.bo/"
+                                href="https://www.cca.edu.bo/"
                                 class="store-link"
                               >
                                 <i class="app-google"></i>
@@ -1266,7 +1265,7 @@
                   <div class="top-links-item" id="topActionSell">
                     <a
                       class="cyan"
-                      href="https://cca.edu.bo/"
+                      href="https://www.cca.edu.bo/"
                       data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2"
                       >Slot Online</a
                     >
@@ -1386,7 +1385,7 @@
                   <div class="top-links-item grey" id="anonLogin">
                     <a
                       class="grey"
-                      href="https://cca.edu.bo/"
+                      href="https://www.cca.edu.bo/"
                       data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5"
                       >LOGIN</a
                     >
@@ -1394,7 +1393,7 @@
                   <div class="top-links-item grey" id="anonSignup">
                     <a
                       class="grey"
-                      href="https://cca.edu.bo/"
+                      href="https://www.cca.edu.bo/"
                       data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6"
                       >DAFTAR</a
                     >
@@ -1477,7 +1476,7 @@
               <div class="lzd-logo-bar">
                 <div class="logo-bar-content header-content">
                   <div class="lzd-logo-content">
-                    <a href="https://cca.edu.bo/" data-spm="dhome"
+                    <a href="https://www.cca.edu.bo/" data-spm="dhome"
                       ><img
                         src="https://goodimg.io/images/2024/09/22/logo.png"
                         alt="logo Bandar Slot"
@@ -1507,7 +1506,7 @@
                       >
                         <div class="lzd-site-menu-nav-container">
                           <div class="lzd-site-menu-nav-category">
-                            <a href="https://cca.edu.bo/">
+                            <a href="https://www.cca.edu.bo/">
                               <span class="lzd-site-menu-nav-category-text"
                                 >Kategori</span
                               >
@@ -3374,7 +3373,7 @@
                     </div>
                   </div>
                   <div class="lzd-nav-cart">
-                    <a href="https://cca.edu.bo/" data-spm="dcart"
+                    <a href="https://www.cca.edu.bo/" data-spm="dcart"
                       ><span class="cart-icon"></span>
                       <span class="cart-num" id="topActionCartNumber"></span
                     ></a>
@@ -3400,7 +3399,7 @@
               >
                 <div class="lzd-site-menu-nav-container">
                   <div class="lzd-site-menu-nav-category">
-                    <a href="https://cca.edu.bo/">
+                    <a href="https://www.cca.edu.bo/">
                       <span class="lzd-site-menu-nav-category-text"
                         >Kategori</span
                       >
@@ -5097,7 +5096,7 @@
                   <nav class="lzd-menu-labels" data-spm="menu">
                     <a
                       class="lzd-menu-labels-item"
-                      href="https://cca.edu.bo/"
+                      href="https://www.cca.edu.bo/"
                     >
                       <span
                         class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"
@@ -5113,7 +5112,7 @@
                     </a>
                     <a
                       class="lzd-menu-labels-item"
-                      href="https://cca.edu.bo/"
+                      href="https://www.cca.edu.bo/"
                     >
                       <span
                         class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"
@@ -5131,7 +5130,7 @@
                     </a>
                     <a
                       class="lzd-menu-labels-item"
-                      href="https://cca.edu.bo/"
+                      href="https://www.cca.edu.bo/"
                     >
                       <span
                         class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"
@@ -5149,7 +5148,7 @@
                     </a>
                     <a
                       class="lzd-menu-labels-item"
-                      href="https://cca.edu.bo/"
+                      href="https://www.cca.edu.bo/"
                     >
                       <span
                         class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"
@@ -5638,7 +5637,7 @@
                     <a
                       class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link"
                       target="_self"
-                      href="https://cca.edu.bo/"
+                      href="https://www.cca.edu.bo/"
                       >Bandar Slot</a
                     >
                     <div class="pdp-product-brand__divider"></div>
@@ -5775,9 +5774,9 @@
                     }
                 </style>
                 <div class="content">
-                       <p>AGENOLX adalah Co-Branding Partner resmi yang bekerja sama dengan <a href="https://cca.edu.bo/">Bandar Slot Gacor</a> dan Slot88, dua platform utama dalam industri slot online. Sebagai agen favorit, AGENOLX berperan penting dalam memberikan akses kepada para pemain untuk menikmati permainan slot dengan peluang menang yang besar. Keunggulan utama dari AGENOLX adalah kemampuannya dalam menghadirkan permainan slot gacor, yang dikenal dengan tingkat kemenangan yang lebih tinggi, serta kemitraan yang solid dengan Slot88 yang menyediakan berbagai jenis game berkualitas tinggi. Dengan menjadi mitra dari dua pemain besar ini, AGENOLX menawarkan pengalaman bermain yang lebih menarik, aman, dan menguntungkan bagi para penggunanya.</p>
+                       <p>AGENOLX adalah Co-Branding Partner resmi yang bekerja sama dengan <a href="https://www.cca.edu.bo/">Bandar Slot Gacor</a> dan Slot88, dua platform utama dalam industri slot online. Sebagai agen favorit, AGENOLX berperan penting dalam memberikan akses kepada para pemain untuk menikmati permainan slot dengan peluang menang yang besar. Keunggulan utama dari AGENOLX adalah kemampuannya dalam menghadirkan permainan slot gacor, yang dikenal dengan tingkat kemenangan yang lebih tinggi, serta kemitraan yang solid dengan Slot88 yang menyediakan berbagai jenis game berkualitas tinggi. Dengan menjadi mitra dari dua pemain besar ini, AGENOLX menawarkan pengalaman bermain yang lebih menarik, aman, dan menguntungkan bagi para penggunanya.</p>
 
-<p>Sebagai agen resmi, <a href="https://cca.edu.bo/">AGENOLX</a> juga memberikan berbagai manfaat tambahan, seperti bonus menarik dan layanan pelanggan yang responsif. Kepercayaan yang diberikan oleh pengguna kepada AGENOLX sebagai mitra slot terbaik semakin diperkuat oleh rekam jejaknya yang solid dalam menyediakan platform yang mudah digunakan dan penuh dengan opsi game menarik. Dengan memahami peran AGENOLX dalam ekosistem ini, pemain dapat merasakan langsung potensi besar dari bekerja sama dengan agen terpercaya yang menawarkan akses mudah ke <a href="https://cca.edu.bo/">Bandar Slot Gacor dan Slot88</a>, serta pengalaman bermain yang tidak hanya menghibur, tetapi juga menguntungkan.</p>
+<p>Sebagai agen resmi, <a href="https://www.cca.edu.bo/">AGENOLX</a> juga memberikan berbagai manfaat tambahan, seperti bonus menarik dan layanan pelanggan yang responsif. Kepercayaan yang diberikan oleh pengguna kepada AGENOLX sebagai mitra slot terbaik semakin diperkuat oleh rekam jejaknya yang solid dalam menyediakan platform yang mudah digunakan dan penuh dengan opsi game menarik. Dengan memahami peran AGENOLX dalam ekosistem ini, pemain dapat merasakan langsung potensi besar dari bekerja sama dengan agen terpercaya yang menawarkan akses mudah ke <a href="https://www.cca.edu.bo/">Bandar Slot Gacor dan Slot88</a>, serta pengalaman bermain yang tidak hanya menghibur, tetapi juga menguntungkan.</p>
 
                 </div>
                 <div

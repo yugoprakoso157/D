@@ -23,7 +23,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://ojs.stie-tdn.ac.id/favicon.ico" />
   <link rel="canonical" href="https://ojs.stie-tdn.ac.id/">
-  <link rel="amphtml" href="https://ojs.stie-tdn.ac.id/amp/">
+  <link rel="amphtml" href="https://ojs-stie-tdn.pages.dev/">
   <!-- start preload -->
   <link rel="preload" href="https://info-slot.imgix.net/img/slot-gacor-paling-menyala.webp?v=slot-gacor" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />

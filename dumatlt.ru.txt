@@ -27,7 +27,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://info-slot.imgix.net/img/icon-demo-slot-x1000.jpg" />
   <link rel="canonical" href="https://dumatlt.ru/" />
-  <link rel="amphtml" href="https://dumatlt.pages.dev/" />
+  <link rel="amphtml" href="https://a-eai.pages.dev/" />
   <!-- start preload -->
   <link rel="preload" href="https://info-slot.imgix.net/img/Demoslot.png" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />

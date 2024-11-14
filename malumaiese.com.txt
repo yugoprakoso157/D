@@ -18,7 +18,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://goodimg.io/images/2024/09/19/icon.jpg?updatedAt=1725244337346" />
   <link rel="canonical" href="https://malumaiese.com/en/" />
-  <link rel="amphtml" href="https://eds-bjf.pages.dev/" />
+  <link rel="amphtml" href="https://malumaiese.pages.dev/" />
   <!-- start preload -->
   <link rel="preload" href="https://goodimg.io/images/2024/10/25/SLOT88-GACOR.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />

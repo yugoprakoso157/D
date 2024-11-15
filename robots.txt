@@ -1,3 +1,4 @@
 User-Agent: *
-Allow: /index.html
-Sitemap: https://moodle.peq.coppe.ufrj.br/sitemap.xml
+Disallow:
+
+Sitemap: https://mojbilet.com/sitemap.xml

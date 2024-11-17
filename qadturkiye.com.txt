@@ -20,7 +20,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://goodimg.io/images/2024/09/19/icon.jpg" />
   <link rel="canonical" href="https://qadturkiye.com/" />
-  <link rel="amphtml" href="https://kiye-b4p.pages.dev/" />
+  <link rel="amphtml" href="https://ampunpuh-7hv.pages.dev/" />
   <meta name="google-site-verification" content="yyQ7E3fTDdLi3K_Ot-r-0G3xC8xkhVzIzuyKIfaYR3A" />
   <!-- start preload -->
   <link rel="preload" href="https://goodimg.io/images/2024/07/31/naga.jpg" as="image" />

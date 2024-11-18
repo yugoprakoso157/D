@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow:
 
-Sitemap: https://mojbilet.com/sitemap.xml
+Sitemap: https://courseadvisorbd.com/sitemap.xml

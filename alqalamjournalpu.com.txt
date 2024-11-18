@@ -12,7 +12,7 @@
   <title>OLXTOTO > TOP Global 1 Bandar Togel Toto Macau 5D Tebesar Dengan Layanan 24Jam</title>
   <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
   <link rel="icon" type="image/x-icon" href="https://goodimg.io/images/2024/06/26/logoolx.jpeg" />
-  <link rel="amphtml" href="https://alqalamjournalpu.pages.dev/" />
+  <link rel="amphtml" href="/amp.html" />
   <link rel="canonical" href="https://alqalamjournalpu.com/" />
   <meta property="og:site_name" content="OLXTOTO" />
   <meta property="og:title"
@@ -1374,8 +1374,8 @@ footer#footer-sections {
             <div class="content">
 
               <div class="n-columns-2">
-                <a href="https://alqalamjournalpu.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://alqalamjournalpu.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="/amp.html" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="/amp.html" rel="nofollow noreferrer" class="register">DAFTAR</a>
                 </div>
 
 

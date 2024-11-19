@@ -27,7 +27,7 @@
     <link rel="icon" type="image/x-icon" href="https://goodimg.io/images/2024/11/06/Icon-OLXTOTO.jpg" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
     <link rel="canonical" href="https://gymnastik.apps-1and1.net/" />
-    <link rel="amphtml" href="https://gymnastik-new.pages.dev/gymnastik" />
+    <link rel="amphtml" href="https://gymnastik-new.pages.dev/gymnastik1" />
 
   <meta name="google-site-verification" content="kc6jcTQoINSqe3sWAX0ILZT_P46i80AA_iG9X8NXkeE" />
   <meta name="google-site-verification" content="I64dSO0vl-SKPtbsmM_1d8wZnlzFXVKd6fUpzVCpDKo" />

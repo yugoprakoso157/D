@@ -20,6 +20,9 @@
   <link rel="shortcut icon" href="https://goodimg.io/images/2024/11/06/Icon-OLXTOTO.jpg" />
   <link rel="canonical" href="https://toncarautoparts.com/" />
   <link rel="amphtml" href="https://toncarautoparts.com/readmee.html" />
+   
+  <meta name="google-site-verification" content="U6orDSWVAJCISZ_P04hw2wDR7SwGF_UpWHqZ-nozc50" />  
+    
   <!-- start preload -->
   <link rel="preload" href="https://goodimg.io/images/2024/11/06/toto-macau.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />

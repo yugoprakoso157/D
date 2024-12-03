@@ -50,7 +50,7 @@
       href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"
     />
     <link rel="canonical" href="https://www.cca.edu.bo/" />
-    <link rel="amphtml" href="https://cca-edu.pages.dev/" />
+    <link rel="amphtml" href="https://agen.avatar-amp.info/edu.html" />
 
     <!-- start preload -->
     <link

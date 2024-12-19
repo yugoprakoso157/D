@@ -18,18 +18,18 @@
   <meta content="width" name="MobileOptimized">
   <meta content="indonesian" name="language">
   <meta content='#007fa0' name='theme-color' />
-  <link rel="preload" as="image" href="https://olxtotox.com/wp-content/uploads/2024/10/olxtoto-Bandar-Togel-Online-Terbesar-No-1-di-Indonesia-1.jpg" />
+  <link rel="preload" as="image" href="https://cbt-fkk.umj.ac.id/media/olxtoto-Situs-Togel-Terpercaya-1.jpg" />
   <meta name="supported-amp-formats" content="website,stories,ads,email">
   <!-- Twitter -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="OLXTOTO: Situs Togel Online Terbaik Di Indonesia #1">
   <meta name="twitter:description"
     content="OLXTOTO adalah situs togel online terpercaya di Indonesia dengan permainan lengkap, keamanan terjamin, dan layanan pelanggan 24/7. Nikmati pengalaman bermain togel yang aman dan menyenangkan. Bergabung sekarang!">
-  <meta name="twitter:image:src" content="https://olxtotox.com/wp-content/uploads/2024/10/olxtoto-Bandar-Togel-Online-Terbesar-No-1-di-Indonesia-1.jpg">
+  <meta name="twitter:image:src" content="https://cbt-fkk.umj.ac.id/media/olxtoto-Situs-Togel-Terpercaya-1.jpg">
   <meta name="og:title" content="OLXTOTO: Situs Togel Online Terbaik Di Indonesia #1">
   <meta name="og:description"
     content="OLXTOTO adalah situs togel online terpercaya di Indonesia dengan permainan lengkap, keamanan terjamin, dan layanan pelanggan 24/7. Nikmati pengalaman bermain togel yang aman dan menyenangkan. Bergabung sekarang!">
-  <meta name="og:image" content="https://olxtotox.com/wp-content/uploads/2024/10/olxtoto-Bandar-Togel-Online-Terbesar-No-1-di-Indonesia-1.jpg">
+  <meta name="og:image" content="https://cbt-fkk.umj.ac.id/media/olxtoto-Situs-Togel-Terpercaya-1.jpg">
   <meta property="og:image:width" content="600">
   <meta property="og:image:height" content="466">
   <meta name="og:url" content="https://cbt-fkk.umj.ac.id/media/">
@@ -53,8 +53,8 @@
   <meta name="geo.country" content="ID">
   <meta name="geo.region" content="ID" />
   <meta name="tgn.nation" content="Indonesia">
-  <link rel="shortcut icon" type="image/x-icon" href="https://olxtotox.com/wp-content/uploads/2024/10/cropped-olxtoto-favicon-1-192x192.png" />
-  <link href='https://olxtotox.com/wp-content/uploads/2024/10/cropped-olxtoto-favicon-1-192x192.png' rel='icon' sizes='32x32' type='image/png' />
+  <link rel="shortcut icon" type="image/x-icon" href="https://cbt-fkk.umj.ac.id/media/olxtoto-favicon-1-180x180.png" />
+  <link href='https://cbt-fkk.umj.ac.id/media/olxtoto-favicon-1-180x180.png' rel='icon' sizes='32x32' type='image/png' />
   <style amp-runtime i-amphtml-version="012107240354000">
     html.i-amphtml-fie {
       height: 100% !important;
@@ -1842,7 +1842,7 @@
             <span itemscope="itemscope" itemtype="http://schema.org/Brand">
               <a itemprop="url" href="https://cbt-fkk.umj.ac.id/media/" title="OLXTOTO">
                 <a href="https://cbt-fkk.umj.ac.id/media/" title="OLXTOTO">
-                  <amp-img src="https://olxtotox.com/wp-content/uploads/2024/10/OLXTOTO-logo-1.png" alt="OLXTOTO" width="300" height="70" />
+                  <amp-img src="https://cbt-fkk.umj.ac.id/media/OLXTOTO-logo-1.webp" alt="OLXTOTO" width="300" height="70" />
                 </a>
                 <meta itemprop="name" content="OLXTOTO">
               </a>
@@ -1861,7 +1861,7 @@
             <span itemscope="itemscope" itemtype="http://schema.org/Brand">
               <a itemprop="url" href="https://cbt-fkk.umj.ac.id/media/" title="OLXTOTO">
                 <a href="https://cbt-fkk.umj.ac.id/media/" title="OLXTOTO">
-                  <amp-img src="https://olxtotox.com/wp-content/uploads/2024/10/OLXTOTO-logo-1.png" alt="OLXTOTO" width="300" height="70"
+                  <amp-img src="https://cbt-fkk.umj.ac.id/media/OLXTOTO-logo-1.webp" alt="OLXTOTO" width="300" height="70"
                     layout="responsive" />
                 </a>
                 <meta itemprop="name" content="OLXTOTO">
@@ -1888,10 +1888,10 @@
       <div class="container">
         <div class="item-8 item-xs-12 m-b-1 slider-area owl-carousel">
           <amp-carousel width="600" height="600" layout="responsive" type="slides" autoplay delay="4000">
-            <amp-img src="https://olxtotox.com/wp-content/uploads/2024/10/olxtoto-Bandar-Togel-Online-Terbesar-No-1-di-Indonesia-1.jpg" width="600" height="600" layout="responsive"
+            <amp-img src="https://cbt-fkk.umj.ac.id/media/olxtoto-Situs-Togel-Terpercaya-1.jpg" width="600" height="600" layout="responsive"
               alt="OLXTOTO">
               <amp-img alt="OLXTOTO" fallback width="600" height="600" layout="responsive"
-                src="https://olxtotox.com/wp-content/uploads/2024/10/olxtoto-Bandar-Togel-Online-Terbesar-No-1-di-Indonesia-1.jpg"></amp-img>
+                src="https://cbt-fkk.umj.ac.id/media/olxtoto-Situs-Togel-Terpercaya-1.jpg"></amp-img>
             </amp-img>
           </amp-carousel>
         </div>
@@ -1922,15 +1922,15 @@
           </div>
           <div class="fixed-footer">
             <a href="https://cbt-fkk.umj.ac.id/media/" rel="nofollow noopener" target="_blank" class="wobble">
-              <amp-img layout="intrinsic" height="75" width="75" src="https://olxtotox.com/wp-content/uploads/2024/12/tembak-kan.png" alt="OLXTOTO"></amp-img>
+              <amp-img layout="intrinsic" height="75" width="75" src="https://cbt-fkk.umj.ac.id/media/olxtoto-favicon-1-180x180.png" alt="OLXTOTO"></amp-img>
               Promosi
             </a>
             <a href="https://cbt-fkk.umj.ac.id/media/" rel="nofollow noopener" target="_blank" class="tada">
               <amp-img class="center" layout="intrinsic" height="50" width="50"
-                src="https://olxtotox.com/wp-content/uploads/2024/10/cropped-olxtoto-favicon-1-192x192.png" alt="OLXTOTO"></amp-img> Daftar
+                src="https://cbt-fkk.umj.ac.id/media/olxtoto-favicon-1-180x180.png" alt="OLXTOTO"></amp-img> Daftar
             </a>
             <a href="https://cbt-fkk.umj.ac.id/media/" rel="nofollow noopener" target="_blank" class="wobble">
-              <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75" src="https://olxtotox.com/wp-content/uploads/2024/12/iconpromo.png"
+              <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75" src="https://cbt-fkk.umj.ac.id/media/olxtoto-favicon-1-180x180.png"
                 alt="OLXTOTO"></amp-img> Live Chat
             </a>
           </div>

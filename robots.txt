@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow:
 
-Sitemap: https://courseadvisorbd.com/sitemap.xml
+Sitemap: https://www.uniqueelevatorcompany.com/sitemap.xml

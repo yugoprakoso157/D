@@ -1,0 +1,930 @@
+
+<!--EDIT/UBAH SCRIPT AMP & BUTTON-->
+<!DOCTYPE html>
+<html amp lang="id">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="color-scheme" content="light only">
+    <title>Slot Gacor Terbaru 2025 | Situs Resmi Mudah Menang & Maxwin Setiap Hari</title>
+    <meta property="og:title" content="Slot Gacor Terbaru 2025 | Situs Resmi Mudah Menang & Maxwin Setiap Hari">
+    <meta name="description" content="Slot gacor terbaru 2025 hadir dengan RTP tertinggi dan gameplay terbaik! Temukan situs resmi terpercaya yang memberikan peluang menang terbesar dan fitur maxwin setiap hari. Nikmati pengalaman bermain slot online yang menguntungkan sekarang.">
+    <link rel="canonical" href="https://medimay.sld.cu/media/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://goodimg.io/images/2025/02/09/slot-gacor1.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="720">
+    <meta property="og:image:height" content="480">
+    <meta property="og:url" content="index.html">
+    <meta property="twitter:card" content="summary_large_image">
+    <link rel="preconnect" href="https://cdn.ampproject.org/">
+    <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
+    <script async="" src="https://cdn.ampproject.org/v0.js"></script>
+    <style amp-custom="">
+    a, amp-img, body, div, h1, html, li, p, span, ul {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font: inherit;
+        vertical-align:baseline
+    }
+
+    ul {
+        list-style:none
+    }
+
+    body {
+        text-size-adjust:none
+    }
+
+    *, :after, :before {
+        box-sizing:border-box
+    }
+
+    body {
+        line-height: 1;
+        min-height: var(--viewport-height);
+        min-width: 320px;
+        overflow-x: hidden;
+        overflow-wrap: break-word;
+        background-color:#000000
+    }
+
+    body:after {
+        background-color: #1b1330;
+        content: "";
+        display: block;
+        height: 100%;
+        left: 0;
+        opacity: 0;
+        pointer-events: none;
+        position: fixed;
+        top: 0;
+        transform: scale(1);
+        transition: opacity 1s ease-in-out 0s, visibility 1s ease 0s;
+        visibility: hidden;
+        width: 100%;
+        z-index:1
+    }
+
+    :root {
+        --background-height: 100vh;
+        --site-language-alignment: left;
+        --site-language-direction: ltr;
+        --site-language-flex-alignment: flex-start;
+        --site-language-indent-left: 1;
+        --site-language-indent-right: 0;
+        --viewport-height:100vh
+    }
+
+    html {
+        font-size:18pt
+    }
+
+    a {
+        color: inherit;
+        text-decoration: underline;
+        transition:color .25s ease 0s
+    }
+
+    #a {
+        flex-direction: column;
+        min-height: var(--viewport-height);
+        overflow: hidden;
+        z-index: 2;
+        padding:2rem
+    }
+
+    #b, #a {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        position:relative
+    }
+
+    #b {
+        --alignment: center;
+        --flex-alignment: center;
+        --indent-left: 1;
+        --indent-right: 1;
+        --border-radius-tl: 2rem;
+        --border-radius-tr: 2rem;
+        --border-radius-br: 2rem;
+        --border-radius-bl: 2rem;
+        flex-grow: 0;
+        flex-shrink: 0;
+        text-align: var(--alignment);
+        background-color: transparent;
+        transition:opacity 1s ease 0s, transform 1s ease 0s
+    }
+
+    #b, #b > .a {
+        max-width: 100%;
+        z-index: 1;
+        border-radius:var(--border-radius-tl) var(--border-radius-tr) var(--border-radius-br) var(--border-radius-bl)
+    }
+
+    #b > .a {
+        --width: 30rem;
+        position: relative;
+        width: var(--width);
+        padding:var(--padding-vertical) var(--padding-horizontal)
+    }
+
+    #b > .a > * {
+        margin-top: var(--spacing);
+        margin-bottom:var(--spacing)
+    }
+
+    :root:not(#c):not(#c):not(#c) #b > .a > :first-child {
+        margin-top:0
+    }
+
+    :root:not(#c):not(#c):not(#c) #b > .a > :last-child {
+        margin-bottom:0
+    }
+
+    #b > .a > .b {
+        margin-left: calc(var(--padding-horizontal) * -1);
+        max-width: calc(100% + var(--padding-horizontal) * 2 + .4725px);
+        width:calc(100% + var(--padding-horizontal) * 2 + .4725px)
+    }
+
+    #b > .a > .b:first-child {
+        border-top-left-radius: inherit;
+        border-top-right-radius:inherit
+    }
+
+    :root:not(#c):not(#c):not(#c) #b > .a > .b:first-child {
+        margin-top:calc(var(--padding-vertical) * -1)
+    }
+
+    #b > .a > .b:last-child {
+        border-bottom-left-radius: inherit;
+        border-bottom-right-radius:inherit
+    }
+
+    :root:not(#c):not(#c):not(#c) #b > .a > .b:last-child {
+        margin-bottom:calc(var(--padding-vertical) * -1)
+    }
+
+    .c {
+        display: block;
+        line-height: 0;
+        max-width: 100%;
+        position:relative
+    }
+
+    .c .d {
+        backface-visibility: hidden;
+        transform: translateZ(0);
+        display: inline-block;
+        max-width: 100%;
+        overflow: hidden;
+        vertical-align: top;
+        width:100%
+    }
+
+    .c .d amp-img {
+        max-width: 100%;
+        vertical-align: top;
+        width:inherit
+    }
+
+    :root:not(#c):not(#c):not(#c) .c .d amp-img {
+        border-radius:0
+    }
+
+    :root:not(#c):not(#c):not(#c) .c.e:not(:last-child) {
+        margin-bottom:1.875rem
+    }
+
+    .c.e .d {
+        width: 9rem;
+        border-radius: 100%;
+        border: 5px solid #8a75ff;
+        box-shadow:0 1.75rem 1.375rem 0 rgba(29, 18, 45, .29)
+    }
+
+    .c.e .d, .c.e .d amp-img {
+        transition:none 0s ease 0s
+    }
+
+    :root:not(#c):not(#c):not(#c) .c.f:not(:first-child) {
+        margin-top:1.875rem
+    }
+
+    :root:not(#c):not(#c):not(#c) .c.f:not(:last-child) {
+        margin-bottom:1.875rem
+    }
+
+    .c.f .d {
+        border: 3px solid #8a75ff;
+        box-shadow:0 1.75rem 1.375rem 0 rgba(29, 18, 45, .29)
+    }
+
+    .c.f .d, .c.f .d amp-img {
+        transition:none 0s ease 0s
+    }
+
+    h1, p {
+        direction:var(--site-language-direction)
+    }
+
+    h1, p, p span.g {
+        position:relative
+    }
+
+    p span.g {
+        display:block
+    }
+
+    p.h {
+        color:#fafafa
+    }
+
+    p.f, p.h {
+        font-family: Inter, sans-serif;
+        font-weight:200
+    }
+
+    p.f {
+        color:#dedede
+    }
+
+    p.f span.g:nth-child(n + 2) {
+        margin-top:1rem
+    }
+
+    h1.e {
+        color: #fff;
+        font-family: Manrope, sans-serif;
+        font-size: 1.875em;
+        font-weight:600
+    }
+
+    .i {
+        cursor: default;
+        display: flex;
+        justify-content: var(--flex-alignment);
+        letter-spacing: 0;
+        padding:0
+    }
+
+    .i li, .i li a {
+        max-width:100%
+    }
+
+    .i li a {
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        text-decoration: none;
+        vertical-align: middle;
+        white-space:nowrap
+    }
+
+    .i.e {
+        flex-flow:column nowrap
+    }
+
+    .i.e li a {
+        display: inline-flex;
+        width: 30rem;
+        height: 4rem;
+        line-height: 4rem;
+        padding: 0 2rem;
+        vertical-align: middle;
+        font-family: Inter, sans-serif;
+        font-weight: 400;
+        border-radius: .75rem;
+        flex-direction: row-reverse;
+        justify-content: flex-end;
+        transition:transform .25s ease 0s, color .25s ease 0s, background-color .25s ease 0s, border-color .25s ease 0s
+    }
+
+    .i.e li a svg {
+        display: block;
+        fill: #fff;
+        flex-grow: 0;
+        flex-shrink: 0;
+        height: 100%;
+        min-width: 16px;
+        margin-left: .5em;
+        margin-right: -.125em;
+        transition:fill .25s ease 0s
+    }
+
+    .i.e li a .j {
+        direction: var(--site-language-direction);
+        overflow: hidden;
+        flex-grow: 1;
+        flex-shrink: 1;
+        text-align: left;
+        width:100%
+    }
+
+    .i.e .k {
+        background-color: hsla(0, 0%, 100%, 0.05);
+        color: #fff;
+        background-image: linear-gradient(300deg, hsla(0, 0%, 100%, .04), transparent);
+        background-position: 0 0;
+        background-repeat: repeat;
+        background-size:cover
+    }
+
+    .i.e li a:hover {
+        transform:scale(1.0425)
+    }
+
+    #d .l {
+        background-color: #301a57;
+        background-image:linear-gradient(300deg, #9774ff, rgba(227, 0, 0, .008))
+    }
+
+    .m {
+        position:relative
+    }
+
+    .m > .n, .m > .n > .a {
+        vertical-align: top;
+        position: relative;
+        max-width: 100%;
+        border-radius:inherit
+    }
+
+    .m > .n > .a {
+        text-align:var(--alignment)
+    }
+
+    #b .m.b:first-child > .n {
+        border-top-left-radius: inherit;
+        border-top-right-radius:inherit
+    }
+
+    #b .m.b:last-child > .n {
+        border-bottom-left-radius: inherit;
+        border-bottom-right-radius:inherit
+    }
+
+    #b .m.b:first-child > .n > .a {
+        border-top-left-radius: inherit;
+        border-top-right-radius:inherit
+    }
+
+    #b .m.b:last-child > .n > .a {
+        border-bottom-left-radius: inherit;
+        border-bottom-right-radius:inherit
+    }
+
+    .m.f {
+        --alignment: center;
+        --flex-alignment: center;
+        --indent-left: 1;
+        --indent-right: 1;
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        background-color:#130d0d
+    }
+
+    .m.f > .n > .a {
+        --padding-horizontal: 3.25rem;
+        --padding-vertical: 3.25rem;
+        padding:var(--padding-vertical) var(--padding-horizontal)
+    }
+
+    .m.f > .n {
+        max-width: 100%;
+        width:100%
+    }
+
+    .m.f.o > .n > .a > * {
+        margin-bottom: var(--spacing);
+        margin-top:var(--spacing)
+    }
+
+    :root:not(#c):not(#c):not(#c) .m.f.o > .n > .a > :first-child {
+        margin-top:0
+    }
+
+    :root:not(#c):not(#c):not(#c) .m.f.o > .n > .a > :last-child {
+        margin-bottom:0
+    }
+
+    .m.e {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        background-color:#0e0e0e
+    }
+
+    .m.e > .n > .a {
+        --padding-horizontal: 2.5rem;
+        --padding-vertical: 2.5rem;
+        padding:var(--padding-vertical) var(--padding-horizontal)
+    }
+
+    .m.e > .n {
+        max-width: 100%;
+        width:100%
+    }
+
+    .m.e.o > .n > .a > * {
+        margin-bottom: var(--spacing);
+        margin-top:var(--spacing)
+    }
+
+    :root:not(#c):not(#c):not(#c) .m.e.o > .n > .a > :first-child {
+        margin-top:0
+    }
+
+    :root:not(#c):not(#c):not(#c) .m.e.o > .n > .a > :last-child {
+        margin-bottom:0
+    }
+
+    .m.e.p > .n > .a {
+        flex-wrap: wrap;
+        display: flex;
+        align-items:center
+    }
+
+    .m.e.p > .n > .a > * {
+        flex-grow: 0;
+        flex-shrink: 0;
+        max-width: 100%;
+        text-align: var(--alignment);
+        padding:0 0 0 var(--gutters)
+    }
+
+    .m.e.p > .n > .a > * > * {
+        margin-bottom: var(--spacing);
+        margin-top:var(--spacing)
+    }
+
+    :root:not(#c):not(#c):not(#c) .m.e.p > .n > .a > * > :first-child {
+        margin-top:0
+    }
+
+    :root:not(#c):not(#c):not(#c) .m.e.p > .n > .a > * > :last-child {
+        margin-bottom:0
+    }
+
+    .m.e.p > .n > .a > :first-child {
+        margin-left:calc(var(--gutters) * -1)
+    }
+
+    #e > .n > .a > :first-child, #e > .n > .a > :nth-child(2), #e > .n > .a > :nth-child(3) {
+        width:calc(33.3333% + var(--gutters)/3)
+    }
+
+    .q {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: var(--flex-alignment);
+        letter-spacing: 0;
+        padding:0
+    }
+
+    .q li {
+        position: relative;
+        z-index:1
+    }
+
+    .q li a {
+        align-items: center;
+        display: flex;
+        justify-content:center
+    }
+
+    .q li a svg {
+        display: block;
+        position:relative
+    }
+
+    .q li a .j {
+        display:none
+    }
+
+    .q.e {
+        font-size:2.5em
+    }
+
+    .q.e li a {
+        border-radius: 100%;
+        height: 2em;
+        width: 2em;
+        transition:transform .25s ease 0s, color .25s ease 0s, background-color .25s ease 0s, border-color .25s ease 0s
+    }
+
+    .q.e li a svg {
+        height: 60%;
+        width: 60%;
+        transition:fill .25s ease 0s
+    }
+
+    .q.e a {
+        background-color: hsla(61, 97%, 60%, 0.05);
+        background-image: linear-gradient(37deg, hsla(0, 0%, 100%, .04), transparent);
+        background-position: 0 0;
+        background-repeat: repeat;
+        background-size:cover
+    }
+
+    .q.e a svg {
+        fill:#fff
+    }
+
+    .q.e li a:hover {
+        transform:translateY(-7.75%)
+    }
+
+    #f .l {
+        background-color: #d13a3a;
+        background-image:linear-gradient(37deg, #e82c2c, rgba(209, 58, 58, .008))
+    }
+
+    #g .l {
+        background-color: #2c9efa;
+        background-image:linear-gradient(37deg, #2c66fa, rgba(44, 158, 250, .008))
+    }
+
+    #h .l {
+        background-color: #c060fb;
+        background-image:linear-gradient(37deg, #6038ff, rgba(192, 96, 251, .008))
+    }
+
+    html {
+        font-size: 13pt;
+        font-size: 11pt;
+        font-size:12pt
+    }
+
+    #b {
+        --border-radius-tl: 0;
+        --border-radius-tr: 0;
+        --border-radius-br: 0;
+        --border-radius-bl:0
+    }
+
+    #b > .a {
+        --padding-horizontal: 2rem;
+        --padding-vertical:2rem
+    }
+
+    :root:not(#c):not(#c):not(#c) .c.e:not(:last-child) {
+        margin-bottom:1.40625rem
+    }
+
+    .c.e .d {
+        width:8rem
+    }
+
+    :root:not(#c):not(#c):not(#c) .c.f:not(:first-child) {
+        margin-top:1.40625rem
+    }
+
+    :root:not(#c):not(#c):not(#c) .c.f:not(:last-child) {
+        margin-bottom:1.40625rem
+    }
+
+    .c.f .d {
+        width:24rem
+    }
+
+    p.f, p.h {
+        letter-spacing: 0;
+        width: 100%;
+        line-height:1.75
+    }
+
+    h1.e {
+        letter-spacing: 0;
+        width: 100%;
+        line-height:1.25
+    }
+
+    .i.e {
+        gap:1.25rem
+    }
+
+    .i.e li a {
+        letter-spacing: 0;
+        font-size:1.125em
+    }
+
+    .i.e li a svg {
+        width:1.75em
+    }
+
+    .m.f > .n > .a {
+        --gutters: 3rem;
+        --padding-horizontal: 2rem;
+        --padding-vertical: 2rem;
+        --spacing:1.5rem
+    }
+
+    .m.e {
+        --alignment: center;
+        --flex-alignment: center;
+        --indent-left: 1;
+        --indent-right:1
+    }
+
+    .m.e > .n > .a {
+        --gutters: 1rem;
+        --padding-horizontal: 1.75rem;
+        --padding-vertical: 2rem;
+        --spacing:0.25rem
+    }
+
+    #e > .n > .a > :first-child, #e > .n > .a > :nth-child(2), #e > .n > .a > :nth-child(3) {
+        --alignment: center;
+        --flex-alignment: center;
+        --indent-left: 1;
+        --indent-right:1
+    }
+
+    .q.e {
+        font-size: 1.75em;
+        gap:1.625rem
+    }
+
+    .i.e li a {
+        max-width: 32rem;
+        width:100%
+    }
+
+    .m.f > .n > .a {
+        --spacing:1.3125rem
+    }
+
+    .m.e > .n > .a {
+        --spacing:0.21875rem
+    }
+
+    #a {
+        padding:0
+    }
+
+    #b > .a {
+        --padding-horizontal: 1.5rem;
+        --padding-vertical: 1.5rem;
+        --spacing:0rem
+    }
+
+    p.f, p.h {
+        font-size:1em
+    }
+
+    h1.e {
+        font-size:1.5em
+    }
+
+    .i.e {
+        gap:.9375rem
+    }
+
+    .m.f > .n > .a {
+        --gutters: 2.25rem;
+        --padding-horizontal: 1.5rem;
+        --padding-vertical: 1.5rem;
+        --spacing:1.125rem
+    }
+
+    .m.e > .n > .a {
+        --gutters: 0.75rem;
+        --padding-horizontal: 1.3125rem;
+        --padding-vertical: 1.5rem;
+        --spacing:0.1875rem
+    }
+
+    .q.e {
+        gap:1.21875rem
+    }
+
+    :root:not(#c):not(#c):not(#c) :root:not(#c) [hidden] {
+        display:none
+    }
+
+    :root:not(#c):not(#c):not(#c):not(#c) .r {
+        display:inline-block
+    }
+
+    :root:not(#c):not(#c):not(#c):not(#c) amp-img > img {
+        object-fit: inherit;
+        object-position: inherit
+    }
+
+    :root:not(#c):not(#c):not(#c):not(#c) .s, [layout=fixed][width="0"][height="0"] {
+        display: none
+    }
+    </style>
+
+    
+    <link rel="icon" type="image/png" href="https://goodimg.io/images/2024/10/11/icon-new.png">
+    <link rel="apple-touch-icon" href="https://goodimg.io/images/2024/10/11/icon-new.png">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?display=swap&amp;family=Inter:ital,wght@0,200;0,400;1,200;1,400&amp;family=Manrope:ital,wght@0,600;1,600">
+    <style amp-boilerplate="">
+    body {
+        -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        animation:-amp-start 8s steps(1, end) 0s 1 normal both
+    }
+
+    @-webkit-keyframes -amp-start {
+        from {
+            visibility:hidden
+        }
+
+        to {
+            visibility:visible
+        }
+    }
+
+    @-moz-keyframes -amp-start {
+        from {
+            visibility:hidden
+        }
+
+        to {
+            visibility:visible
+        }
+    }
+
+    @-ms-keyframes -amp-start {
+        from {
+            visibility:hidden
+        }
+
+        to {
+            visibility:visible
+        }
+    }
+
+    @-o-keyframes -amp-start {
+        from {
+            visibility:hidden
+        }
+
+        to {
+            visibility:visible
+        }
+    }
+
+    @keyframes -amp-start {
+        from {
+            visibility:hidden
+        }
+
+        to {
+            visibility: visible
+        }
+    }
+    </style>
+    <noscript>
+        <style amp-boilerplate="">
+        body {
+            -webkit-animation: none;
+            -moz-animation: none;
+            -ms-animation: none;
+            animation: none
+        }
+        </style>
+    </noscript>
+</head>
+<body class="">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 40 40" display="none" width="0" height="0"></svg>
+    <div id="a">
+        <div id="b">
+            <div class="a">
+                <div id="i" class="f m o b">
+                    <div class="n">
+                        <div class="a">
+                            <div id="j" class="e c">
+                                <a href="https://opkale.me/refolx01" class="d">
+                                    <amp-img src="https://goodimg.io/images/2025/02/09/slot-gacor1.jpg" alt="Situs Slot Gacor" width="177" height="177" layout="intrinsic" class="r amp-wp-enforced-sizes">
+                                        <noscript>
+                                            <img src="https://goodimg.io/images/2025/02/09/slot-gacor1.jpg" alt="Situs Slot Gacor" width="177" height="177" class="r">
+                                        </noscript>
+                                    </amp-img>
+                                </a>
+                            </div>
+                            
+                            <ul id="d" class="e i">
+                                <li>
+                                    <a href="https://opkale.me/refolx01" class="k l" target="_blank">
+                                        <svg xmlns="http://www.w3.org/2000/svg">
+                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-5781ca2e1fb79e9a339ab93b15347b29"></use>
+                                        </svg>
+                                        <span class="j">Login</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://opkale.me/refolx01" class="k" target="_blank">
+                                        <svg xmlns="http://www.w3.org/2000/svg">
+                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-added293106ea616175452e6eb0197f0"></use>
+                                        </svg>
+                                        <span class="j">Daftar</span>
+                                    </a>
+                                </li>
+                             
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div id="e" class="e m p b">
+                    <div class="n">
+                        <div class="a">
+                            <div>
+                                <ul id="f" class="e q">
+                                    <li>
+                                        <a class="l" href="https://opkale.me/refolx01" aria-label="Message">
+                                            <svg xmlns="http://www.w3.org/2000/svg">
+                                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-021973a1bb185878b41e1ef48ed6bbaa"></use>
+                                            </svg>
+                                            <span class="j s"></span>
+                                        </a>
+                                    </li>
+                                </ul>
+                                <p id="l" class="f">Livechat</p>
+                            </div>
+                            <div>
+                                <ul id="g" class="e q">
+                                    <li>
+                                        <a class="l" href="https://opkale.me/refolx01" aria-label="Telegram">
+                                            <svg xmlns="http://www.w3.org/2000/svg">
+                                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-96fc68818d10374399c6dcf28fe98f75"></use>
+                                            </svg>
+                                            <span class="j s"></span>
+                                        </a>
+                                    </li>
+                                </ul>
+                                <p id="m" class="f">Telegram</p>
+                            </div>
+                            <div>
+                                <ul id="h" class="e q">
+                                    <li>
+                                        <a class="l" href="https://opkale.me/refolx01" aria-label="Globe">
+                                            <svg xmlns="http://www.w3.org/2000/svg">
+                                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-7a66fac84dc5d9fb5fafce395a384d40"></use>
+                                            </svg>
+                                            <span class="j s"></span>
+                                        </a>
+                                    </li>
+                                </ul>
+                                <p id="m" class="f">Alternatif</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="o" class="e m o b">
+                    <div class="n">
+                        <div class="a">
+                            <h1 id="p" class="e">Slot Gacor Terbaru 2025 | Situs Resmi Mudah Menang & Maxwin Setiap Hari</h1>
+                            <div id="q" class="f c">
+                                <a href="https://opkale.me/refolx01" class="d">
+                                    <amp-img src="https://goodimg.io/images/2024/09/14/AGENOLX-SLOT-ONLINE.jpg" alt="Agenolx situs slot gacor hari ini" width="480" height="280" layout="intrinsic" class="r amp-wp-enforced-sizes">
+                                        <noscript>
+                                            <img src="https://goodimg.io/images/2024/09/14/AGENOLX-SLOT-ONLINE.jpg" alt="Agenolx situs slot gacor hari ini" width="480" height="280" class="r">
+                                        </noscript>
+                                    </amp-img>
+                                </a>
+                            </div>
+                            <p id="r" class="f">
+                               SLOT GACOR - Bonus Lengkap
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <svg hidden="">
+        <symbol xmlns="http://www.w3.org/2000/svg" id="icon-5781ca2e1fb79e9a339ab93b15347b29" viewbox="0 0 40 40">
+            <path d="M36.3,32.1c-2.6,0.7-5.5-0.9-6.8-3.5l-2.9-6.2H20h-6.6l-2.9,6.2c-1.2,2.6-4.1,4.2-6.8,3.5 c-2.6-0.7-4.2-3.4-3.5-6L2,19.3C2,19.2,2,19.1,2.1,19l1.5-5.8c0.8-3,3.9-5.4,6.9-5.4H20h9.5c3,0,6.1,2.4,6.9,5.4l1.5,5.8 c0,0.1,0.1,0.2,0.1,0.3l1.8,6.8C40.5,28.7,39,31.4,36.3,32.1z M16.2,15c0-0.5-0.4-0.9-0.9-0.9h-2.5v-2.5c0-0.5-0.4-0.9-0.9-0.9H11 c-0.5,0-0.9,0.4-0.9,0.9v2.5H7.5c-0.5,0-0.9,0.4-0.9,0.9v0.8c0,0.5,0.4,0.9,0.9,0.9h2.6v2.6c0,0.5,0.4,0.9,0.9,0.9h0.8 c0.5,0,0.9-0.4,0.9-0.9v-2.6h2.5c0.5,0,0.9-0.4,0.9-0.9V15z M25.4,13.8c-0.9,0-1.7,0.7-1.7,1.7s0.7,1.7,1.7,1.7 c0.9,0,1.7-0.7,1.7-1.7S26.3,13.8,25.4,13.8z M28.7,10.5c-0.9,0-1.7,0.7-1.7,1.7c0,0.9,0.7,1.7,1.7,1.7c0.9,0,1.7-0.7,1.7-1.7 C30.3,11.2,29.6,10.5,28.7,10.5z M28.7,17c-0.9,0-1.7,0.7-1.7,1.7c0,0.9,0.7,1.7,1.7,1.7c0.9,0,1.7-0.7,1.7-1.7 C30.3,17.8,29.6,17,28.7,17z M31.9,13.8c-0.9,0-1.7,0.7-1.7,1.7s0.7,1.7,1.7,1.7c0.9,0,1.7-0.7,1.7-1.7S32.9,13.8,31.9,13.8z"></path>
+        </symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" id="icon-added293106ea616175452e6eb0197f0" viewbox="0 0 40 40">
+            <path d="M31.6,36.5H8.4c-1.7,0-3.1-1.4-3.1-3.1v-4.6c0-3.8,1.8-6.9,5.2-9c1.1-0.7,2.4-1.2,3.8-1.6 c-0.8-0.7-1.5-1.5-2-2.4c-0.8-1.3-1.2-2.9-1.2-4.4c0-4.9,4-8.9,8.9-8.9s8.9,4,8.9,8.9c0,1.6-0.4,3.1-1.2,4.4c-0.5,0.9-1.2,1.7-2,2.4 c1.4,0.4,2.7,1,3.8,1.6c3.4,2,5.2,5.1,5.2,9v4.6C34.7,35.1,33.3,36.5,31.6,36.5z"></path>
+        </symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" id="icon-49c7b76f0edfabe10e324ba1ac396f84" viewbox="0 0 40 40">
+            <path d="M30.1,22.8c-0.1-0.1-0.3-0.2-0.5-0.2h-1.3c-0.2,0-0.3,0.1-0.5,0.2c-0.1,0.1-0.2,0.3-0.2,0.5v6.4c0,0.9-0.3,1.6-0.9,2.3 c-0.6,0.6-1.4,0.9-2.3,0.9H7.8c-0.9,0-1.6-0.3-2.3-0.9c-0.6-0.6-0.9-1.4-0.9-2.3V12.9c0-0.9,0.3-1.6,0.9-2.3C6.1,10,6.9,9.7,7.8,9.7 h14.1c0.2,0,0.3-0.1,0.5-0.2c0.1-0.1,0.2-0.3,0.2-0.5V7.8c0-0.2-0.1-0.3-0.2-0.5c-0.1-0.1-0.3-0.2-0.5-0.2H7.8c-1.6,0-3,0.6-4.1,1.7 S2,11.3,2,12.9v16.7c0,1.6,0.6,3,1.7,4.1c1.1,1.1,2.5,1.7,4.1,1.7h16.7c1.6,0,3-0.6,4.1-1.7c1.1-1.1,1.7-2.5,1.7-4.1v-6.4 C30.3,23,30.2,22.9,30.1,22.8z M37.6,5c-0.3-0.3-0.6-0.4-0.9-0.4H26.4c-0.3,0-0.6,0.1-0.9,0.4s-0.4,0.6-0.4,0.9s0.1,0.6,0.4,0.9 l3.5,3.5L16,23.4c-0.1,0.1-0.2,0.3-0.2,0.5s0.1,0.3,0.2,0.5l2.3,2.3c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.3-0.1,0.5-0.2l13.1-13.1 l3.5,3.5c0.3,0.3,0.6,0.4,0.9,0.4c0.3,0,0.6-0.1,0.9-0.4s0.4-0.6,0.4-0.9V5.9C38,5.5,37.9,5.2,37.6,5z"></path>
+        </symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" id="icon-021973a1bb185878b41e1ef48ed6bbaa" viewbox="0 0 40 40">
+            <path d="M35.7,13c-1.6-2-3.8-3.5-6.5-4.7c-2.8-1.1-5.8-1.7-9-1.7c-2.4,0-4.8,0.3-7,1C10.9,8.2,9,9.2,7.4,10.3 c-1.6,1.2-2.9,2.5-3.8,4.1c-1,1.6-1.4,3.3-1.4,5c0,2,0.6,3.9,1.8,5.7c1.2,1.8,2.9,3.2,5,4.4c-0.1,0.5-0.3,1-0.5,1.5 c-0.2,0.5-0.4,0.9-0.5,1.2c-0.2,0.3-0.4,0.7-0.7,1c-0.3,0.4-0.5,0.6-0.6,0.8c-0.1,0.2-0.4,0.4-0.7,0.8c-0.3,0.4-0.5,0.6-0.6,0.7 c0,0-0.1,0.1-0.2,0.2C5,35.8,5,35.8,5,35.8L4.8,36c-0.1,0.1-0.1,0.2-0.1,0.2c0,0,0,0.1,0,0.2c0,0.1,0,0.2,0,0.2v0 c0.1,0.2,0.2,0.4,0.4,0.6c0.2,0.1,0.4,0.2,0.6,0.2C6.6,37.3,7.3,37.2,8,37c3.5-0.9,6.6-2.5,9.2-4.9c1,0.1,2,0.2,2.9,0.2 c3.3,0,6.3-0.6,9-1.7c2.8-1.1,4.9-2.7,6.5-4.7c1.6-2,2.4-4.1,2.4-6.5C38.1,17.1,37.3,14.9,35.7,13z"></path>
+        </symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" id="icon-96fc68818d10374399c6dcf28fe98f75" viewbox="0 0 40 40">
+            <path d="M34,9.6l-4.9,22.9c-0.3,1.6-1.3,2-2.7,1.2L19,28.3l-3.6,3.5c-0.3,0.4-0.7,0.8-1.5,0.8l0.4-7.6l0,0l-0.1,0 l13.9-12.4c0.7-0.6-0.1-0.8-0.9-0.3L10.2,22.9l-7.4-2.3c-1.7-0.4-1.7-1.6,0.3-2.3l28.8-11C33.2,6.7,34.5,7.6,34,9.6z"></path>
+        </symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" id="icon-7a66fac84dc5d9fb5fafce395a384d40" viewbox="0 0 40 40">
+            <path d="M20,3C10.6,3,3,10.6,3,20s7.6,17,17,17s17-7.6,17-17S29.4,3,20,3z M34.8,18.9h-6.2c-0.1-2.2-0.3-4.2-0.8-6.1 c1.5-0.4,3-0.9,4.2-1.5c0.6,0.9,1.2,1.8,1.6,2.9C34.3,15.7,34.7,17.3,34.8,18.9z M25.7,26.7c-1.5-0.3-3.1-0.4-4.6-0.5v-5.1h5.4 c-0.1,1.8-0.3,3.5-0.6,5.1C25.8,26.3,25.8,26.5,25.7,26.7z M14.2,26.2c-0.3-1.6-0.6-3.3-0.6-5.1h5.4v5.1c-1.6,0-3.2,0.2-4.6,0.5 C14.2,26.5,14.2,26.3,14.2,26.2z M14.3,13.3c1.5,0.3,3.1,0.4,4.6,0.5v5.1h-5.4c0.1-1.8,0.3-3.5,0.6-5.1 C14.2,13.7,14.2,13.5,14.3,13.3z M21.1,5.4C21.4,5.6,21.7,5.7,22,6c0.8,0.7,1.6,1.7,2.2,3c0.4,0.7,0.7,1.5,0.9,2.3 c-1.3,0.2-2.7,0.4-4,0.4V5.4z M18,6c0.3-0.3,0.6-0.4,0.9-0.6v6.2c-1.4,0-2.8-0.2-4-0.4c0.3-0.8,0.6-1.6,0.9-2.3 C16.5,7.7,17.2,6.7,18,6z M18.9,28.4v6.2c-0.3-0.1-0.6-0.3-0.9-0.6c-0.8-0.7-1.6-1.7-2.2-3c-0.4-0.7-0.7-1.5-0.9-2.3 C16.2,28.6,17.5,28.4,18.9,28.4z M22,34c-0.3,0.3-0.6,0.4-0.9,0.6v-6.2c1.4,0,2.8,0.2,4,0.4c-0.3,0.8-0.6,1.6-0.9,2.3 C23.5,32.3,22.8,33.3,22,34z M21.1,18.9v-5.1c1.6,0,3.2-0.2,4.6-0.5c0,0.2,0.1,0.4,0.1,0.5c0.3,1.6,0.6,3.3,0.6,5.1H21.1z M30.5,9.5 c0,0,0.1,0.1,0.1,0.1c-1,0.4-2.2,0.8-3.4,1.1c-0.6-1.9-1.4-3.5-2.4-4.8c0.3,0.1,0.6,0.2,0.9,0.3C27.5,7.1,29.1,8.1,30.5,9.5z M14.2,6.3c0.3-0.1,0.6-0.2,0.9-0.3c-0.9,1.3-1.7,2.9-2.4,4.8c-1.2-0.3-2.3-0.7-3.4-1.1c0,0,0.1-0.1,0.1-0.1 C10.9,8.1,12.5,7.1,14.2,6.3z M7.9,11.4c1.3,0.6,2.7,1.1,4.2,1.5c-0.4,1.9-0.7,3.9-0.8,6.1H5.2c0.1-1.6,0.5-3.2,1.1-4.7 C6.8,13.2,7.3,12.3,7.9,11.4z M5.2,21.1h6.2c0.1,2.2,0.3,4.2,0.8,6.1c-1.5,0.4-3,0.9-4.2,1.5c-0.6-0.9-1.2-1.8-1.6-2.9 C5.7,24.3,5.3,22.7,5.2,21.1z M9.5,30.5c0,0-0.1-0.1-0.1-0.1c1-0.4,2.2-0.8,3.4-1.1c0.6,1.9,1.4,3.5,2.4,4.8 c-0.3-0.1-0.6-0.2-0.9-0.3C12.5,32.9,10.9,31.9,9.5,30.5z M25.8,33.7c-0.3,0.1-0.6,0.2-0.9,0.3c0.9-1.3,1.7-2.9,2.4-4.8 c1.2,0.3,2.3,0.7,3.4,1.1c0,0-0.1,0.1-0.1,0.1C29.1,31.9,27.5,32.9,25.8,33.7z M32.1,28.6c-1.3-0.6-2.7-1.1-4.2-1.5 c0.4-1.9,0.7-3.9,0.8-6.1h6.2c-0.1,1.6-0.5,3.2-1.1,4.7C33.2,26.8,32.7,27.7,32.1,28.6z"></path>
+        </symbol>
+    </svg>
+</body>
+
+</html>
+
+<!--END EDIT/UBAH SCRIPT AMP & BUTTON-->

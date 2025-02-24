@@ -18,8 +18,8 @@
     <meta property="og:site_name" content="SLOT GACOR" />
     <meta property="og:author" content="SLOT GACOR" />
     <title>Situs Judi Slot Gacor Hari Ini | Link Slot88 Terpercaya dengan RTP Demo Slot Terbaru</title>
-    <link rel="canonical" href="https://medimay.sld.cu/demo/" />
-    <link rel="shortcut icon" href="https://medimay.sld.cu/demo/img/agenolx.svg" />
+    <link rel="canonical" href="https://revfhs.sld.cu/demo/" />
+    <link rel="shortcut icon" href="https://revfhs.sld.cu/demo/img/agenolx.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet" />
@@ -380,8 +380,8 @@
   <body>
     <div class="container">
       <header>
-        <a target="_blank" href="https://medimay.sld.cu/media/">
-          <amp-anim src="https://medimay.sld.cu/demo/img/slotgacor2025.jpg" width="280" height="260" layout="fixed" alt="SLOT GACOR"></amp-anim>
+        <a target="_blank" href="https://revfhs.sld.cu/demo/">
+          <amp-anim src="https://revfhs.sld.cu/img/slotgacor2025.jpg" width="280" height="260" layout="fixed" alt="SLOT GACOR"></amp-anim>
         </a>
         <br>
         <br>
@@ -390,7 +390,7 @@
         <a class="btn" href="https://opkale.me/login" target="_blank"> LOGIN </a>
         <a class="btn" href="https://slot-4rf.pages.dev/daftar" target="_blank"> DAFTAR </a>
         <a class="btn" href="https://opkale.me/refolx01" target="_blank"> RTP SLOT GACOR</a>
-        <a class="btn" href="https://medimay.sld.cu/media/" target="_blank"> BONUS NEW MEMBER</a>
+        <a class="btn" href="https://revfhs.sld.cu/demo/" target="_blank"> BONUS NEW MEMBER</a>
         <br>
       </main>
       <footer>

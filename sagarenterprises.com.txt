@@ -26,7 +26,7 @@
   <link rel="icon" type="image/x-icon" href="https://www.gstatic.com/devrel-devsite/prod/vdbb152dfd6ef5e309aa1d261d45f3fd443aed2691cbfba3f9f80f8a4012a0a8f/developers/images/favicon-new.png"/>
   <link rel="canonical" href="https://sagarenterprises.com.in/bola/" />
   <link rel="amphtml" href="https://sagarenterprises.com.in/bola/bola.html"/>
-  <meta name="google-site-verification" content="rVOPrnmOHEuCaFNf6HWr0FwRkEHwsVVxse_FfstG0hs" />
+  <meta name="google-site-verification" content="PsU9tr9DLJNpBDPwztk5QD1fFl5rbhQA-5MI5nu_jp8" />
   <!-- start preload -->
   <link rel="preload" href="https://sagarenterprises.com.in/bola/sagarenterprises.com.in.webp" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />

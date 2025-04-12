@@ -23,7 +23,7 @@
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
     <link rel="shortcut icon" href="/img/favicon.webp" />
     <link rel="canonical" href="https://sp2t.com/" />
-    <link rel="amphtml" href="https://agenslotdemo.pages.dev/" />
+    <link rel="amphtml" href="https://slot-demo-dip.pages.dev/" />
     <!-- start preload -->
     <link rel="preload" href="https://sp2t.com/img/slotgacor.jpg" as="image" />
     <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -3832,7 +3832,7 @@
                             <div id="module_product_price_1" class="pdp-block module">
                                 <div class="pdp-mod-product-price">
 
-                                    <p>Selamat datang di <a href="https://www.agenolx.com/">agen slot</a> terpercaya 
+                                    <p>Selamat datang di <a href="https://sp2t.com/">agen slot</a> terpercaya 
 										yang menyediakan berbagai pilihan slot demo Pragmatic Play paling gacor di Indonesia. 
 										Di sini, Anda dapat menikmati pengalaman bermain dengan 1000 game slot demo yang seru 
 										dan menawarkan peluang menang besar. Daftar sekarang untuk mendapatkan akses ke 

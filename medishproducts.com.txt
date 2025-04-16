@@ -1,6 +1,7 @@
 <!-- Script Landing Page -->
 <!doctype html>
 <html lang="id-ID" class="a-no-js" data-19ax5a9jf="dingo"><!-- sp:feature:head-start -->
+  <meta name="google-site-verification" content="eKmYLfPaWtM-qfUK2fSvtNIgG3NWf_EjcAJm0RRi2HY" />
 <head>
     <script>var aPageStart = (new Date()).getTime();</script>
     <meta charset="utf-8" />

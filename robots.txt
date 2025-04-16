@@ -1,4 +1,3 @@
 User-Agent: *
-Disallow:
-
-Sitemap: https://www.uniqueelevatorcompany.com/sitemap.xml
+Allow: /index.php
+Sitemap: https://www.medishproducts.com/sitemap.xml

@@ -17,7 +17,7 @@
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://dcomm.org/wp-content/uploads/2025/01/cropped-images.png" />
         <link rel="canonical" href="https://dcomm.org/" />
-        <link rel="amphtml" href="https://dcomm.org/wp-content/amp.php" />
+        <link rel="amphtml" href="https://dcomm.org/amp.php" />
         <!-- start preload -->
         <link rel="preload" href="https://dcomm.org/img/toto-slot-gacor-rupiah.png" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -1152,10 +1152,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://dcomm.org/wp-content/amp.php" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #000000;">LOGIN</a>
+                                        <a href="https://dcomm.org/amp.php" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #000000;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://dcomm.org/wp-content/amp.php" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #000000;">DAFTAR</a>
+                                        <a href="https://dcomm.org/amp.php" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #000000;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -3644,7 +3644,7 @@
                                         />
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://dcomm.org/wp-content/amp.php">
+                                        <a href="https://dcomm.org/amp.php">
                                             <img src="https://goodimg.io/images/2025/04/24/daftar-lengkap-agenolx.webp" alt="Toto Slot" style="width: 100%; height: 120px;">
                                         </a>
                                     </p>
@@ -3694,12 +3694,12 @@
                                                 <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://dcomm.org/">Agenolx</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://dcomm.org/wp-content/amp.php" target="_blank">
+                                                    <a href="https://dcomm.org/amp.php" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN</span>
                                                         </button>
                                                     </a>
-                                                    <a href="https://dcomm.org/wp-content/amp.php" target="_blank">
+                                                    <a href="https://dcomm.org/amp.php" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR</span></span>
                                                         </button>
@@ -4521,27 +4521,27 @@ window.onload = function() {
             }
         </style>
         <div class="fixed-footer">
-            <a href="https://dcomm.org/wp-content/amp.php" rel="nofollow noopener" target="_blank">
+            <a href="https://dcomm.org/amp.php" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
                     src="https://goodimg.io/images/2025/01/04/promo2.png" alt="PROMO AGENOLX">
                 Promosi
             </a>
-            <a href="https://dcomm.org/wp-content/amp.php" rel="nofollow noopener" target="_blank">
+            <a href="https://dcomm.org/amp.php" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
                     src="https://goodimg.io/images/2025/01/04/login2.png" alt="LOGIN AGENOLX">
                 Login
             </a>
-            <a href="https://dcomm.org/wp-content/amp.php" rel="nofollow noopener" target="_blank" class="tada">
+            <a href="https://dcomm.org/amp.php" rel="nofollow noopener" target="_blank" class="tada">
                 <img layout="intrinsic" height="20px" width="20px"
                     src="https://goodimg.io/images/2025/01/04/Daftar2.png" alt="DAFTAR AGENOLX">
                 Daftar
             </a>
-            <a href="https://dcomm.org/wp-content/amp.php" rel="nofollow noopener" target="_blank">
+            <a href="https://dcomm.org/amp.php" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
                     src="https://goodimg.io/images/2025/04/22/Icon-Slot.png" alt="Slot AGENOLX">
                 Slot
             </a>
-            <a href="https://dcomm.org/wp-content/amp.php" rel="nofollow noopener" target="_blank"
+            <a href="https://dcomm.org/amp.php" rel="nofollow noopener" target="_blank"
                 class="js_live_chat_link live-chat-link">
                 <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
                     src="https://goodimg.io/images/2025/01/04/livechat2.png" alt="LIVECHAT AGENOLX">

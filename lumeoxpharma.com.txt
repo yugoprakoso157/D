@@ -13,7 +13,7 @@
     content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
-  <meta name="og:url" content="https://lumeoxpharma.com/" />
+  <meta name="og:url" content="https://www.lumeoxpharma.com/" />
   <meta name="og:title"
     content="OLXTOTO - Jual Toto 5D Macau Dengan Data Macau Terpercaya Akurat Bos" />
   <meta name="og:type" content="product" />
@@ -22,8 +22,8 @@
   <meta name="og:image" content="/img/olxtoto-jual-toto-5d.webp" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="/img/logoolx.jpeg" />
-  <link rel="canonical" href="https://lumeoxpharma.com/" />
-  <link rel="amphtml" href="https://lumeoxpharma.com/amp.php" />
+  <link rel="canonical" href="https://www.lumeoxpharma.com/" />
+  <link rel="amphtml" href="https://www.lumeoxpharma.com/amp.php" />
   <!-- start preload -->
   <link rel="preload" href="/img/olxtoto-jual-toto-5d.webp" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -677,7 +677,7 @@
   </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"OLXTOTO - Jual Toto 5D Macau Dengan Data Macau Terpercaya Akurat Bos","image":"/img/olxtoto-jual-toto-5d.webp","category":"Televisi & Video","brand":{"@type":"Brand","Olxtoto 5D":"Olxtoto 5D","url":"https://lumeoxpharma.com/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"OLXTOTO menawarkan jual Toto 5D Macau terpercaya dengan dukungan data Macau resmi dan akurat. Pilih layanan terbaik untuk peluang menang pasti hanya bersama OLXTOTO.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":"OLXTOTO 5D TERPERCAYA"},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"OLXTOTO - Jual Toto 5D Macau Dengan Data Macau Terpercaya Akurat Bos","image":"/img/olxtoto-jual-toto-5d.webp","category":"Televisi & Video","brand":{"@type":"Brand","Olxtoto 5D":"Olxtoto 5D","url":"https://www.lumeoxpharma.com/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"OLXTOTO menawarkan jual Toto 5D Macau terpercaya dengan dukungan data Macau resmi dan akurat. Pilih layanan terbaik untuk peluang menang pasti hanya bersama OLXTOTO.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":"OLXTOTO 5D TERPERCAYA"},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
@@ -687,35 +687,35 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://lumeoxpharma.com/",
+            "@id": "https://www.lumeoxpharma.com/",
             "name": "Olxtoto Toto 5D"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://lumeoxpharma.com/",
+            "@id": "https://www.lumeoxpharma.com/",
             "name": "Toto 5D Macau"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://lumeoxpharma.com/",
+            "@id": "https://www.lumeoxpharma.com/",
             "name": "Toto Macau"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://lumeoxpharma.com/",
+            "@id": "https://www.lumeoxpharma.com/",
             "name": "Jual Toto"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://lumeoxpharma.com/",
+            "@id": "https://www.lumeoxpharma.com/",
             "name": "DATA MACAU TERPERCAYA"
           }
         }]
@@ -832,7 +832,7 @@
                   <span>PG Soft</span>
                 </div>
                 <div class="top-links-item" id="topActionSell">
-                  <a class="cyan" href="https://lumeoxpharma.com/"
+                  <a class="cyan" href="https://www.lumeoxpharma.com/"
                     data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">Jual Toto</a>
                 </div>
                 <div class="top-links-item" id="topActionCustomCare"
@@ -961,8 +961,8 @@
             </div>
             <div class="lzd-logo-bar">
               <div class="logo-bar-content header-content">
-                <div class="lzd-logo-content"><a href="https://lumeoxpharma.com/" data-spm="dhome"><img
-                      src="https://lumeoxpharma.com/img/olxtoto-logo-besar.webp"
+                <div class="lzd-logo-content"><a href="https://www.lumeoxpharma.com/" data-spm="dhome"><img
+                      src="https://www.lumeoxpharma.com/img/olxtoto-logo-besar.webp"
                       alt="Akun Olxtoto Toto 5D Gratis"></a></div>
                 <div class="lzd-nav-search " data-spm="search">
                   <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
@@ -975,7 +975,7 @@
                       data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                       <div class="lzd-site-menu-nav-container">
                         <div class="lzd-site-menu-nav-category">
-                          <a href="https://lumeoxpharma.com/">
+                          <a href="https://www.lumeoxpharma.com/">
                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                           </a>
                           <div class="lzd-site-menu-nav-menu">
@@ -2032,7 +2032,7 @@
                         </div>
                         <nav class="lzd-menu-labels" data-spm="menu">
                           <a class="lzd-menu-labels-item"
-                            href="https://lumeoxpharma.com/">
+                            href="https://www.lumeoxpharma.com/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="Jual Toto 5D" class="lzd-site-nav-menu-iconfont-img"
                                 src="/img/lotto.webp">
@@ -2041,7 +2041,7 @@
                             <span class="lzd-menu-labels-item-text">Jual Toto 5D</span>
                           </a>
                           <a class="lzd-menu-labels-item"
-                            href="https://lumeoxpharma.com/">
+                            href="https://www.lumeoxpharma.com/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="Lotto Macau" class="lzd-site-nav-menu-iconfont-img"
                                 src="/img/lotto.webp">
@@ -2050,7 +2050,7 @@
                             <span class="lzd-menu-labels-item-text">Lotto Macau</span>
                           </a>
                           <a class="lzd-menu-labels-item"
-                            href="https://lumeoxpharma.com/">
+                            href="https://www.lumeoxpharma.com/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="Data Macau" class="lzd-site-nav-menu-iconfont-img"
                                 src="/img/lotto.webp">
@@ -2059,7 +2059,7 @@
                             <span class="lzd-menu-labels-item-text">Data Macau</span>
                           </a>
                           <a class="lzd-menu-labels-item"
-                            href="https://lumeoxpharma.com/">
+                            href="https://www.lumeoxpharma.com/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="OLXTOTO 5D" class="lzd-site-nav-menu-iconfont-img"
                                 src="/img/lotto.webp">
@@ -2088,7 +2088,7 @@
               data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
               <div class="lzd-site-menu-nav-container">
                 <div class="lzd-site-menu-nav-category">
-                  <a href="https://lumeoxpharma.com/">
+                  <a href="https://www.lumeoxpharma.com/">
                     <span class="lzd-site-menu-nav-category-text">Kategori</span>
                   </a>
                   <div class="lzd-site-menu-nav-menu">
@@ -3127,7 +3127,7 @@
                 </div>
                 <nav class="lzd-menu-labels" data-spm="menu">
                   <a class="lzd-menu-labels-item"
-                    href="https://lumeoxpharma.com/">
+                    href="https://www.lumeoxpharma.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="Jual Toto 5D" class="lzd-site-nav-menu-iconfont-img"
                         src="/img/lotto.webp">
@@ -3135,7 +3135,7 @@
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                     <span class="lzd-menu-labels-item-text">Jual Toto 5D</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://lumeoxpharma.com/">
+                  <a class="lzd-menu-labels-item" href="https://www.lumeoxpharma.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="Lotto 5D" class="lzd-site-nav-menu-iconfont-img"
                         src="/img/lotto.webp">
@@ -3143,7 +3143,7 @@
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                     <span class="lzd-menu-labels-item-text">Lotto 5D</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://lumeoxpharma.com/">
+                  <a class="lzd-menu-labels-item" href="https://www.lumeoxpharma.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="Data Macau" class="lzd-site-nav-menu-iconfont-img"
                         src="/img/lotto.webp">
@@ -3151,7 +3151,7 @@
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                     <span class="lzd-menu-labels-item-text">Data Macau</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://lumeoxpharma.com/">
+                  <a class="lzd-menu-labels-item" href="https://www.lumeoxpharma.com/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="OLXTOTO 5D" class="lzd-site-nav-menu-iconfont-img"
                         src="/img/lotto.webp">
@@ -3510,9 +3510,9 @@
               <div id="module_product_brand_1" class="pdp-block module">
                 <div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a
                     class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self"
-                    href="https://lumeoxpharma.com/">OLXTOTO 5D</a>
+                    href="https://www.lumeoxpharma.com/">OLXTOTO 5D</a>
                   <div class="pdp-product-brand__divider"></div>
-                  <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://lumeoxpharma.com/amp.php"><button
+                  <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://www.lumeoxpharma.com/amp.php"><button
                         class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl"
                         data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">DAFTAR
                           DISINI</span></button></a>

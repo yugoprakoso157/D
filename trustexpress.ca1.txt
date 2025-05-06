@@ -18,7 +18,7 @@
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/04/01/favicon.webp" />
         <link rel="canonical" href="https://www.trustexpress.ca/" />
-        <link rel="amphtml" href="https://www.trustexpress.ca/amp.html" />
+        <link rel="amphtml" href="https://trust-agenolx.pages.dev/amp" />
         <!-- start preload -->
         <link rel="preload" href="https://goodimg.io/images/2025/03/12/1080-situs-slot-gacor.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -1173,10 +1173,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://www.trustexpress.ca/amp.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
+                                        <a href="https://trust-agenolx.pages.dev/amp" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://www.trustexpress.ca/amp.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
+                                        <a href="https://trust-agenolx.pages.dev/amp" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -3673,7 +3673,7 @@
                                         />
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://www.trustexpress.ca/amp.html">
+                                        <a href="https://trust-agenolx.pages.dev/amp">
                                             <img src="https://goodimg.io/images/2025/04/24/daftar-lengkap-agenolx.webp" alt="AGENOLX" style="width: 320px; height: 105px;">
                                         </a>
                                     </p>
@@ -3731,12 +3731,12 @@
                                                 <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://www.trustexpress.ca/">AGENOLX</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://www.trustexpress.ca/amp.html">
+                                                    <a href="https://trust-agenolx.pages.dev/amp">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN</span>
                                                         </button>
                                                     </a>
-                                                    <a href="https://www.trustexpress.ca/amp.html" target="_blank">
+                                                    <a href="https://trust-agenolx.pages.dev/amp" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR</span></span>
                                                         </button>
@@ -3782,7 +3782,7 @@
 
 <p>Proses daftar di AGENOLX sangat mudah dan hanya memerlukan beberapa langkah cepat untuk bisa langsung bermain. Nikmati berbagai bonus menarik, event harian, dan promo spesial yang membuat setiap taruhan Anda semakin menguntungkan. Daftarkan diri Anda sekarang di <a style="color: blue;" href="https://www.trustexpress.ca/">AGENOLX</a> dan rasakan sendiri sensasi bermain slot gacor bet 200 perak yang seru dan cuan maksimal!</p>
 
-                                            <a href="https://www.trustexpress.ca/amp.html" target="_blank" rel="noreferrer noopener">
+                                            <a href="https://trust-agenolx.pages.dev/amp" target="_blank" rel="noreferrer noopener">
                                             <div style="text-align: center;"><img src="https://goodimg.io/images/2025/04/15/agenolx-banner.webp" alt="AGENOLX" style="width: 100%;"></div></a>
                                         <div class="pdp-product-price" bis_skin_checked="1">
                                             <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.15.000</span>
@@ -4566,27 +4566,27 @@ window.onload = function() {
             }
         </style>
 <div class="fixed-footer">
-    <a href="https://www.trustexpress.ca/amp.html" rel="nofollow noopener" target="_blank">
+    <a href="https://trust-agenolx.pages.dev/amp" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/promo.webp" alt="PROMO AGENOLX">
         Promosi
     </a>
-    <a href="https://www.trustexpress.ca/amp.html" rel="nofollow noopener" target="_blank">
+    <a href="https://trust-agenolx.pages.dev/amp" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/login.png" alt="LOGIN AGENOLX">
         Login
     </a>
-    <a href="https://www.trustexpress.ca/amp.html" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://trust-agenolx.pages.dev/amp" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/daftar.png" alt="DAFTAR AGENOLX">
         Daftar
     </a>
-    <a href="https://www.trustexpress.ca/amp.html" rel="nofollow noopener" target="_blank">
+    <a href="https://trust-agenolx.pages.dev/amp" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/link-alternatif.webp" alt="LINK AGENOLX">
         Link
     </a>
-    <a href="https://www.trustexpress.ca/amp.html" rel="nofollow noopener" target="_blank"
+    <a href="https://trust-agenolx.pages.dev/amp" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/live-chat.png" alt="LIVECHAT AGENOLX">

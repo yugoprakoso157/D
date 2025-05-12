@@ -3819,7 +3819,7 @@ e.init_wh=r,e.run=function(){u.DOMReady(function(){r()})}},function(t,e,n){"use 
 												<br>                
 												<p>Keywords Terkait :</p>
 												<p><br></p>
-												<li>cerutu4d</li>
+												<li>toto togel</li>
 												<li>4D</li>
 												<li>Slot</li>
 												<li>Toto Slot</li>
@@ -3827,7 +3827,7 @@ e.init_wh=r,e.run=function(){u.DOMReady(function(){r()})}},function(t,e,n){"use 
 												<li>Situs Slot</li>
 												<li>Slot 4D</li>
 												<li>Toto online</li>
-												<li>cerutu4d resmi</li>
+												<li>toto togel resmi</li>
 												<li>Situs Slot Terbaik</li>
 												<li>Link Slot Terpercaya</li>
 												<p>

@@ -10,7 +10,7 @@
   <title>OLXTOTO > TOP 1 Bandar Toto Macau Dengan Pelayanan Toto 5D Terbaik Di Indonesia</title>
   <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
   <link rel="icon" type="image/x-icon" href="https://goodimg.io/images/2024/06/26/logoolx.jpeg" />
-  <link rel="amphtml" href="https://mt-namdu.pages.dev/mt.namdu.uz" />
+  <link rel="amphtml" href="https://mt-namdu2.pages.dev/" />
   <link rel="canonical" href="https://mt.namdu.uz/" />
   <meta property="og:site_name" content="OLXTOTO" />
   <meta property="og:title"
@@ -1372,8 +1372,8 @@ footer#footer-sections {
             <div class="content">
 
               <div class="n-columns-2">
-                <a href="https://mt-namdu.pages.dev/mt.namdu.uz" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://mt-namdu.pages.dev/mt.namdu.uz" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="https://mt-namdu2.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://mt-namdu2.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
                 </div>
 
 

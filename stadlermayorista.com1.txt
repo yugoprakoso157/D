@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-        <meta name="og:url" content="https://www.stadlermayorista.com.ar/" />
+        <meta name="og:url" content="https://stadlermayorista.com.ar/" />
         <meta name="og:title" content="TOTO TOGEL4D: Situs Togel Online & Bandar Toto Macau 4D Terpercaya Hadiah 10 Juta" />
         <meta name="og:type" content="product" />
         <meta name="og:description" content="TOTO TOGEL4D adalah situs togel online terpercaya dengan permainan Toto Macau 4D berhadiah hingga 10 juta. Login cepat, transaksi aman, dan layanan profesional." />
@@ -17,7 +17,7 @@
         <meta name="og:image" content="https://goodimg.io/images/2024/09/18/markas-slot.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/04/21/favicon-agen-terpercaya.webp" />
-        <link rel="canonical" href="https://www.stadlermayorista.com.ar/" />
+        <link rel="canonical" href="https://stadlermayorista.com.ar/" />
         <link rel="amphtml" href="https://toto-mayorista.pages.dev/amp/toto" />
         
         <!-- start preload -->
@@ -855,7 +855,7 @@
                 "name": "TOTO TOGEL4D: Situs Togel Online & Bandar Toto Macau 4D Terpercaya Hadiah 10 Juta",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
-                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://www.stadlermayorista.com.ar/" },
+                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://stadlermayorista.com.ar/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
                 "description": "TOTO TOGEL4D adalah situs togel online terpercaya dengan permainan Toto Macau 4D berhadiah hingga 10 juta. Login cepat, transaksi aman, dan layanan profesional.",
@@ -880,7 +880,7 @@
                         "@type": "ListItem",
                         "position": 1,
                         "item": {
-                            "@id": "https://www.stadlermayorista.com.ar/",
+                            "@id": "https://stadlermayorista.com.ar/",
                             "name": "TOTO 4D"
                         }
                     },
@@ -888,7 +888,7 @@
                         "@type": "ListItem",
                         "position": 2,
                         "item": {
-                            "@id": "https://www.stadlermayorista.com.ar/",
+                            "@id": "https://stadlermayorista.com.ar/",
                             "name": "Situs Togel"
                         }
                     },
@@ -896,7 +896,7 @@
                         "@type": "ListItem",
                         "position": 3,
                         "item": {
-                            "@id": "https://www.stadlermayorista.com.ar/",
+                            "@id": "https://stadlermayorista.com.ar/",
                             "name": "Toto Togel"
                         }
                     },
@@ -904,7 +904,7 @@
                         "@type": "ListItem",
                         "position": 4,
                         "item": {
-                            "@id": "https://www.stadlermayorista.com.ar/",
+                            "@id": "https://stadlermayorista.com.ar/",
                             "name": "Situs Toto Togel"
                         }
                     },
@@ -912,7 +912,7 @@
                         "@type": "ListItem",
                         "position": 5,
                         "item": {
-                            "@id": "https://www.stadlermayorista.com.ar/",
+                            "@id": "https://stadlermayorista.com.ar/",
                             "name": "TOTO TOGEL4D: Situs Togel Online & Bandar Toto Macau 4D Terpercaya Hadiah 10 Juta"
                         }
                     }
@@ -1024,10 +1024,10 @@
                                         <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://www.stadlermayorista.com.ar/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">TOTO 4D</a>
+                                        <a target="_blank" href="https://stadlermayorista.com.ar/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">TOTO 4D</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                        <span><a href="https://www.stadlermayorista.com.ar/">TOTO 4D LOGIN</a></span>
+                                        <span><a href="https://stadlermayorista.com.ar/">TOTO 4D LOGIN</a></span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
                                                 <div class="get-the-app-scope">
@@ -1082,10 +1082,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionSell">
-                                        <a class="black" href="https://www.stadlermayorista.com.ar/">TOTO 4D LINK ALTERNATIF</a>
+                                        <a class="black" href="https://stadlermayorista.com.ar/">TOTO 4D LINK ALTERNATIF</a>
                                     </div>
                                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                        <span><a href="https://www.stadlermayorista.com.ar/">SITUS TOGEL</a></span>
+                                        <span><a href="https://stadlermayorista.com.ar/">SITUS TOGEL</a></span>
                                         <div class="lzd-customcare-popup top-popup-wrap">
                                             <div class="top-popup-content l-customcare-content">
                                                 <ul class="care-list">
@@ -1132,7 +1132,7 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://www.stadlermayorista.com.ar/">TOTO TOGEL</a></span>
+                                        <span><a href="https://stadlermayorista.com.ar/">TOTO TOGEL</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
@@ -1191,7 +1191,7 @@
                             <div class="lzd-logo-bar">
                                 <div class="logo-bar-content header-content">
                                     <div class="lzd-logo-content">
-                                        <a href="https://www.stadlermayorista.com.ar/" data-spm="dhome">
+                                        <a href="https://stadlermayorista.com.ar/" data-spm="dhome">
                                             <img
                                                 src="https://goodimg.io/images/2025/04/12/logo-agenolx.webp"
                                                 alt="TOTO 4D"
@@ -1214,7 +1214,7 @@
                                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                                 <div class="lzd-site-menu-nav-container">
                                                     <div class="lzd-site-menu-nav-category">
-                                                        <a href="https://www.stadlermayorista.com.ar/">
+                                                        <a href="https://stadlermayorista.com.ar/">
                                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                         </a>
                                                         <div class="lzd-site-menu-nav-menu">
@@ -2317,7 +2317,7 @@
                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                 <div class="lzd-site-menu-nav-container">
                                     <div class="lzd-site-menu-nav-category">
-                                        <a href="https://www.stadlermayorista.com.ar/">
+                                        <a href="https://stadlermayorista.com.ar/">
                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                         </a>
                                         <div class="lzd-site-menu-nav-menu">
@@ -3354,7 +3354,7 @@
                                     <nav class="lzd-menu-labels" data-spm="menu">
                                         <a
                                             class="lzd-menu-labels-item"
-                                            href="https://www.stadlermayorista.com.ar/"
+                                            href="https://stadlermayorista.com.ar/"
                                         >
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
@@ -3366,7 +3366,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                             <span class="lzd-menu-labels-item-text">TOTO 4D</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://www.stadlermayorista.com.ar/">
+                                        <a class="lzd-menu-labels-item" href="https://stadlermayorista.com.ar/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Situs Togel"
@@ -3377,7 +3377,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                             <span class="lzd-menu-labels-item-text">Situs Togel</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://www.stadlermayorista.com.ar/">
+                                        <a class="lzd-menu-labels-item" href="https://stadlermayorista.com.ar/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Toto Togel"
@@ -3388,7 +3388,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                             <span class="lzd-menu-labels-item-text">Toto Togel</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://www.stadlermayorista.com.ar/">
+                                        <a class="lzd-menu-labels-item" href="https://stadlermayorista.com.ar/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Situs Toto Togel"
@@ -3693,7 +3693,7 @@
                                         <div id="module_product_brand_1" class="pdp-block module">
                                             <div class="pdp-product-brand">
                                                 <span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.stadlermayorista.com.ar/">TOTO 4D</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://stadlermayorista.com.ar/">TOTO 4D</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
                                                     <a href="https://toto-mayorista.pages.dev/amp/toto">
@@ -3724,7 +3724,7 @@
                                                 <div class="seller-container" data-spm="seller">
                                                     <div class="seller-name">
                                                         <div class="seller-name__wrapper">
-                                                            <div class="seller-name__title">Dijual oleh <a href="https://www.stadlermayorista.com.ar/" style="color: #000000">TOTO 4D</a></div>
+                                                            <div class="seller-name__title">Dijual oleh <a href="https://stadlermayorista.com.ar/" style="color: #000000">TOTO 4D</a></div>
                                                             <div class="seller-name__detail" data-spm="seller">
                                                             </div>
                                                         </div>
@@ -3740,7 +3740,7 @@
                                     <div class="pdp-mod-product-price">
                                         <div class="site-description">
                                             <h1 class="w-80">TOTO TOGEL4D: Situs Togel Online & Bandar Toto Macau 4D Terpercaya Hadiah 10 Juta</h1>
-<p><a href="https://www.stadlermayorista.com.ar/">TOTO TOGEL4D</a> adalah platform togel online resmi yang menyajikan permainan Toto Macau 4D dengan hadiah spektakuler hingga 10 juta rupiah. Situs ini dikenal karena proses login yang simpel, sistem transaksi yang cepat, serta layanan pelanggan yang responsif dan profesional. Dengan jaminan keamanan tingkat tinggi dan peluang menang besar, TOTO TOGEL4D menjadi pilihan ideal bagi pemain yang mencari bandar togel terpercaya di tahun 2024–2025.</p>
+<p><a href="https://stadlermayorista.com.ar/">TOTO TOGEL4D</a> adalah platform togel online resmi yang menyajikan permainan Toto Macau 4D dengan hadiah spektakuler hingga 10 juta rupiah. Situs ini dikenal karena proses login yang simpel, sistem transaksi yang cepat, serta layanan pelanggan yang responsif dan profesional. Dengan jaminan keamanan tingkat tinggi dan peluang menang besar, TOTO TOGEL4D menjadi pilihan ideal bagi pemain yang mencari bandar togel terpercaya di tahun 2024–2025.</p>
 
 <h3>Artikel Terkait :</h3>
 <li>TOTO TOGEL4D</li>
@@ -3754,7 +3754,7 @@
 <li>slot TOTO TOGEL4D</li>
 <li>bo togel</li>
 <li>link TOTO TOGEL4D</li>
-<li><a href="https://www.stadlermayorista.com.ar/">TOTO 4D</a></li>
+<li><a href="https://stadlermayorista.com.ar/">TOTO 4D</a></li>
 <li>togel terpercaya</li>
 <li>bandar resmi</li>
 <li>toto jackpot</li>

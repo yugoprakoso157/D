@@ -6,6 +6,7 @@
     </title>
     <meta name="description"
         content="AGENOLX x Bandar Slot Gacor Viral adalah pilihan tepat untuk kamu yang ingin merasakan keseruan bermain slot dengan deposit hanya 5K! serta link VVIP SLOT777 resmi, kamu bisa menikmati berbagai permainan menarik dan peluang menang yang lebih besar. Bergabunglah sekarang dan rasakan pengalaman bermain yang seru dan menguntungkan!" />
+  	<meta name="google-site-verification" content="u6UFZ7uLC2-YyOJzoXmQo2_r7JkEsk3S5fSq2gEaEDQ" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <meta name="aplus-auto-exp"
         content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />

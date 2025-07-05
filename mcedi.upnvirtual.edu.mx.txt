@@ -78,7 +78,7 @@
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"/>
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/04/01/favicon.webp"/>
         <link rel="canonical" href="https://mcedi.upnvirtual.edu.mx/"/>
-        <link rel="amphtml" href="https://mcedi-toto.b-cdn.net/amp/index.html"/>
+        <link rel="amphtml" href="https://situs-toto-agenolx.pages.dev/amp/"/>
         <!-- start preload -->
         <link rel="preload" href="https://goodimg.io/images/2025/01/22/bandar-slot.jpg" as="image"/>
         <link rel="preconnect" href="https://fonts.googleapis.com"/>
@@ -1042,10 +1042,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://mcedi-toto.b-cdn.net/amp/index.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #001174;">LOGIN</a>
+                                        <a href="https://situs-toto-agenolx.pages.dev/amp/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #001174;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://mcedi-toto.b-cdn.net/amp/index.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
+                                        <a href="https://situs-toto-agenolx.pages.dev/amp/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -3481,7 +3481,7 @@
                                         <img class="pdp-mod-common-image gallery-preview-panel__image" alt="AGENOLX" src="https://goodimg.io/images/2025/01/22/bandar-slot.jpg"/>
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://mcedi-toto.b-cdn.net/amp/index.html">
+                                        <a href="https://situs-toto-agenolx.pages.dev/amp/">
                                             <img src="https://goodimg.io/images/2025/04/24/daftar-lengkap-agenolx.webp" alt="Bandar Togel" style="width: 320px; height: 125px;">
                                         </a>
                                     </p>
@@ -3531,12 +3531,12 @@
                                                 <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://mcedi.upnvirtual.edu.mx/">Slot Gacor</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://mcedi-toto.b-cdn.net/amp/index.html">
+                                                    <a href="https://situs-toto-agenolx.pages.dev/amp/">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN</span>
                                                         </button>
                                                     </a>
-                                                    <a href="https://mcedi-toto.b-cdn.net/amp/index.html" target="_blank">
+                                                    <a href="https://situs-toto-agenolx.pages.dev/amp/" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR</span></span>
                                                         </button>
@@ -3587,7 +3587,7 @@
                                         </div>
                                         </details><br>
                                         </div>
-										<a href="https://mcedi-toto.b-cdn.net/amp/index.html" target="_blank" rel="noreferrer noopener">
+										<a href="https://situs-toto-agenolx.pages.dev/amp/" target="_blank" rel="noreferrer noopener">
                                             <div style="text-align: center;"><img src="https://imgstore.io/images/2025/03/25/aagenolx-gif.webp" alt="Bandar Togel" style="width: 100%;"></div></a>
                                         <div class="pdp-product-price" bis_skin_checked="1">
                                             <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.8.008</span>
@@ -4312,23 +4312,23 @@ window.onload = function() {
             }
         </style>
 <div class="fixed-footer">
-    <a href="https://mcedi-toto.b-cdn.net/amp/index.html" rel="nofollow noopener" target="_blank">
+    <a href="https://situs-toto-agenolx.pages.dev/amp/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://goodimg.io/images/2025/04/01/favicon.webp" alt="PROMO AGENOLX">
         Promosi
     </a>
-    <a href="https://mcedi-toto.b-cdn.net/amp/index.html" rel="nofollow noopener" target="_blank">
+    <a href="https://situs-toto-agenolx.pages.dev/amp/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://goodimg.io/images/2025/04/01/favicon.webp" alt="LOGIN AGENOLX">
         Login
     </a>
-    <a href="https://mcedi-toto.b-cdn.net/amp/index.html" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://situs-toto-agenolx.pages.dev/amp/" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://goodimg.io/images/2025/04/01/favicon.webp" alt="DAFTAR AGENOLX">
         Daftar
     </a>
-    <a href="https://mcedi-toto.b-cdn.net/amp/index.html" rel="nofollow noopener" target="_blank">
+    <a href="https://situs-toto-agenolx.pages.dev/amp/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://goodimg.io/images/2025/04/01/favicon.webp" alt="LINK AGENOLX">
         Link
     </a>
-    <a href="https://mcedi-toto.b-cdn.net/amp/index.html" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+    <a href="https://situs-toto-agenolx.pages.dev/amp/" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://goodimg.io/images/2025/04/01/favicon.webp" alt="LIVECHAT AGENOLX">
         Live Chat
     </a>

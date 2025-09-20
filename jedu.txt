@@ -8,7 +8,7 @@
 
 <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://jedu-toto.b-cdn.net/amp/">
+<link rel="amphtml" href="https://jedu-toto.pages.dev/amp/">
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -1366,11 +1366,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://jedu-toto.b-cdn.net/amp/">
+                <a class="off-canvas-right__link" href="https://jedu-toto.pages.dev/amp/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://jedu-toto.b-cdn.net/amp/">
+                <a class="off-canvas-right__link" href="https://jedu-toto.pages.dev/amp/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1985,7 +1985,7 @@
 
 
                                             <a target="_blank"
-                                                href="https://jedu-toto.b-cdn.net/amp/"><img
+                                                href="https://jedu-toto.pages.dev/amp/"><img
                                                     alt="AGENOLX : Link Promo Daftar Situs Toto Slot Togel 4D - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://goodimg.io/images/2025/09/11/ADS-AGENOLX-MARUK-4.jpg"
@@ -2061,14 +2061,14 @@
                                                 <div id="fullscreen" class="item-preview__preview-buttons"
                                                     bis_skin_checked="1">
 
-                                                    <a href="https://jedu-toto.b-cdn.net/amp/"
+                                                    <a href="https://jedu-toto.pages.dev/amp/"
                                                         role="button" class="btn-icon live-preview" target="_blank"
                                                         rel="noopener nofollow">
                                                         LOGIN
                                                     </a>
 
                                                     <a data-view="screenshotGallery"
-                                                        href="https://jedu-toto.b-cdn.net/amp/"
+                                                        href="https://jedu-toto.pages.dev/amp/"
                                                         role="button" class="btn-icon screenshots" target="_blank"
                                                         rel="noopener">
                                                         DAFTAR

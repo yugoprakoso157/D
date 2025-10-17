@@ -1,11 +1,11 @@
-# Gunakan image PHP bawaan dengan Apache
+# Gunakan image PHP resmi
 FROM php:8.2-apache
 
-# Copy semua file ke dalam container
+# Copy semua file project ke direktori web Apache
 COPY . /var/www/html/
 
-# Buka port 10000 (harus sama seperti di Render)
-EXPOSE 10000
+# Buka port default web server
+EXPOSE 80
 
-# Jalankan PHP built-in server di port 10000
-CMD ["php", "-S", "0.0.0.0:10000", "-t", "/var/www/html"]
+# Jalankan Apache
+CMD ["apache2-foreground"]

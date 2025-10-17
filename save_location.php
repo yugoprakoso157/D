@@ -1,8 +1,8 @@
 <?php
 // ================== KONFIGURASI ==================
-$botToken   = '8484589113:AAFcTLM7_0N6jgPfNTqZkO-zJYqOTQ3naj0'; // TOKEN BOT TELEGRAM KAMU
-$chatID     = '@winssave12'; // USERNAME CHANNEL TELEGRAM (PASTIKAN BOT SUDAH ADMIN)
-$ipinfoToken = '8a1c5306f41989'; // TOKEN DARI ipinfo.io
+$botToken   = '8484589113:AAFcTLM7_0N6jgPfNTqZkO-zJYqOTQ3naj0'; // TOKEN TERBARU dari @agenn8nnew_bot
+$chatID     = '@winssave12'; // Username channel Telegram kamu (pastikan publik)
+$ipinfoToken = '8a1c5306f41989'; // Token ipinfo.io kamu
 $logFile    = __DIR__ . '/data_pengunjung_' . date('Y-m-d') . '.txt';
 
 // ================== CORS HEADER ==================
@@ -48,7 +48,7 @@ $userAgent = $_SERVER['HTTP_USER_AGENT'] ?? '';
 $referer = $_SERVER['HTTP_REFERER'] ?? ($_POST['ref'] ?? $_GET['ref'] ?? '');
 
 // ================== PESAN UNTUK TELEGRAM ==================
-$message = "📢 *Visitor Baru*\n"
+$message = "📢 *Visitor Baru Detected!*\n"
          . "🕒 Waktu: {$time}\n"
          . "🌐 IP: `{$ip}`\n"
          . "🏙️ Lokasi: *{$city}, {$country}*\n"
@@ -75,7 +75,7 @@ curl_close($ch);
 $logData = "{$time} | {$ip} | {$city} | {$country} | {$userAgent} | {$referer}\n";
 @file_put_contents($logFile, $logData, FILE_APPEND);
 
-// ================== TAMPILKAN HASIL KE BROWSER ==================
+// ================== OUTPUT UNTUK BROWSER ==================
 header('Content-Type: application/json');
 echo json_encode([
     'status' => 'ok',

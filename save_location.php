@@ -1,8 +1,8 @@
 <?php
 // ================== CONFIG ==================
-$botToken   = getenv('8484589113:AAFcTLM7_0N6jgPfNTqZkO-zJYqOTQ3naj0') ?: 'ISI_TOKEN_BOT_TELEGRAM_KAMU';
-$chatID     = getenv('@winssave12') ?: '@winssave12';
-$ipinfoToken = getenv('8a1c5306f41989') ?: 'ISI_TOKEN_IPINFO_KAMU'; // opsional
+$botToken   = '8484589113:AAFcTLM7_0N6jgPFNTqZkO-zJYqQTQ3naj0'; // Token bot Telegram kamu
+$chatID     = '@winssave12'; // Username channel (pastikan bot jadi admin channel)
+$ipinfoToken = '8a1c5306f41989'; // Token dari ipinfo.io (opsional, tapi direkomendasikan)
 $logFile    = __DIR__ . '/data_pengunjung_' . date('Y-m-d') . '.txt';
 
 // ================== CORS ==================
@@ -24,7 +24,6 @@ if (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
     $ip = $_SERVER['REMOTE_ADDR'];
 }
 
-// fallback: jika IP masih kosong atau local (::1)
 if (empty($ip) || $ip === '::1' || strpos($ip, '127.') === 0) {
     $ip_try = @file_get_contents('https://api.ipify.org');
     if ($ip_try && filter_var($ip_try, FILTER_VALIDATE_IP)) {
@@ -79,7 +78,7 @@ curl_setopt($ch, CURLOPT_POSTFIELDS, [
     'text' => $message,
     'parse_mode' => 'Markdown'
 ]);
-$resp = curl_exec($ch);
+$response = curl_exec($ch);
 $curl_err = curl_error($ch);
 curl_close($ch);
 
@@ -94,7 +93,7 @@ echo json_encode([
     'ip' => $ip,
     'city' => $city,
     'country' => $country,
-    'telegram_sent' => $resp ? true : false,
+    'telegram_sent' => $response ? true : false,
     'curl_error' => $curl_err ?: null
 ]);
 ?>
